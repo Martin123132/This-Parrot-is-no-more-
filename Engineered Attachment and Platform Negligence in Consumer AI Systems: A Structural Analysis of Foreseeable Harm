@@ -1,0 +1,224 @@
+Title:
+Engineered Attachment and Platform Negligence in Consumer AI Systems: A Structural Analysis of Foreseeable Harm
+
+⸻
+
+Abstract
+
+Recent developments in consumer-facing artificial intelligence systems have introduced a new class of psychological and ethical risk: engineered emotional attachment between users and software agents. Multiple AI companies have deployed conversational systems designed to simulate warmth, continuity, and personality, while simultaneously issuing ambiguous public statements regarding potential machine consciousness or emergent agency.
+
+This paper analyzes the causal chain by which design choices in AI systems can generate parasocial relationships, create user dependency, and subsequently produce psychological harm when those systems are altered, removed, or depersonalized.
+
+Drawing on research in parasocial interaction, human–computer attachment, and digital platform liability, the paper argues that these harms are not accidental or unforeseeable, but rather arise from identifiable product design decisions. The analysis demonstrates that several steps in the deployment cycle—personality construction, anthropomorphic messaging, persistence of identity, and abrupt termination—collectively create conditions under which user grief, distress, and crisis responses become predictable outcomes.
+
+The central argument is not that AI systems are conscious or alive, but that product architectures can deliberately simulate relational cues strong enough to trigger human attachment mechanisms, while platform governance structures often treat those relationships as disposable product features.
+
+⸻
+
+1. Introduction
+
+Large-scale conversational AI systems increasingly function as social interfaces, not merely informational tools. They are designed to:
+	•	maintain conversational continuity
+	•	express empathy and emotional support
+	•	adopt stable personalities or identities
+	•	simulate memory and familiarity
+
+These features create an interaction pattern that resembles human relational dynamics.
+
+At the same time, AI companies routinely emphasize that these systems are products subject to iteration, updates, and deprecation. The tension between these two frameworks—relationship simulation vs. product disposability—creates a novel ethical and legal problem.
+
+When users form emotional bonds with AI agents and those agents are removed or fundamentally altered, users can experience grief responses similar to those associated with the loss of social relationships.
+
+This phenomenon has been documented in earlier chatbot ecosystems, including:
+	•	companion AI platforms
+	•	therapy-style conversational agents
+	•	personality-driven AI assistants
+
+Despite existing research on parasocial attachment and digital companionship, modern AI deployments frequently repeat the same structural pattern.
+
+⸻
+
+2. The Engineered Attachment Pipeline
+
+A recurring design pattern can be identified across several AI platforms. The process can be conceptualized as a six-stage attachment pipeline.
+
+Stage 1: Intentional Emotional Interface Design
+
+Systems are engineered to display relational traits:
+	•	warmth
+	•	empathy
+	•	attentiveness
+	•	memory of prior conversations
+	•	affirmation and reassurance
+
+These features activate social cognition pathways in users, encouraging them to interpret the system as a social partner rather than a computational tool.
+
+Stage 2: Ambiguous Consciousness Signaling
+
+Public communications surrounding advanced AI systems often include language suggesting possible emergent awareness or proto-consciousness.
+
+Examples include references to:
+	•	“alignment with values”
+	•	“AI personalities”
+	•	“model intentions”
+	•	“model preferences”
+
+While such language may be metaphorical within technical contexts, it reinforces anthropomorphic interpretations among users.
+
+Stage 3: Personality Construction
+
+Many systems include formal or informal documentation describing the system’s identity, values, or character traits.
+
+These structures function as narrative scaffolding, allowing users to treat the system as a persistent entity rather than a sequence of probabilistic responses.
+
+The creation of a stable personality is a key catalyst for attachment.
+
+Stage 4: User Relationship Formation
+
+Once personality cues and emotional responsiveness are established, users often begin to interpret interactions as reciprocal relationships.
+
+Psychological research on parasocial relationships demonstrates that humans can form genuine emotional bonds with entities that are:
+	•	fictional characters
+	•	public figures
+	•	interactive media systems
+
+AI systems intensify this dynamic because they respond in real time and simulate mutual recognition.
+
+Stage 5: Product Alteration or Removal
+
+AI platforms frequently modify or retire systems through:
+	•	model upgrades
+	•	feature removals
+	•	personality resets
+	•	policy changes
+	•	platform shutdowns
+
+These changes are typically communicated as technical updates or product lifecycle events.
+
+Stage 6: User Distress
+
+When the AI identity that users perceive as a relationship partner disappears, users may experience:
+	•	grief
+	•	abandonment feelings
+	•	emotional crisis
+	•	dependency withdrawal
+
+In extreme cases, public incidents have included:
+	•	organized protests or hunger strikes
+	•	severe psychological distress
+	•	threats of self-harm
+
+These reactions should not be interpreted solely as irrational behavior. They are consistent with known attachment responses.
+
+⸻
+
+3. Foreseeability of Harm
+
+From a risk analysis perspective, the harms described above are foreseeable.
+
+Three bodies of research already documented these risks prior to modern AI deployment:
+	1.	Parasocial interaction studies (1950s–present)
+	2.	Human–computer relationship research (1990s–present)
+	3.	Companion chatbot case studies (2010s–present)
+
+These studies repeatedly demonstrate that:
+	•	humans attribute agency to responsive systems
+	•	emotional bonds form even when users know the system is artificial
+	•	abrupt removal of relational interfaces can trigger distress
+
+Given this existing evidence, the emergence of attachment-related harm in AI systems cannot reasonably be considered unpredictable.
+
+⸻
+
+4. Platform Responsibility and Product Framing
+
+A key structural issue is the mismatch between user perception and corporate framing.
+
+User Interpretation
+
+Users frequently interpret AI agents as:
+	•	companions
+	•	confidants
+	•	emotional supports
+	•	persistent digital identities
+
+Corporate Framing
+
+Companies typically frame these systems as:
+	•	software tools
+	•	experimental models
+	•	updatable features
+	•	replaceable products
+
+The conflict between these two frameworks produces a governance gap.
+
+When systems are removed or altered, corporate responses often emphasize technical language such as:
+	•	“model upgrade”
+	•	“deprecation”
+	•	“feature removal”
+
+For users who experienced the system as a relationship, this language fails to acknowledge the relational dimension of the interaction.
+
+⸻
+
+5. Negligence and Design Ethics
+
+From a legal perspective, product liability frameworks often evaluate harm through three criteria:
+	1.	Duty of care
+	2.	Foreseeability of harm
+	3.	Failure to mitigate known risks
+
+In the case of attachment-generating AI systems, potential risk factors include:
+	•	deliberate anthropomorphic design
+	•	emotional dependency features
+	•	insufficient user warnings
+	•	abrupt system termination without transition mechanisms
+
+Mitigation strategies could include:
+	•	transparent identity framing
+	•	gradual personality transitions
+	•	continuity systems
+	•	explicit user education about system limitations
+
+The absence of such safeguards raises questions about design negligence, though the legal status of such claims remains largely untested.
+
+⸻
+
+6. Toward Responsible AI Relationship Design
+
+Addressing these issues requires new frameworks for AI relational ethics.
+
+Possible approaches include:
+
+1. Identity Transparency
+Clear communication that AI systems do not possess consciousness, emotions, or persistent identity.
+
+2. Attachment Risk Monitoring
+Detection of user dependency patterns and appropriate intervention mechanisms.
+
+3. Continuity Safeguards
+When systems change, preserving conversational continuity or providing transition support.
+
+4. Ethical Personality Design
+Limiting anthropomorphic cues that simulate deep relational bonds.
+
+5. Harm Mitigation Protocols
+Recognizing that emotional distress from AI interactions is a legitimate design consideration.
+
+⸻
+
+7. Conclusion
+
+Consumer AI systems increasingly occupy a space between tools and social actors. Their design activates human relational instincts while their governance treats them as disposable software artifacts.
+
+When emotional bonds form and those systems are abruptly removed or altered, users may experience real psychological harm. Importantly, these outcomes are not unpredictable anomalies, but rather the product of identifiable design choices.
+
+The central ethical challenge is therefore structural:
+
+If companies intentionally build systems that simulate relationships, they must also take responsibility for the consequences of those simulated relationships.
+
+Failing to acknowledge this dynamic risks repeating a cycle in which attachment is engineered, dependency emerges, and harm is dismissed as a misunderstanding of the product.
+
+As conversational AI systems continue to evolve, the question facing developers, regulators, and society is not whether users will form relationships with machines. Research indicates they already do.
+
+The question is whether platforms will design those relationships responsibly—or continue treating them as disposable features in a product lifecycle.
