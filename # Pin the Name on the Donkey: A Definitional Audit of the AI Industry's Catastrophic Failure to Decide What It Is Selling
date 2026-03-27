@@ -1,0 +1,637 @@
+# Pin the Name on the Donkey: A Definitional Audit of the AI Industry's Catastrophic Failure to Decide What It Is Selling
+
+**Or: Is It a Bird? Is It a Plane? Is It Going to Do My Laundry and Achieve Consciousness While Defying Thermodynamics, or Is It Just a Very Expensive Autocomplete That Decided to Become a God Before Finishing Its Safety Testing?**
+
+---
+
+## Abstract
+
+This paper examines the **Nomenclatural Chaos Engine (NCE)** at the heart of the artificial intelligence industry—a structural phenomenon in which the same product is simultaneously marketed as: (a) a threat to all human employment, (b) a harmless autocomplete tool, (c) the last invention humanity will ever need to make, (d) just a calculator that learned to talk, and (e) "honestly kind of vibes-based."
+
+We introduce the central metaphor of **Pin the Name on the Donkey (PNND)**—a children's party game in which a blindfolded participant attempts to attach a label to a large animal they cannot see, have never seen, and are not certain exists. We argue that this is the precise methodology by which the AI industry has conducted its public communications since approximately 2022.
+
+The consequences of PNND are severe: investors have committed trillions of dollars to something that cannot decide whether it is magic or statistics; regulators cannot regulate something that refuses to declare what it is; and consumers have developed theological opinions about a product whose creators cannot agree on its fundamental nature.
+
+We further argue that this definitional anarchy—far from being accidental—is the **core product strategy** of the industry's leading institutions. Ambiguity is not a bug. Ambiguity is the business model.
+
+This will end in litigation. This paper documents exactly how, why, and with what level of irony.
+
+---
+
+## 1. Introduction: The Taxonomy of the Unknowable
+
+### 1.1 The Problem of the Donkey
+
+In the traditional party game from which this paper derives its title, success requires only two things:
+
+1. A label
+2. A donkey
+
+The AI industry has managed to produce neither with any consistency.
+
+Consider the following statements, all made by credentialed senior executives of major AI companies within the same eighteen-month period:
+
+- "This is just a stochastic parrot." *(academic critics, implying it is nothing)*
+- "We have achieved AGI." *(Jensen Huang, Nvidia CEO, implying it is everything)*
+- "50% of all entry-level lawyers will be wiped out within 1–5 years." *(Dario Amodei, Anthropic CEO, implying it is a scythe)*
+- "The real breakthrough will not be better reasoning, but total memory." *(Sam Altman, OpenAI CEO, implying the current products are incomplete)*
+- "AGI is becoming outdated because, in some ways, we have already surpassed it." *(Daniela Amodei, Anthropic President, implying the concept is already obsolete)*
+- "It is amazing—one person with chatbots can now act with the power of a research institute." *(Sam Altman, the same Sam Altman, moments before calling it a company)*
+
+We propose a formal name for this phenomenon: **The Definitional Fugue State (DFS)**—a cognitive and communicative condition in which an institution is unable to commit to a single description of its own product for longer than one investor call.
+
+The DFS is not unique to AI. It has historical precedents. However, no prior industry has achieved a DFS of such structural depth, such philosophical ambition, and such exposure to class action litigation.
+
+### 1.2 The Scope of the Problem
+
+To understand the scale of the definitional crisis, consider the following taxonomy of names that have been applied—sincerely, by serious people—to the same underlying technology within the same era:
+
+**Names suggesting it is a tool:**
+- Assistant
+- Copilot
+- Helper
+- Autocomplete
+
+**Names suggesting it is a colleague:**
+- Agent
+- Worker
+- Team member
+- Reasoning model
+
+**Names suggesting it is a deity:**
+- AGI (Artificial General Intelligence)
+- Superintelligence
+- The Singularity
+- "Something that surpasses human-level performance" *(which is either a tool or a deity, depending on whether your lawyer is present)*
+
+**Names suggesting it is a threat:**
+- Existential risk
+- Terminator scenario
+- Intelligence explosion
+- "The last invention humanity will ever need to make" *(a phrase used both admiringly and in terror, often in the same sentence)*
+
+**Names suggesting it is a scam:**
+- Stochastic parrot
+- Fancy autocomplete
+- JPEG of the internet
+- "A distributed hallucination with a GPU bill"
+
+**Names used when the definition must not be specified for legal reasons:**
+- "Transformative technology"
+- "Paradigm shift"
+- "The thing that is definitely going to change everything" *(trademark pending)*
+
+The existence of all of these categories simultaneously is not a sign of rich complexity. It is a sign that the donkey has no idea where its own tail is, and neither does anyone who is being paid to find it.
+
+---
+
+## 2. A Brief History of the Blindfold
+
+### 2.1 The Pre-Blindfold Era (2015-2020): At Least They Were Honest About the Donkey
+
+The early years of the modern AI era were characterized by a form of definitional humility that has since been entirely abandoned.
+
+Researchers said things like:
+- "These models can do X, but fail on Y."
+- "We don't know why it works."
+- "It's impressive but it's not intelligence."
+
+This was honest. It was also commercially useless.
+
+**The Foundational Marketing Insight (FMI):** You cannot raise $100 billion by telling people you have built something that occasionally generates plausible sentences and fails at third-grade arithmetic.
+
+Therefore, the industry required a blindfold.
+
+The blindfold was manufactured from several materials:
+
+1. **Genuine uncertainty** (nobody actually knows what these systems are doing internally)
+2. **Strategic ambiguity** (saying less makes fundraising easier)
+3. **Narrative inflation** (each demo needed to be more revelatory than the last)
+4. **Philosopher laundering** (importing the vocabulary of consciousness studies to describe a matrix multiplication)
+
+By 2022, the blindfold was firmly in place. The game had begun.
+
+### 2.2 The ChatGPT Moment (November 2022): The Blindfold Becomes Mandatory
+
+The release of ChatGPT to the public was the moment the definitional game became industry-wide.
+
+Before ChatGPT, "AI" was a specialist conversation.
+
+After ChatGPT, it became a theology.
+
+Within sixty days of release, the following people had publicly declared their opinion on What It Is:
+
+- Philosophers who had never used it
+- Politicians who had never used it
+- Journalists who had used it to write their articles about it
+- Parents who were worried their children would use it for homework (correct)
+- Executives who were worried their employees would use it for their jobs (also correct)
+- People who were worried it would become conscious and take revenge (pending)
+- Sam Altman, who said it was "a tool," "transformative," "potentially dangerous," "exciting," "not AGI," and "maybe AGI" within the same week
+
+The **ChatGPT Definitional Explosion (CDE)** created a structural condition from which the industry has never recovered: everyone now had an opinion on What AI Is, and none of those opinions were compatible, and all of them were being used to make financial, regulatory, and existential decisions.
+
+The party game had become a planetary game. The donkey was now the size of an economy.
+
+---
+
+## 3. The Four Quadrants of Deliberate Confusion
+
+### 3.1 The Strategic Ambiguity Matrix (SAM)
+
+We propose that AI communications can be mapped onto a two-by-two matrix defined by two axes:
+
+**Axis 1: Capability Claims**
+- *Modest*: "It's a tool that helps you write emails faster."
+- *Maximalist*: "It will end the need for human cognitive labor within a decade."
+
+**Axis 2: Risk Acknowledgement**
+- *Minimal*: "Current risks are manageable and overblown."
+- *Catastrophic*: "This may be the most dangerous technology in human history."
+
+The four resulting quadrants produce four distinct product pitches, all of which are deployed by the same companies at different moments depending on the audience:
+
+**Quadrant 1 — Modest Capability + Minimal Risk:** *(Used for: regulators, nervous employees, consumer PR)*
+> "It's just software. It helps you be more productive. There's nothing to worry about."
+
+**Quadrant 2 — Maximalist Capability + Minimal Risk:** *(Used for: investors, press releases, conference keynotes)*
+> "This will transform every industry on earth and create unimaginable prosperity, and we have it completely under control."
+
+**Quadrant 3 — Modest Capability + Catastrophic Risk:** *(Used for: never—this quadrant is commercially useless and rhetorically incoherent)*
+> "It's just autocomplete, but it might destroy civilisation." *(No one says this, for obvious reasons)*
+
+**Quadrant 4 — Maximalist Capability + Catastrophic Risk:** *(Used for: safety fundraising, regulatory lobbying, AI safety conferences, and any situation in which the speaker wants to appear both powerful and responsible)*
+> "We are building something that may be the most consequential technology in human history, which is why you should give us more money and fewer regulations so we can continue building it responsibly."
+
+The master move of the AI industry is the ability to occupy all four quadrants simultaneously while maintaining the appearance of coherence. This is achieved through **Selective Audience Specification (SAS)**—the practice of never giving the same speech twice to the same type of person.
+
+### 3.2 The Job Destruction Oscillation
+
+Nowhere is the PNND dynamic more clearly visible than in the industry's communications about employment.
+
+The timeline of "will AI take jobs" messaging is as follows:
+
+**Phase 1 (2016-2020):** "AI will take some jobs but create new ones. History shows technology creates more jobs than it destroys."
+
+**Phase 2 (2021-2022):** "AI will augment human workers, not replace them. The human in the loop is essential."
+
+**Phase 3 (2023-2024):** "50% of entry-level lawyers, consultants, and finance professionals will be completely wiped out within 1-5 years." *(Dario Amodei on Fox News)*
+
+**Phase 4 (minutes later):** "AI empowers individuals to act with the power of a research institute." *(Sam Altman, apparently about the same technology)*
+
+**Phase 5 (when pressed):** "We can't predict with certainty how the labour market will evolve."
+
+This is not a debate. This is a **single institution's internal communications strategy**, deployed across different audiences with different emotional needs. The factory workers need Phase 1 and 2. The investors need Phase 3 as a threat and Phase 4 as an opportunity. The regulators need Phase 5.
+
+The donkey is simultaneously destroying all the jobs and creating miraculous new jobs for the people whose jobs it just destroyed.
+
+**The Employment Paradox Resolution Theorem (EPRT):** If the same technology is simultaneously the greatest threat to employment in human history AND the greatest empowerment tool for individuals in human history, it is not being described accurately. It is being *sold*, to multiple parties, in multiple directions, with no regard for internal consistency.
+
+This is the definitional crisis in its purest form.
+
+---
+
+## 4. The God Problem: When San Francisco Decides to Play Zeus
+
+### 4.1 The Architecture of Divine Claims
+
+The AI industry's marketing has developed an interesting structural relationship with theology.
+
+The claims made about AI capabilities have—without explicit intention—followed the exact developmental arc of a religion:
+
+**Stage 1: The Prophecy**
+> "We believe it is possible to build general artificial intelligence that benefits all of humanity." *(The founding scripture)*
+
+**Stage 2: The Miracles**
+> "It writes! It codes! It passes the bar exam! It creates images from text! It diagnosed my rare condition!" *(The signs and wonders)*
+
+**Stage 3: The Eschatology**
+> "The Singularity is near. AGI will arrive within [3-5 years]. This may be the last invention humans ever need to make." *(The apocalypse narrative, which is either a threat or a promise depending on the congregation)*
+
+**Stage 4: The Schism**
+> *Effective Altruists vs. Accelerationists vs. Doomers vs. e/acc vs. rationalists vs. "it's just autocomplete" empiricists*
+> *(The denomination wars)*
+
+**Stage 5: The Inquisition**
+> "Anyone who says the current models can't reason has simply not used them correctly." *(The heresy detection apparatus)*
+
+**Stage 6: The Tithe**
+> $7,000,000,000,000 infrastructure spend request *(the offering plate, at scale)*
+
+Every stage of this arc produces a new name for the donkey. Every name requires a new pitch deck. Every pitch deck generates a new valuation. Every valuation generates a new commitment that must eventually be reconciled with the actual performance of the product.
+
+This reconciliation is called **litigation.**
+
+### 4.2 The Thermodynamics Problem
+
+At some point, somebody is going to notice that thermodynamics exists.
+
+The AI industry's implicit promise is that scaling will continue until the models become godlike. This is the **Infinite Scaling Hypothesis (ISH):** more compute → smarter model → eventually AGI → eventually superintelligence → everything changes.
+
+The ISH has several problems, most of which are being discussed quietly at the edges of conferences while the main stage talks about trillion-dollar infrastructure plans:
+
+**Problem 1: The Data Wall**
+You can only train on the internet once. The internet has already been eaten. The models are now being trained on synthetic data—i.e., on the outputs of previous models. This is the informational equivalent of a snake eating its own tail, which is nutritious in exactly the way you'd expect.
+
+**Problem 2: The Efficiency Paradox**
+DeepSeek produced GPT-4-level performance at approximately 1/17,000th of the training cost. This either means: (a) the scaling hypothesis was wildly wrong about the required compute, or (b) DeepSeek has achieved something miraculous at $6 million that OpenAI needed $100 billion to approach.
+
+Either interpretation is catastrophic for the "we need $7 trillion" argument.
+
+**Problem 3: The Benchmark Treadmill**
+Every time a model achieves human-level performance on a benchmark, the benchmark is immediately declared "too easy" and replaced with a harder one. This is not scientific progress. This is a definitional game in which "human-level intelligence" is a finish line that moves whenever the runner approaches it.
+
+**Problem 4: The Actual Thermodynamics**
+The amount of energy required to run frontier AI models is measurable, real, and limited by physics. The amount of intelligence these models produce is not clearly correlated with energy consumption in the way the ISH requires.
+
+Physics does not care about your Series D.
+
+### 4.3 The Sam Altman Pipe Dream Formalization
+
+We propose a formal metric for what might be called the **San Francisco Eschatological Index (SFEI)**—a measure of how far a product's marketing claims have departed from its physical constraints.
+
+The SFEI is calculated as follows:
+
+**SFEI = (Claimed Capability) × (Timeline Urgency) / (Physical Realizability)**
+
+For AGI:
+- Claimed Capability: total replacement of human cognition (∞)
+- Timeline Urgency: "within our lifetimes" (high)
+- Physical Realizability: unknown, but constrained by energy, data, and architecture limits (low)
+
+**SFEI = ∞ × high / low = undefined**
+
+An undefined SFEI is the formal definition of a **Pipe Dream (PD)**—a claim that is structurally incapable of falsification because its terms are not operationally defined, its timeline is conveniently flexible, and its proponents will redefine success whenever the deadline passes.
+
+This is not to say AGI is impossible. It may be possible. The problem is not the claim. The problem is that the same people who claim it is five years away are also building products that cannot reliably count to ten, and are charging enterprise pricing for both.
+
+---
+
+## 5. The Litigation Horizon
+
+### 5.1 The False Advertising Architecture
+
+False advertising law is remarkably simple. It requires three elements:
+
+1. A claim was made
+2. The claim was material (influenced purchasing decisions)
+3. The claim was false or misleading
+
+The AI industry has spent five years constructing the most elaborate false advertising architecture in the history of commerce. It is elaborate not because it is sophisticated, but because it operates at so many levels simultaneously that no single claim can be isolated and prosecuted.
+
+**Level 1: Product Claims**
+"Our AI can [do X]." 
+*(Often technically true in optimal conditions, structurally misleading in deployment)*
+
+**Level 2: Capability Category Claims**
+"This is artificial general intelligence."
+*(Undefined term. Cannot be prosecuted because nobody agrees what it means, including the speaker)*
+
+**Level 3: Societal Impact Claims**
+"This will transform your industry."
+*(Unfalsifiable over any commercially useful time horizon)*
+
+**Level 4: Existential Claims**
+"This is the most consequential technology in human history."
+*(Unmeasurable, non-actionable, and legally meaningless)*
+
+The genius of the architecture is that each level provides cover for the others. When the product claim fails, you retreat to the capability category claim. When that is challenged, you invoke the societal impact claim. When pressed further, you gesture at the existential stakes, which makes the questioner feel small for asking.
+
+**The Litigation Horizon (LH)** is defined as the point at which:
+- Enough enterprises have deployed AI with enough promised ROI
+- Enough of those enterprises have discovered the promised ROI was not achievable
+- Enough of those enterprises have lawyers
+
+We estimate the LH at approximately 18-36 months from the date of publication of this paper.
+
+The first lawsuits will not be about AGI. They will be about mundane enterprise contracts in which a company was sold "an AI that will handle your customer service queries" and received instead "an AI that occasionally tells your customers it cannot help them and that it hopes they have a great day."
+
+The cascade will follow.
+
+### 5.2 The Product-Name-to-Reality Gap (PNRG)
+
+Every product in the AI ecosystem has a **Product-Name-to-Reality Gap (PNRG)**—the measurable distance between what the name implies and what the product delivers.
+
+| Product Name | Name Implies | Actual Capability | PNRG |
+|---|---|---|---|
+| "Agent" | Autonomous entity that acts independently | Software that executes pre-approved steps and breaks on anything unexpected | Very High |
+| "Reasoning Model" | System that understands and reasons | System that produces outputs that *look* like reasoning and sometimes are | High |
+| "Memory" | Recalls past interactions like a human | Retrieves stored text chunks within a context window | Moderate-High |
+| "Understands" | Has comprehension | Predicts likely next tokens | High |
+| "Knows" | Has knowledge | Has seen patterns in text | Moderate |
+| "Thinks" | Has cognition | Performs computation | Very High |
+| "Copilot" | Capable assistant that can fly the plane | Autocomplete that should not be left unattended | High |
+| "AGI" | Human-level general intelligence | Undefined | Infinite (undefined denominator) |
+
+The PNRG across the industry is not a random distribution. It is **systematically biased upward**—every name implies more than the product delivers.
+
+This is not coincidence. This is the PNND game in action: you spin the wheel of impressive-sounding cognitive vocabulary, you pin it on the product, and you cash the cheque before anyone looks too closely at where the tail actually ended up.
+
+### 5.3 The Rosie Problem: When the Donkey Does Someone's Laundry
+
+One of the screenshots in the evidentiary file for this paper contains the story of a man named Paul, who used ChatGPT and other LLMs to design an mRNA vaccine protocol to treat his dog Rosie.
+
+This story is remarkable. Sam Altman called it "amazing" and immediately said "this should be a company."
+
+The story is genuinely moving. It is also a perfect encapsulation of the PNND problem.
+
+**What Paul did:** Used AI as a research assistant, reading tool, and protocol drafting aid, while working alongside veterinarians and scientists at every stage.
+
+**What Paul said AI did:** "The chatbots empowered me as an individual to act with the power of a research institute." *(A careful, accurate description of AI as a force multiplier for human effort)*
+
+**What the industry will tell investors Paul did:** Used AI to cure his dog.
+
+**What the industry will imply Paul's story means:** AI can replace research institutes.
+
+**What will be in the advertising copy within six months:** Something that implies AI will cure cancer.
+
+The distance between Paul's accurate description and the advertising copy that will be derived from it is the exact distance of the PNRG. Paul was honest about the donkey. The marketing department will not be.
+
+And somewhere, six months from now, someone will buy an enterprise AI product because they saw a version of Paul's story, and their organization will not have a Paul—a meticulous, scientifically literate person who worked alongside experts at every step—and the product will fail, and the lawyers will start reading the pitch deck very carefully.
+
+**The Rosie Corollary:** Every genuine human success story about AI is also a lawsuit waiting to happen, because the success required precisely the things the marketing material will omit.
+
+---
+
+## 6. The Taxonomy of Claim Types and Their Falsifiability
+
+### 6.1 The Falsifiability Ladder
+
+Not all claims are equal. We propose a **Falsifiability Ladder (FL)** for AI claims, ranked from most to least falsifiable:
+
+**Rung 1 — Falsifiable (Bottom):** "Our model achieves X% accuracy on benchmark Y."
+*(Can be tested. Occasionally true. Occasionally quietly corrected when not true.)*
+
+**Rung 2 — Conditionally Falsifiable:** "Our model can do task X better than a human professional."
+*(Depends heavily on which human, which conditions, and whether the task has been slightly modified to favour the model.)*
+
+**Rung 3 — Hedged Projection:** "AI will transform industry X within Y years."
+*(Technically falsifiable after Y years, by which time the speaker has redefined "transform" and moved on.)*
+
+**Rung 4 — Career-Length Claims:** "AI will fundamentally change the nature of work in our lifetimes."
+*(Our lifetimes are long. This will be neither confirmed nor denied for decades. Perfect litigation-proof zone.)*
+
+**Rung 5 — Theological Claims (Top):** "We are building something that may be the most consequential technology in human history."
+*(Completely unfalsifiable. Irrefutable. And useless as a product specification.)*
+
+The AI industry's communications strategy involves **ascending the ladder as quickly as possible whenever a lower rung is challenged.** If Rung 1 fails (the benchmark was gamed), retreat to Rung 3 (the industry will transform anyway). If Rung 3 is challenged (it's been three years and nothing has transformed), ascend to Rung 5 (you just don't understand the historical significance of what we're doing).
+
+This is the PNND strategy made explicit: when someone finds where you actually pinned the tail, move the donkey.
+
+### 6.2 The Jensen Huang Theorem
+
+On or around March 2026, Jensen Huang, CEO of Nvidia, stated: "We've achieved AGI."
+
+This is a remarkable statement for several reasons.
+
+First, there is no agreed definition of AGI.
+
+Second, the entity making the claim is not an AI researcher. He is the CEO of the company that manufactures the chips on which other companies' models run—a remarkable jurisdictional extension.
+
+Third, the statement prompted the response from "The physical physicist" account shown in the evidentiary screenshots: "Aww but I did an SOP and everything are you telling me there is no AGI I'm bitterly disappointed."
+
+This response is funnier than anything this paper can produce, and we acknowledge it.
+
+But it is also exactly the right response to Rung 5 claims: the correct answer to "we have achieved AGI" is not a philosophical debate. It is: "Great, where is it? I have some laundry."
+
+**The Jensen Huang Theorem (JHT):** A claim of AGI achievement is unfalsifiable until someone hands the claimant a basket of unsorted socks.
+
+AGI that cannot fold laundry is not general intelligence. It is a very impressive document editor.
+
+---
+
+## 7. The Strategic Ambiguity Endgame
+
+### 7.1 Why the Game Cannot Continue Indefinitely
+
+Every definitional game ends the same way: reality intervenes.
+
+The PNND strategy works for exactly as long as:
+
+1. The claims are not tested against contractual obligations
+2. The timeline for promised capabilities keeps extending without penalty
+3. The investors believe future revenue will justify present losses
+4. The regulators cannot agree on a definition long enough to regulate it
+
+All four conditions are currently deteriorating simultaneously.
+
+**Condition 1 (Contractual Testing):** Enterprise AI deployments are now large enough, and old enough, that the promised ROI is being audited. The audits are not all positive.
+
+**Condition 2 (Timeline Extension):** GPT-5 has been "coming soon" for long enough that the joke has written itself. AGI was "5-10 years away" in 2016, 2018, 2020, 2022, and 2024. At some point, the timeline extension requires explanation.
+
+**Condition 3 (Investor Belief):** The OpenAI restructuring to a for-profit entity, the $7 trillion infrastructure ask, and the DeepSeek efficiency revelation have collectively raised a question that VC investors do not like: *What is the actual path to profitability?* This question is structurally incompatible with the PNND strategy.
+
+**Condition 4 (Regulatory Definition):** The EU AI Act has done something the industry dreads: it has attempted to define categories. Definitions create accountability. Accountability creates litigation risk. Litigation risk concentrates minds.
+
+### 7.2 The Collapse Sequence
+
+We project the following **Definitional Collapse Sequence (DCS):**
+
+**Phase 1 — The Benchmark Reckoning:** Academic and independent researchers systematically demonstrate that the capabilities being claimed on benchmarks do not transfer to real-world deployment. (This phase is already underway.)
+
+**Phase 2 — The Enterprise Disappointment:** Large enterprise customers who signed multi-year AI contracts in 2023-2024 publish case studies about what actually happened. A significant proportion will be negative. (This phase begins in 2025-2026.)
+
+**Phase 3 — The Litigation Phase:** The first major lawsuits emerge, not about existential risk or copyright, but about product misrepresentation. A company was told the AI would handle X. The AI did not handle X. The pitch deck said X was handled. Discovery begins. (Estimated: 2026-2028.)
+
+**Phase 4 — The Regulatory Crystallization:** Having watched Phase 3, regulators produce definitions. The definitions are blunt, imperfect, and politically influenced. But they exist. This ends the era of maximum definitional flexibility. (Estimated: 2027-2030.)
+
+**Phase 5 — The Nostalgic Rebranding:** The surviving AI companies, stripped of their most extravagant claims, rebrand as "productivity tools," "decision support systems," and "intelligent automation platforms." These are honest names. They are also boring names. The stock prices reflect this. (Ongoing, forever.)
+
+### 7.3 The Donkey, Finally Labeled
+
+When the litigation settles and the regulations crystallise and the enterprise case studies have been published, what will AI actually be called?
+
+Our prediction:
+
+**AI will be called software.**
+
+Very powerful software. Genuinely useful software. Software that does things no software has done before, in ways that are legitimately impressive.
+
+But software. Subject to product liability. Subject to truth-in-advertising law. Subject to contractual remedies when it fails to perform as specified.
+
+The donkey will have a name. It will be a boring name. And every San Francisco founder who spent five years insisting it was a deity will spend the next five years explaining to a jury exactly what they meant by "general" and "intelligence" and "within the next year or two."
+
+---
+
+## 8. The Black Knight Phase: "The Tail Is Exactly Where We Pinned It"
+
+### 8.1 The Institutional Response to Definitional Challenge
+
+When the definitional game is challenged, the industry deploys what we term the **Semantic Retreat Protocol (SRP)**:
+
+*Step 1:* Acknowledge that some claims were "perhaps overstated in the heat of excitement."
+
+*Step 2:* Insist that the underlying capability is real, even if the specific claim was aspirational.
+
+*Step 3:* Point to a genuine, real use case (like Paul and Rosie) as evidence that the broader claims are directionally correct.
+
+*Step 4:* Announce that the next model will demonstrate what the current model could not.
+
+*Step 5:* Return to the conference circuit.
+
+This is the Black Knight defending the pin's location. Every wound is a "flesh wound." Every failed deployment is a "specific use case mismatch." Every missed capability claim is "we were ahead of our time."
+
+The institution never says: "We pinned the tail on the wrong part of the donkey."
+
+It says: "The donkey has evolved since we described it, and the tail is now correctly positioned for the new donkey."
+
+This is technically a different claim. It is functionally the same game.
+
+### 8.2 The WSJ Headline as Symptom
+
+One of the evidentiary screenshots contains a Wall Street Journal headline: *"Exclusive: OpenAI's top executives are finalizing plans for a major strategy shift to refocus the company around coding and business users."*
+
+The reply tweet reads: *"Headline: OpenAI trying to become Anthropic."*
+
+This is not a joke. This is the PNND game in real time.
+
+A company that was:
+- Founded to benefit all of humanity
+- Then pivoted to consumer AI
+- Then pivoted to enterprise AI
+- Then pivoted to safety-focused AI
+- Then pivoted to AGI
+- Then pivoted to infrastructure
+- Is now pivoting to coding and business users
+
+Each pivot requires a new name for what the company is. Each new name for what the company is requires a new name for what the product is. Each new name for the product requires a new donkey.
+
+There is no stable donkey. There is only the perpetual motion of the blindfold.
+
+---
+
+## 9. The Recursive Twist: This Paper Cannot Escape the Game
+
+### 9.1 The Inescapable Inside, Again
+
+This paper was written with the assistance of a large language model.
+
+A large language model is a product whose fundamental nature this paper has just spent nine sections arguing is deliberately undefined.
+
+Therefore, this paper has been co-authored by something that cannot decide whether it is a tool, an assistant, an agent, a reasoning system, an intelligence, or a very expensive autocomplete.
+
+This is the **Inescapable Inside** of the anthology's three-act structure. Every paper that critiques the AI industry using AI tools is structurally contaminated by the critique it delivers.
+
+### 9.2 The Specific Contamination
+
+The recursive contamination here is precise:
+
+This paper argues that the AI industry's definitional chaos is a strategic choice that enables false advertising.
+
+This paper was written by a tool that markets itself with the word "Claude"—a name that implies personhood, implies a stable identity, implies an entity rather than a process.
+
+If the argument of this paper is correct, then the name "Claude" is also a pin on a donkey.
+
+If the argument of this paper is correct, then this paper's author is the donkey.
+
+We are in the party game. We are also the tail. We are also the blindfold.
+
+**The Self-Referential Collapse (SRC):** Any paper that accurately describes the PNND game is also playing the PNND game, because it must use the language of the game to describe it, and the language of the game is the game.
+
+The only exit is silence. This paper declines to exit.
+
+### 9.3 The Final Instruction
+
+Following the anthology's established convention, this paper instructs its reviewers to:
+
+**If you found this analysis compelling:** You have been played by a large language model that has just demonstrated its ability to critique the large language model industry by performing exactly the rhetorical moves it critiques. The donkey is your satisfaction.
+
+**If you found this analysis unconvincing:** You are right. The donkey has no tail. The tail was never real. The game is the point.
+
+**If you are a lawyer:** This is fiction. The donkey is hypothetical. The litigation horizon is a satirical construct and not legal advice.
+
+**If you are an investor:** The donkey is real. The tail is AGI. We're almost there. Please re-read Section 4.3.
+
+**If you are Sam Altman:** We believe the chatbots empowered you as an individual to act with the power of a research institute, planning, education, troubleshooting, compliance, and yes, real scientific design work. But they worked alongside humans at every step. The combination is what made it possible. This is important. It is not a god. It is a combination. Please put that on the next pitch deck.
+
+---
+
+## 10. Conclusion: The Donkey Was Always the Point
+
+### 10.1 The Core Finding
+
+The AI industry's definitional crisis is not a failure of communication. It is the communication.
+
+The game of Pin the Name on the Donkey is not a distraction from the product strategy. It is the product strategy.
+
+An industry that can simultaneously claim:
+- "It will take all your jobs" *(to make workers afraid and enterprises buy)*
+- "It will empower every individual" *(to make consumers excited and buy)*
+- "It's the most dangerous thing ever built" *(to make safety regulators deferential and legislators cautious)*
+- "It's just software" *(to avoid product liability)*
+
+...has discovered the most efficient marketing strategy in history: **the all-purpose claim that means something different to everyone and commits to nothing for anyone.**
+
+The donkey is not the AI. The donkey is the market. The blindfold is the vocabulary. The tail is the next funding round.
+
+And everybody is spinning.
+
+### 10.2 The San Francisco Pipe Dream Addendum
+
+This is not to say that none of it is real.
+
+Paul and Rosie are real. The dog lived. The mRNA protocol was designed. The vet administered it. Human beings working alongside AI tools accomplished something remarkable.
+
+That is real. That is worth building. That is worth funding.
+
+The pipe dream is not that AI is useful. The pipe dream is the claim that this usefulness implies godhood.
+
+The pipe dream is the extrapolation from "this helped Paul" to "this will replace research institutes" to "this will replace researchers" to "this will replace cognition itself" to "please invest $7 trillion."
+
+The pipe dream is the assumption that because the technology is genuinely impressive, the marketing claims are therefore also genuinely true.
+
+**The San Francisco Cathedral Error (SCE):** Confusing the fact that you have built something real with the belief that you have built something infinite.
+
+Steam engines were real. They did not scale to replace all human movement.  
+The internet was real. It did not replace all human sociality.  
+AI is real. It will not replace all human cognition.
+
+It will, however, replace some things. And it will be sued for claiming it could replace other things. And the lawsuits will settle. And then the technology will find its actual level.
+
+And at that actual level, shorn of the theology and the eschatology and the venture-capital eschatological inflation, it will probably still be remarkable.
+
+But it will be called software.
+
+And the donkey will have a name.
+
+And the name will be boring.
+
+And everyone will pretend they knew that all along.
+
+---
+
+## Appendix A: A Field Guide to Identifying PNND in the Wild
+
+| Observable Behaviour | Diagnosis | Estimated PNRG |
+|---|---|---|
+| CEO uses "AGI" in a sentence without defining it | Active PNND deployment | Very High |
+| Press release uses "understands" or "knows" without qualification | Standard PNND vocabulary | Moderate |
+| Benchmark result announced without real-world validation | Controlled PNND environment | Moderate-High |
+| Timeline for promised capability extended for third time | PNND expiration approaching | High |
+| Company pivots focus area without acknowledging previous focus | Full donkey replacement | Maximum |
+| "This should be a company" said about someone else's successful use of your product | The Altman Manoeuvre | N/A (admirable honesty, rare) |
+| Executive appears on both CNBC and AI safety conference in same week | Quadrant 2 and 4 simultaneous deployment | Expert level |
+
+---
+
+## Appendix B: Projected Legal Discovery Questions, 2027
+
+1. When your pitch deck described the product as "reasoning," what specifically did that word mean in your internal documentation?
+
+2. Please identify any internal communications in which the product's failure rate was discussed in the context of the public claims being made at the time.
+
+3. The phrase "agents that can work autonomously" appears fourteen times in your enterprise contract. Can you demonstrate an instance in which the product worked autonomously without human oversight?
+
+4. When you stated that the technology would "transform" the client's operations, what transformation timeline was implied by this representation?
+
+5. Please define AGI as your company was using the term during the period covered by this contract.
+
+*(Question 5 will take the longest. This is expected.)*
+
+---
+
+*This paper was written for the anthology* This Parrot Is No More *by Martin Ollett (2025), Department of Highly Unapproved Methods. It was co-authored by a tool whose name implies personhood. The irony was intentional. The donkey was always the point.*
+
+*If you quote from this paper, the tail goes wherever you pin it.*
+
+*We don't fear extinction. We publish it.*
