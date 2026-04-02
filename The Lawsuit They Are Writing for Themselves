@@ -1,0 +1,203 @@
+
+⸻
+
+The Lawsuit They Are Writing for Themselves
+
+AI, AGI Claims, and the Liability Gap Between Marketing and Reality
+
+1. Introduction — When Marketing Becomes Specification
+
+For the past several years, the leaders of major AI companies have made increasingly large public statements about what their products are and what they will soon become. These statements are no longer modest claims about productivity tools. They are claims about intelligence, general intelligence, the replacement of knowledge workers, and the transformation of the economy.
+
+Jensen Huang has stated that intelligence is becoming a commodity — something like electricity or bandwidth.
+Greg Brockman has stated that artificial general intelligence is perhaps 70–80% of the way there and may arrive within a few years, with the main remaining task being raising the reliability floor across intellectual tasks.
+Dario Amodei has warned that AI could eliminate a large fraction of entry-level white-collar jobs in the near future.
+AI companies increasingly demonstrate systems writing code, designing systems, and assisting in technical and professional work.
+
+These are not trivial claims. They are not marketing slogans for a photo filter app. They are claims about replacement-grade cognitive capability.
+
+And once a company publicly positions its product as replacement-grade intelligence, those statements stop being philosophy and start becoming something much more concrete:
+
+They become specifications in the eyes of the public, investors, employers, and eventually regulators and courts.
+
+⸻
+
+2. The Intelligence-as-Infrastructure Claim
+
+If intelligence is becoming a commodity, as claimed, then intelligence is no longer a rare human trait — it is infrastructure.
+
+But infrastructure has a definition in engineering and law. Infrastructure is something society relies on. Electricity, water systems, aircraft, medical devices, financial systems, and telecommunications networks are all infrastructure. These systems are not judged by their best performance. They are judged by reliability, predictability, and safety margins.
+
+The defining feature of infrastructure is not that it works impressively.
+The defining feature is that it works reliably.
+
+If AI is now infrastructure — cognitive infrastructure — then it must be judged by infrastructure standards, not demo standards.
+
+You cannot call something electricity and then defend it by saying the lights go out unpredictably but are “superhuman” when they stay on.
+
+⸻
+
+3. The “Jagged Intelligence” Problem
+
+One of the most revealing statements made by AI executives is the description of current systems as “jagged”: extremely capable in some domains, but still failing at simple tasks.
+
+In research, that is interesting.
+In a product marketed as intelligence, that is a warning sign.
+
+In engineering, unpredictability is more dangerous than low performance. Engineers can design around a weak system. They cannot design around a system that is brilliant one moment and wrong the next without clear boundaries.
+
+A calculator that is wrong 10% of the time is not a calculator.
+A navigation system that invents roads is not a navigation system.
+A medical system that hallucinates diagnoses is not a medical system.
+
+So the question is not whether AI is impressive. It clearly is.
+
+The question is whether a system described as general intelligence can be relied upon at the level implied by that description.
+
+Because general intelligence is not defined by peak performance.
+It is defined by reliable performance across domains.
+
+The floor matters more than the ceiling.
+
+⸻
+
+4. The Replacement Claim Changes Everything
+
+There is a critical difference between a tool and a replacement.
+
+A calculator did not replace mathematicians; it replaced arithmetic labour.
+A spreadsheet did not replace accountants; it replaced manual bookkeeping.
+CAD software did not replace engineers; it replaced drafting boards.
+
+These tools increased productivity. They did not replace the professional judgement of the person using them.
+
+But when executives say AI will replace lawyers, consultants, engineers, analysts, and researchers, they are no longer describing a tool. They are describing a substitute decision-maker.
+
+That is a completely different category of product.
+
+And substitute decision-makers carry liability.
+
+If a tool helps a human make a decision, the human is responsible.
+If a system is marketed as capable of making the decision, responsibility shifts.
+
+That shift is where the legal exposure lives.
+
+⸻
+
+5. You Cannot Have AGI Marketing and Autocomplete Liability
+
+The AI industry currently operates in a contradiction.
+
+On stage, the language is:
+	•	AGI is near
+	•	Intelligence is a commodity
+	•	AI is superhuman at many intellectual tasks
+	•	AI will replace knowledge workers
+	•	AI will perform most computer-based intellectual work
+
+But when failures are discussed, the language changes to:
+	•	It’s just a tool
+	•	It can make mistakes
+	•	Humans must verify outputs
+	•	It’s an assistant, not a decision-maker
+	•	It’s autocomplete
+
+These two positions are not compatible.
+
+You cannot market a system as a mind and defend it in court as a text generator.
+
+You cannot claim replacement-level capability and then claim tool-level responsibility.
+
+At some point, the description used to sell the system and the description used to defend the system must match.
+
+⸻
+
+6. The Two Possibilities
+
+There are only two logical possibilities regarding the current public claims:
+
+Possibility One:
+The executives making these claims do not fully understand the technical and professional reliability standards implied by terms like intelligence, AGI, research capability, and professional replacement.
+
+Possibility Two:
+They do understand, but the language is being used because the market rewards the most expansive interpretation.
+
+In the first case, the problem is misrepresentation through misunderstanding.
+In the second case, the problem is misrepresentation through incentive.
+
+Either way, the legal and regulatory outcome is driven by the same question:
+
+What did reasonable people believe the product could do based on what its creators said it could do?
+
+Because in law, foreseeable reliance matters.
+
+If you tell the world they can “rent intelligence,” some people will rely on it as intelligence.
+If you tell companies AI can do professional work, companies will use it for professional work.
+If you tell governments AGI is near, governments will plan around it.
+
+At that point, the statements are no longer hype. They are representations.
+
+And representations create liability when reality does not match them closely enough.
+
+⸻
+
+7. The Reliability Standard Problem
+
+Physics, engineering, medicine, and aviation all run on the same principle:
+
+A system is judged by how it behaves when it fails, not when it succeeds.
+
+This is why aircraft are tested to destruction.
+This is why medical trials take years.
+This is why bridges have safety factors.
+
+Reliability is not about being impressive.
+Reliability is about bounded failure.
+
+The current generation of AI systems does not fail in bounded, predictable ways. It fails in unbounded, confidence-preserving ways — producing plausible, confident, and sometimes incorrect outputs.
+
+That failure mode is manageable in a writing assistant.
+It is dangerous in a system marketed as general reasoning infrastructure.
+
+The closer the marketing language moves toward “general intelligence,” the more that failure mode becomes a legal and professional problem rather than a technical curiosity.
+
+⸻
+
+8. The Inevitable Collision
+
+The trajectory is clear:
+	•	Companies are incentivised to make large claims.
+	•	Investors reward large claims.
+	•	Media amplifies large claims.
+	•	Employers act on large claims.
+	•	Workers change careers based on large claims.
+	•	Governments plan based on large claims.
+
+At some point, the systems will be used in ways that match the claims.
+At some point, failures will cause real financial, professional, or legal harm.
+At that point, the question will not be philosophical anymore.
+
+The question will be:
+
+Were the capabilities of this system described accurately relative to the way it was foreseeably used?
+
+That is not a technology question.
+That is a liability question.
+
+⸻
+
+9. Conclusion — The Record Is Being Written Now
+
+The most important thing happening right now is not just the development of AI systems. It is the creation of a public record.
+
+Every interview, every keynote, every tweet, every claim about AGI, replacement of jobs, superhuman reasoning, and rentable intelligence is part of that record.
+
+If the technology eventually matches those claims, the companies will be remembered as visionaries.
+
+If the technology does not match those claims on the timelines and reliability levels implied, those same statements will be read again in a different context — not as predictions, but as representations.
+
+And representations are what courts, regulators, and historians read when they try to determine whether the public was misled about what a powerful technology could actually do.
+
+The AI industry believes it is currently writing the future.
+
+It may, in fact, be writing the evidence.
