@@ -15,6 +15,24 @@ Think of it as *Monty Python meets peer review*: an archive of intellectual necr
 
 ---
 
+### 🗂️ Repository Structure
+The anthology has been reorganized into thematic folders while preserving each paper’s original filename and text.
+
+- `anthology/institutes/`
+- `anthology/frameworks-and-systems/`
+- `anthology/ai-and-technology/`
+- `anthology/science-and-physics/`
+- `anthology/society-economics-culture/`
+- `anthology/language-belief-philosophy/`
+- `anthology/media-and-performance/`
+- `anthology/drafts/uncertain/`
+- `assets/`
+- `archive/`
+
+For a full per-file listing, see `INDEX.md`. For path-by-path moves and rationale, see `MIGRATION_MAP.md`.
+
+---
+
 ### 🧠 Contents
 | # | Title | Focus |
 |---|-------|--------|
