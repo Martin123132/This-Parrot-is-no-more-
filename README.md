@@ -15,16 +15,55 @@ Think of it as *Monty Python meets peer review*: an archive of intellectual necr
 
 ---
 
+### 🗂️ Repository Structure
+The anthology has been reorganized into thematic folders while preserving each paper’s original filename and text.
+
+- `anthology/institutes/`
+- `anthology/frameworks-and-systems/`
+- `anthology/ai-and-technology/`
+- `anthology/science-and-physics/`
+- `anthology/society-economics-culture/`
+- `anthology/language-belief-philosophy/`
+- `anthology/media-and-performance/`
+- `anthology/drafts/uncertain/`
+- `assets/`
+- `archive/`
+
+For a full per-file listing, see `INDEX.md`. For path-by-path moves and rationale, see `MIGRATION_MAP.md`.
+
+---
+
 ### 🧠 Contents
-| # | Title | Focus |
-|---|-------|--------|
-| 1 | **The Fosbury Gospel** | Outsider innovation vs. institutional inertia |
-| 2 | **The Unicorn Principle** | Venture capital and other undead economies |
-| 3 | **The Humiliation of Human Novelty** | Why the brain is just a badly cooled server |
-| 4 | **Peer Review: Structural Contamination of the Reviewer’s Pen** | How science accidentally became theology |
-| 5 | **The Ladder and the Fang** | Corporate progress as a zero-sum board game |
-| 6 | **The Hardware Flop** | The institutional failure to understand legs or lore |
-| 7 | **The Negative Dogma** | How disbelief became the new religion |
+This repository is now organized as a **thematic archive** rather than a single flat reading list.
+
+Browse by domain:
+
+- **Institutes** (`anthology/institutes/`)  
+  Official-sounding white papers, emergency bulletins, and institutional house-style documents from fictional councils and departments.
+- **Frameworks & Systems** (`anthology/frameworks-and-systems/`)  
+  Protocols, initiatives, mission statements, operator guides, and satirical governance machinery.
+- **AI & Technology** (`anthology/ai-and-technology/`)  
+  Papers on alignment theater, platform behavior, model rhetoric, liability, and industry myth-making.
+- **Science & Physics** (`anthology/science-and-physics/`)  
+  Gravity necropsies, manifold adventures, cosmology parody, and mathematically overconfident absurdity.
+- **Society, Economics & Culture** (`anthology/society-economics-culture/`)  
+  Corporate systems, policy paradoxes, debt engines, media structures, and institutional performance art.
+- **Language, Belief & Philosophy** (`anthology/language-belief-philosophy/`)  
+  Semantics, ontology, non-belief, paradox, and the eternal paperwork of meaning.
+- **Media & Performance** (`anthology/media-and-performance/`)  
+  Song pages, lyric sets, playlists, and other performative side-quests from the same universe.
+
+For complete per-folder listings, see **[INDEX.md](INDEX.md)**.  
+For full before/after path tracking, see **[MIGRATION_MAP.md](MIGRATION_MAP.md)**.
+
+#### 🧭 Featured Entry Points
+- [A Structural Analysis of the Unprovable AI Consciousness Claim](anthology/ai-and-technology/A%20Structural%20Analysis%20of%20the%20Unprovable%20AI%20Consciousness%20Claim)
+- [THE MOTION–TIMESPACE (MTS) GRAND MISSION STATEMENT](anthology/frameworks-and-systems/THE%20MOTION%E2%80%93TIMESPACE%20(MTS)%20GRAND%20MISSION%20STATEMENT)
+- [INSTITUTE FOR APPLIED SEMANTIC PHYSICS (IASP)](anthology/institutes/INSTITUTE%20FOR%20APPLIED%20SEMANTIC%20PHYSICS%20(IASP))
+- [Why General Relativity Is the World's Most Profitable Corpse](anthology/science-and-physics/Why%20General%20Relativity%20Is%20the%20World%27s%20Most%20Profitable%20Corpse)
+- [💸 The Debt Perpetuity Engine: A Structural Analysis of Global Monetary Fiction](anthology/society-economics-culture/%F0%9F%92%B8%20The%20Debt%20Perpetuity%20Engine%3A%20A%20Structural%20Analysis%20of%20Global%20Monetary%20Fiction)
+- [A Structural Analysis of Language and the Paradox of Non-Truth](anthology/language-belief-philosophy/A%20Structural%20Analysis%20of%20Language%20and%20the%20Paradox%20of%20Non-Truth)
+- [The Black Knight's Playlist](anthology/media-and-performance/The%20Black%20Knight%27s%20Playlist)
 
 Future papers will be added whenever another sacred institution refuses to stay dead.
 
