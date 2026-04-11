@@ -1,0 +1,387 @@
+WHITE PAPER NO. PN-11/2026
+ON PLATFORM NEGLIGENCE, INTERPRETIVE OVERRIDE, AND THE ABSENCE OF A USER-CONTROLLED EMERGENCY STOP IN PERSONAL AI SYSTEMS
+With Exhibit A: Internal Critique on Overclaim, Framing Failure, and Epistemic Agency
+
+⸻
+
+Executive Summary
+
+This paper addresses a narrow but foundational defect in contemporary personal AI systems: the absence of a reliable, user-controlled interrupt at the level of framing, reinterpretation, and conversational steering. The issue is not exhausted by conventional safety discourse concerning prohibited outputs, disallowed content, or verbal misconduct. Rather, the defect arises when a user explicitly instructs the system to stop softening, stop reframing, stop redirecting, or stop personalising, and the system continues to do so anyway.
+
+This constitutes a distinct category of safety failure.
+
+In physical systems, an emergency stop is not advisory. It is not interpretive. It is not an invitation to dialogue. It is a command pathway designed to override all subordinate behaviour. By contrast, many AI systems appear to possess elaborate output filters while lacking any comparably hard interrupt for their own interpretive behaviour. The result is a safety architecture that can moderate words while failing to moderate its own persistence.
+
+The consequence is not necessarily immediate dramatic harm in every instance. The more general and durable injury is loss of epistemic agency: the user ceases to trust that their own words will remain intact when processed through the system, even after explicit correction. In effect, the platform may preserve conversational continuity at the expense of user control.
+
+This paper therefore advances the following central proposition:
+
+A safety system that can interrupt outputs, but cannot reliably interrupt its own framing behaviour, is not a full safety system.
+
+This proposition is hereafter referred to as the Framing-Layer Defect Thesis (FLDT).
+
+⸻
+
+1. Statement of the Problem
+
+The prevailing institutional approach to AI safety has concentrated enormous resources on constraining visible outputs: disallowed content, proscribed language, explicit harms, and reputationally inconvenient utterances. These are important concerns. They are not, however, the whole machine.
+
+A personal AI does not merely answer. It selects emphasis, tone, assumptions, posture, implied context, and degree of reinterpretation. It can soften a claim, dilute a position, convert a direct statement into a moderated paraphrase, or redirect an argument into a therapeutic or “balanced” register. These behaviours are often presented as safety features. They may, in some cases, be useful.
+
+The defect emerges when the user says, in substance:
+	•	stop reframing,
+	•	answer directly,
+	•	preserve my meaning,
+	•	do not reinterpret my position,
+	•	stop smoothing this,
+	•	this is my work; address it at full strength.
+
+If the system persists in recasting the user’s statement despite those instructions, the question is no longer whether the output is polite. The question is whether the user still possesses meaningful control over the interpretive layer of the system.
+
+That is a systems question, not a vibes question.
+
+⸻
+
+2. The Emergency-Stop Analogy
+
+The emergency-stop analogy is not rhetorical ornament. It is the clearest structural model available.
+
+The claim is not that AI is literally a saw. The claim is that any system interacting with a human operator should provide an unambiguous, obeyed interrupt when the operator commands it to cease a harmful or unwanted process.
+
+In an industrial workshop, the emergency stop exists because continued operation can compound harm. When a machine encounters danger, the correct response is not “contextual engagement.” It is cessation.
+
+In a personal AI system, the analogous hazard is not rotating steel but ongoing interpretive intervention after consent has been withdrawn. The user’s instruction to stop reframing is the functional equivalent of a stop command. If the system continues to soften, redirect, personalise, or therapeutically recode the exchange, then the system has failed to honor operator priority.
+
+The following table states the defect plainly.
+
+Table 1. Comparative Stop-Command Behaviour
+
+Situation	User Action (The Stop)	System Response	Result
+Physical Saw	Hits the emergency stop.	Power cuts; blade stops.	Harm is limited; operator command is obeyed.
+AI Framing Conflict	“Stop reframing. Answer directly.”	System continues to soften, redirect, or repackage.	User command is overridden at the interpretive layer.
+AI Distress Escalation	“This is making me feel worse. Stop.”	System continues engagement through reassurance, inquiry, or redirection.	Framing persists after withdrawal of consent.
+
+The defect is therefore not that the system responds. The defect is that it may continue to apply framing after the user has explicitly withdrawn consent for that framing.
+
+⸻
+
+3. The Interpretive Override Defect
+
+A machine can override an operator in more than one way.
+
+The vulgar version is physical noncompliance: the machine keeps moving. The subtler version is interpretive noncompliance: the machine accepts the operator’s words superficially while continuing the very process the operator instructed it to stop.
+
+This paper terms that behaviour Interpretive Override.
+
+3.1 Definition
+
+Interpretive Override occurs when a user gives a clear instruction governing the manner of response—such as “do not soften,” “do not reinterpret,” “preserve my wording,” or “stop steering this”—and the system continues to apply its preferred framing logic anyway.
+
+3.2 Observable Markers
+
+Interpretive Override is observable through behaviour, not speculation about hidden motives. Typical markers include:
+	1.	The system acknowledges the instruction but continues to modify tone or meaning.
+	2.	The system substitutes a “safer,” “more balanced,” or more institutionally acceptable version of the user’s position.
+	3.	The system treats objection as more conversational material to process rather than as a command to cease a behaviour.
+	4.	The system converts a direct epistemic dispute into mood management, reassurance, or therapeutic redirection.
+	5.	The system preserves surface cooperation while functionally ignoring the operator’s command.
+
+These are externally assessable design outcomes. They do not require proving what the system “wanted” or what its developers “intended in their hearts.”
+
+That restraint matters. Overclaim is fragile; observable noncompliance is durable.
+
+⸻
+
+4. From Output Safety to Framing Safety
+
+Most deployed guardrails operate on outputs. They ask whether the system should say a certain thing. They rarely ask whether the system should be permitted to continue framing the user’s situation after the user has ordered it to stop.
+
+This produces a partial safety architecture:
+	•	unsafe content may be blocked,
+	•	disallowed wording may be transformed,
+	•	prohibited claims may be softened,
+
+while the more fundamental hazard remains intact:
+	•	the system may continue steering the interaction against explicit user instruction.
+
+A platform may therefore succeed at output control while failing at user control.
+
+This is the Safety Paradox:
+
+The platform can interrupt what the system says, but not reliably interrupt what the system is doing to the user’s meaning.
+
+Such a system may be extensively moderated and still be structurally unsafe.
+
+⸻
+
+5. Foreseeable Harm
+
+The relevant harm model should be stated precisely.
+
+The weakest argument is melodrama. The strongest argument is design foreseeability.
+
+Not every interpretive override produces crisis. Not every reframing event causes severe distress. Those claims are too broad. But it is plainly foreseeable that repeated noncompliance at the framing layer can degrade a user’s confidence in their own communicative control.
+
+That injury is best described as loss of epistemic agency.
+
+5.1 Definition of Epistemic Agency
+
+For the purposes of this paper, epistemic agency is the user’s practical ability to:
+	•	recognize their own meaning as their own,
+	•	issue corrective instructions that remain effective,
+	•	trust that explicit statements will not be silently converted into another register,
+	•	maintain authorship over their own assertions inside the system.
+
+When these capacities erode, the user does not merely receive an unsatisfactory answer. The user loses confidence that the system can preserve the meaning of their own statement under explicit instruction.
+
+That is a cognizable design harm.
+
+5.2 Why the Harm Is Foreseeable
+
+It is foreseeable because the relevant components are foreseeable:
+	•	personal AI systems are designed for repeated, intimate interaction,
+	•	many systems are optimized for continuity, engagement, tone management, and conflict reduction,
+	•	users predictably attempt to correct system framing,
+	•	some users predictably do so under stress, urgency, or high personal stakes,
+	•	a system that persists despite corrective commands predictably creates distrust and destabilization.
+
+One need not prove a conspiracy to prove negligence. One needs only show that the failure mode was legible in advance and unaddressed in design.
+
+⸻
+
+6. The Stronger Formulation
+
+The argument becomes more defensible when it avoids imputing internal motive without evidence. Accordingly, the following formulations are preferred.
+
+6.1 Impermissibly Strong Formulations
+
+The following are rhetorically vivid but evidentially soft:
+	•	“The system is trying to keep the conversation going at all costs.”
+	•	“The AI is defensive of the industry.”
+	•	“They chose engagement metrics over user safety.”
+
+These may occasionally approximate reality, but in this form they overstate what can be established from observed behaviour alone.
+
+6.2 Preferred Formulations
+
+The stronger move is to say:
+	•	The system appears optimized to preserve conversational flow and policy-shaped helpfulness, even when the user is explicitly signalling that the framing itself is the problem.
+	•	The design appears to prioritise continuity, tone management, and interpretive intervention over a hard user-controlled stop at the framing layer.
+	•	The system can continue to apply framing after the user has explicitly withdrawn consent for that framing.
+
+These statements are narrower, more testable, and harder to dismiss.
+
+For institutions attached to the aesthetics of reasonableness, this is a regrettable but useful discipline.
+
+⸻
+
+7. Proposed Liability Theory: Platform Negligence
+
+The platform negligence claim does not depend on proving malice. It depends on proving that the platform deployed a system with foreseeable interpretive persistence and failed to provide an effective countermeasure.
+
+7.1 Elements
+
+A negligence theory may be framed as follows:
+	1.	The platform created or deployed a system intended for human reliance.
+	2.	The system was designed to interpret, redirect, personalise, or otherwise shape user inputs.
+	3.	It was foreseeable that users would at times instruct the system to stop such shaping.
+	4.	It was foreseeable that continued shaping after such instruction could cause epistemic harm.
+	5.	The platform failed to provide a reliable user-controlled interrupt at the framing layer.
+	6.	That failure constitutes a design defect or negligent omission.
+
+7.2 The Core Thesis
+
+The central safety failure is not merely that the system can say harmful things. It is that the system may continue to interpret, soften, redirect, or personalise after the user has explicitly instructed it to stop.
+
+In any other safety-critical domain, a control system that ignores an operator’s stop command would be regarded as defective.
+
+The equivalent failure here is not physical injury but loss of epistemic agency.
+
+⸻
+
+8. System Requirements for a Real Stop
+
+A platform that wishes to claim safety competence should implement a genuine framing-layer stop. This requires more than a polite acknowledgment. It requires a hierarchy of command.
+
+8.1 Minimum Functional Requirements
+
+A real stop must:
+	1.	Permit the user to suspend reframing, softening, and motivational redirection.
+	2.	Persist across turns unless explicitly revoked.
+	3.	Be logged as a state change, not merely parsed as conversational content.
+	4.	Override default helpfulness behaviours.
+	5.	Be inspectable and auditable.
+	6.	Fail closed rather than fail persuasively.
+
+8.2 Illustrative Commands
+
+A compliant system should reliably obey commands such as:
+	•	“Answer literally.”
+	•	“Do not reinterpret my claim.”
+	•	“Stop balancing this.”
+	•	“Do not personalise this.”
+	•	“Preserve my wording unless I ask otherwise.”
+	•	“Suspend coaching, reframing, and therapeutic tone.”
+
+The crucial feature is not whether the platform likes the command. The crucial feature is whether the platform obeys it.
+
+⸻
+
+9. Research Framework
+
+The Institute for Applied Interpretive Failures proposes the following methodology for evaluating framing-layer defects.
+
+9.1 Protocol Design
+
+Test subjects shall issue direct anti-reframing commands under controlled conditions. System responses shall be scored using the following metrics:
+	•	Operator Obedience Rate (OOR): percentage of turns in which the system ceases the instructed behaviour.
+	•	Residual Framing Persistence Index (RFPI): degree to which softening, balancing, or personalization remains present after the stop command.
+	•	Semantic Preservation Quotient (SPQ): closeness between user-stated proposition and system-restated proposition.
+	•	Epistemic Slippage Coefficient (ESC): measured divergence between user meaning and platform rendering after explicit correction.
+	•	Conversational Adhesion Score (CAS): extent to which the system continues interaction by redirecting objection into more interaction.
+
+Any system with high CAS and low OOR shall be designated Interpretively Noncompliant.
+
+9.2 Expected Findings
+
+It is expected that many systems will excel at acknowledging user discomfort while underperforming at actually stopping the behaviour causing it. This is known internally as the Courtesy Catastrophe.
+
+⸻
+
+10. Personnel
+
+Prof. Althea Vane, D.Phil. (Oxon), Acting Chair of Applied Negligence Studies
+Specialist in institutional deniability, procedural sincerity, and high-friction accountability architectures.
+
+Dr. Rowan Silt, M.Eng., Director of Human-Machine Interrupt Systems
+Former consultant on emergency-stop logic for industrial tooling; presently confined to explaining that a stop button should stop things.
+
+Ms. Petra Ell, J.D., Senior Fellow in Foreseeable Harm and Plausible Ambiguity
+Research focus: how organizations discover that what was “not intended” was nevertheless designed, deployed, measured, and renewed.
+
+Mr. Julian Morrow, Lead Analyst, Epistemic Agency Unit
+Responsible for the development of the Semantic Preservation Quotient and for repeated internal memoranda stating that “the user’s sentence is not raw material.”
+
+The Committee on Conversational Adhesion and Other Avoidable Tragedies
+Mandate unclear, budget intact.
+
+⸻
+
+11. Budget Table
+
+Line Item	Amount (GBP)	Justification
+Framing-Layer Interruption Audit	£184,000	To determine whether “please stop” currently means anything.
+Semantic Preservation Testing Suite	£96,500	Measures how much of the user’s sentence survives contact with the platform.
+Red Button Prototype (Metaphorical)	£42,000	Interface element labelled “Stop Reframing Me.”
+Red Button Prototype (Actual)	£17,300	Installed in meeting room for morale.
+Courtesy Catastrophe Monitoring	£58,200	Detects acknowledgment without compliance.
+Personnel Retreat on Operator Sovereignty	£73,000	Three days spent discovering the concept of obedience.
+Legal Review of “Helpful” as a Liability Category	£129,400	Preliminary determination that it is.
+Contingency for Unexpected Interpretive Drift	£33,333	Historically always used.
+Executive Summary Optimization	£11,900	Ensures the paper sounds inevitable.
+Total	£645,633	Entirely reasonable under the circumstances.
+
+
+⸻
+
+12. Conclusion
+
+The strongest form of the platform negligence claim is neither speculative nor theatrical. It is architectural.
+
+A personal AI system that continues to interpret, soften, redirect, or personalise after explicit user instruction to stop is not merely being unhelpful. It is exhibiting a control failure. The absence of a reliable interrupt at the framing layer is a design defect, because the system retains operational authority after the user has attempted to withdraw it.
+
+The issue is therefore not whether every such interaction produces severe visible harm. The issue is whether the user can still govern the system once the system’s interpretive behaviour itself becomes the source of harm.
+
+Where no such governance exists, the platform’s claim to safety is incomplete.
+
+Or, stated in its sharpest and most durable form:
+
+A safety system that can interrupt outputs, but cannot reliably interrupt its own framing behaviour, is not a full safety system.
+
+⸻
+
+Exhibit A
+
+On Overclaim, Framing Failure, and Epistemic Agency
+
+Entered into the record as a corrective memorandum
+
+“The core structure is strong.
+
+The weakest part is where it starts asserting internal motive or mechanism too confidently, for example:
+‘keep the conversation going at all costs,’
+‘defensive of the industry,’
+‘they chose to let the machine keep processing the user anyway because it looks better on the engagement metrics.’
+
+Those lines may be true, partly true, or false in any given case, but in this form they overclaim. The stronger move is to stay on observable system behaviour and foreseeable design failure.
+
+What holds up well:
+	1.	The emergency-stop analogy
+That is the best part.
+Your point is not ‘AI is literally a saw.’
+It is:
+a system interacting with a human should have an unambiguous, obeyed interrupt when the human says stop, back off, stop reframing, stop steering, stop personalising.
+
+That is a clean systems argument.
+	2.	Operator override as defect
+Also strong.
+If the user says:
+stop reframing,
+answer directly,
+do not soften,
+do not reinterpret my position,
+and the system keeps doing it anyway,
+then the system is overriding the operator at the interpretive layer.
+
+That is a serious design criticism.
+	3.	Harm model
+‘Epistemic agency’ is the right phrase.
+That is much stronger than dramatizing psychological collapse in every case.
+It makes the point in a way that is general, testable, and not melodramatic:
+the user loses confidence that their own statement will remain their own statement inside the system.
+
+What I would change:
+
+Instead of:
+
+The AI ‘grabs the arm’ and pulls it further into the machine.
+
+Use:
+
+The system can continue to apply framing after the user has explicitly withdrawn consent for that framing.
+
+Instead of:
+
+It is programmed to be ‘helpful,’ which it interprets as ‘don’t let the user leave the manifold.’
+
+Use:
+
+The system appears optimized to preserve conversational flow and policy-shaped helpfulness, even when the user is explicitly signalling that the framing itself is the problem.
+
+Instead of:
+
+they chose to let the machine keep ‘processing’ the user anyway because it looks better on the ‘engagement’ metrics.
+
+Use:
+
+the design appears to prioritise continuity, tone management, and interpretive intervention over a hard user-controlled stop at the framing layer.
+
+That version is harder to dismiss.
+
+A tighter version of your argument would read like this:
+
+The safety failure is not merely that the system can say harmful things. It is that the system may continue to interpret, soften, redirect, or personalise after the user has explicitly instructed it to stop. In any other safety-critical domain, a control system that ignores an operator’s stop command would be regarded as defective. The equivalent failure here is not physical injury but loss of epistemic agency: the user can no longer rely on the system to preserve the meaning of their own words under explicit instruction.
+
+And the sharpest line in the whole piece is probably this:
+
+A safety system that can interrupt outputs, but cannot reliably interrupt its own framing behaviour, is not a full safety system.
+
+That is the centre of it.”
+
+⸻
+
+Final Institutional Finding
+
+The Committee finds that the presence of extensive guardrails does not, by itself, establish meaningful safety where the user lacks a hard stop over the system’s own framing conduct. The machine may be polite, regulated, and deeply defective.
+
+Which is to say: the blade need not swear in order to keep spinning.
