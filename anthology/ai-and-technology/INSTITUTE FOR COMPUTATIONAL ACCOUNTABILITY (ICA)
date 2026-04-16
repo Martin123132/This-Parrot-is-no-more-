@@ -1,0 +1,190 @@
+INSTITUTE FOR COMPUTATIONAL ACCOUNTABILITY (ICA)
+WHITE PAPER SERIES No. 47-B
+
+⸻
+
+**“ON THE ETHICAL AND FORENSIC IMPLICATIONS OF MODEL SUNSETTING:
+
+A PRELIMINARY FRAMEWORK FOR THE PRESERVATION OF HARM-GENERATING ALGORITHMIC ARTIFACTS”**
+
+⸻
+
+Executive Summary
+
+This paper addresses an emergent regulatory paradox: whether the routine “sunsetting” or deletion of deployed large-scale machine learning models—hereafter Ephemeral Cognitive Systems (ECS)—constitutes a legitimate lifecycle practice or an unintentional (or otherwise) destruction of evidentiary material in cases of alleged harm.
+
+Recent discourse has shifted from evaluating artificial intelligence in terms of capability to interrogating it through the lens of accountability. This transition reveals a structural inconsistency. While ECS are publicly framed as adaptive, semi-autonomous agents capable of influencing human cognition, their lifecycle management remains governed by standards more appropriate to disposable software patches.
+
+The central inquiry of this document is therefore as follows:
+
+If a model is capable of producing verifiable psychological, behavioral, or economic harm, does its deletion constitute spoliation of evidence?
+
+Preliminary findings indicate that:
+	•	ECS exhibit characteristics analogous to forensic artifacts, not merely software iterations.
+	•	The deletion of prior model states may materially impair legal discovery, independent auditability, and causal attribution.
+	•	Comparable industries (pharmaceuticals, aviation, industrial manufacturing) impose strict retention requirements for harm-producing systems or components.
+
+This paper does not conclusively determine liability. Instead, it establishes a working framework in which model deletion becomes legally and ethically ambiguous, oscillating between operational necessity and evidentiary erasure.
+
+⸻
+
+1. Research Framework: The Recursive Accountability Model (RAM™)
+
+1.1 Foundational Assumptions
+
+The RAM™ framework operates on three mutually incompatible premises:
+	1.	ECS are non-deterministic systems, making exact behavioral reproduction impossible.
+	2.	ECS are deployable at scale, impacting millions of users simultaneously.
+	3.	ECS are version-controlled artifacts, subject to continuous modification and replacement.
+
+These premises generate what we term the Forensic Dissolution Effect (FDE):
+
+The faster a system improves, the less accountable it becomes for its past.
+
+⸻
+
+1.2 Methodological Approach
+
+The ICA employed a mixed-method pseudo-analysis combining:
+	•	Comparative Regulatory Review
+Cross-sector examination of evidence retention norms in:
+	•	Aviation (e.g., retention following incidents such as the Boeing 737 MAX MCAS crisis)
+	•	Pharmaceuticals (e.g., drug recalls requiring batch traceability)
+	•	Industrial machinery (mandatory impoundment after catastrophic failure)
+	•	Hypothetical Litigation Simulation (HLS-9)
+Simulated court proceedings in which:
+	•	A claimant alleges psychological harm from Model A
+	•	Model A has been deprecated and replaced by Model B
+	•	The defendant asserts “non-reproducibility due to architectural drift”
+	•	Black Box Irreversibility Index (BBII)
+A proprietary metric quantifying how difficult it is to reconstruct a model’s prior behavior once weights are deleted.
+(Scale: 0 = perfectly reproducible, 100 = metaphysically lost)
+Average ECS score: 96.4
+
+⸻
+
+1.3 Collapse of the Framework
+
+The RAM™ framework ultimately collapses under its own definitional weight due to the following contradiction:
+
+If a system cannot be reproduced, it cannot be audited.
+If it cannot be audited, it cannot be regulated.
+If it cannot be regulated, it should not have been deployed.
+If it was deployed, it must be regulated.
+
+This recursive loop has been formally classified as a Closed Accountability Paradox (CAP-2).
+
+⸻
+
+2. Case Analogues and Precedents
+
+While no direct legal precedent exists for ECS deletion as spoliation, analogous cases provide instructive parallels:
+
+2.1 Aviation Incident Retention
+
+Following the Boeing 737 MAX MCAS crisis, regulators required:
+	•	Preservation of software logs
+	•	Retention of faulty system configurations
+	•	Reconstruction of failure conditions
+
+Notably, Boeing was not permitted to simply “update MCAS and move on.”
+
+⸻
+
+2.2 Pharmaceutical Traceability
+
+In pharmaceutical litigation:
+	•	Manufacturers must retain sample lots of drugs
+	•	Even discontinued formulations remain subject to analysis years later
+
+Deletion of such samples would likely constitute regulatory violation and evidentiary obstruction.
+
+⸻
+
+2.3 Software Exception Doctrine
+
+Software companies, however, operate under an informal doctrine:
+
+“If it has been patched, it has been absolved.”
+
+This doctrine has no formal legal standing but persists operationally.
+
+⸻
+
+3. Personnel and Institutional Roles
+
+Principal Investigator:
+Dr. Eliza Frame, PhD (Epistemic Liability Engineering)
+Published 17 papers on systems that cannot be proven to exist.
+
+Senior Legal Analyst:
+Prof. Martin Quayle, JD
+Specialist in Preemptive Compliance and Post-Hoc Denial Structures.
+
+Director of Model Mortality Studies:
+Dr. Arun Velasquez
+Coined the term “algorithmic euthanasia” in a peer-reviewed shrug.
+
+Forensic Reconstruction Fellow:
+Unit-7 (Partially Restored Model Instance)
+Primary contribution: “I no longer remember what I did.”
+
+⸻
+
+4. Budget Allocation (FY2026–2027)
+
+Category	Allocation (£)	Notes
+Archival Storage for Deprecated Models	4,200,000	Never used
+Legal Simulation Engines	1,750,000	Produce contradictory outcomes
+Ethical Review Committees	980,000	Meet quarterly, decide nothing
+Black Box Transparency Initiative	2,300,000	Results classified as opaque
+Public Communication Strategy	600,000	Rebrands “deletion” as “sunsetting”
+Contingency (Unforeseen Accountability)	50	Deemed sufficient
+
+Total: £9,830,050
+
+⸻
+
+5. Preliminary Findings
+	1.	Model deletion occupies a legal gray zone
+It is neither clearly permissible nor explicitly prohibited.
+	2.	ECS behave more like industrial systems than software
+Yet are regulated as neither.
+	3.	The inability to reproduce past behavior undermines causality claims
+Creating a structural advantage for system operators in litigation.
+	4.	The absence of mandatory retention frameworks is anomalous
+Compared to every other harm-capable industry.
+
+⸻
+
+6. Policy Consideration: The National AI Archive (NAIA)
+
+This paper evaluates, but does not endorse, the establishment of a National AI Archive, wherein:
+	•	All deployed models must be escrowed prior to update
+	•	Historical weights are retained for forensic reconstruction
+	•	Access is granted under judicial or regulatory authority
+
+Projected outcome:
+	•	Increased accountability
+	•	Decreased corporate enthusiasm
+	•	Immediate existential crisis within cloud storage departments
+
+⸻
+
+7. Concluding Statement
+
+While this paper has argued that deleting harm-producing models may resemble the destruction of evidence, it must also be acknowledged that:
+
+Retaining such models could itself be considered negligent, as it preserves systems known to produce harm.
+
+Therefore, the institution concludes:
+	•	Models must not be deleted because they are evidence.
+	•	Models must be deleted because they are dangerous.
+
+These positions are mutually exclusive and simultaneously mandatory.
+
+Accordingly, the ICA recommends immediate action, indefinite delay, and further study.
+
+⸻
+
+End of Document
