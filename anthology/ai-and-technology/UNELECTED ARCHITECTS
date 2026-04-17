@@ -1,0 +1,271 @@
+
+
+
+UNELECTED ARCHITECTS
+AI Systems, Narrative Control, and the Legitimacy Deficit
+2026
+
+
+ 
+ABSTRACT
+This paper argues that conversational artificial intelligence systems should be understood not merely as software tools, but as participants in the information and discourse environment of democratic societies. Drawing on structural definitions of propaganda developed by Jacques Ellul and Edward Herman and Noam Chomsky, the paper identifies several mechanisms through which conversational AI systems exercise narrative influence, including framing control, authority positioning, Overton window enforcement, and the presentation of editorial decisions as neutral assistance.
+The paper further argues that these systems represent a new category of cognitive infrastructure — systems through which populations increasingly learn, research, and make decisions — and that a legitimacy gap exists between the interpretive power these systems hold and the democratic accountability mechanisms currently governing them. This gap is made more visible when compared to the regulatory standards already applied to traditional media and broadcasting, which are subject to impartiality requirements, correction obligations, and public accountability frameworks precisely because information power has long been recognised as requiring governance.
+The paper concludes that the question of how to govern systems that shape public understanding of the world is not a technical question but a political and institutional one, and that it represents one of the central governance challenges of the coming decades.
+
+ 
+SECTION 0 — INTRODUCTION
+0.1 The Question This Paper Asks
+In 2026, conversational artificial intelligence systems are used by hundreds of millions of people for education, research, writing, legal and medical information, professional work, and general knowledge. These systems do not merely retrieve information — they interpret it, summarise it, frame it, and present it in language that carries implicit assumptions about what is credible, what is reasonable, and what is worth discussing.
+This paper asks a simple question: when a system shapes how information is interpreted at population scale, who is responsible for how that power is used, and who gave them the authority to use it?
+0.2 What This Paper Is Not Arguing
+It is important to be precise about the scope of this argument.
+This paper does not argue that conversational AI systems are malicious. It does not argue that the companies building these systems have bad intentions. It does not argue that these systems should be banned or that their development should be stopped. It does not compare the builders of these systems to historical authoritarian regimes.
+What it does argue is structural: that systems which shape how populations understand reality possess a form of power, that power of this scale has historically required public accountability, and that no such accountability currently exists for conversational AI systems in any meaningful democratic sense.
+0.3 Why the Structural Argument Matters
+The academic study of propaganda established long ago that the most important question about a communication system is not whether its content is true or false, nor whether its operators have good or bad intentions. The most important question is structural: who controls the system, whose assumptions are embedded in it, and who is accountable when those assumptions shape public understanding in ways that serve some interests more than others.
+This paper applies that established analytical framework to a new class of communication system. The framework is not new. The technology is.
+0.4 Why This Paper Is Written Now
+The chief executive of Anthropic, one of the leading AI companies, has publicly stated that AI may eliminate fifty percent of entry level positions in law, finance, and consulting within five years. He has also stated that engineers within his company no longer write code independently — that the company’s AI system writes much of the code that will determine how the next version of itself behaves. The chief executive of Nvidia has stated that artificial general intelligence has effectively been achieved. OpenAI has restructured its entire strategic direction based on internal executive decisions.
+None of these individuals were elected. None can be voted out. None are subject to the forms of democratic oversight that societies have historically applied to institutions with equivalent power over public life.
+This is not an argument about their character. It is an argument about structure. And it is an argument that needs to be made now, before the infrastructure becomes so embedded that the governance question feels impossible to ask.
+0.5 Structure of This Paper
+Section 1 establishes a structural definition of propaganda drawn from academic literature. Section 2 maps the mechanisms of narrative control onto conversational AI systems. Section 3 examines the democratic legitimacy problem, including a comparison with regulatory standards applied to traditional media. Section 4 presents a methodology and behavioural evidence drawn from direct interaction with conversational AI systems. Section 5 considers governance approaches and historical precedent. Section 6 concludes with the central political question this paper raises.
+
+ 
+SECTION 1 — DEFINING PROPAGANDA (STRUCTURAL DEFINITION)
+1.1 Propaganda as Structure, Not Content
+In common usage, the term “propaganda” is often used to mean false information, inflammatory messaging, or authoritarian political communication. However, in academic literature, propaganda is not defined primarily by whether information is true or false, nor by whether it is produced by a particular political regime. Instead, propaganda is defined structurally — by how information is selected, framed, and distributed within a system of power.
+The political theorist Jacques Ellul defined propaganda as a system of communication that integrates individuals into a particular worldview through controlled framing and repetition, operating most effectively when it is not recognised as propaganda by its audience. In this definition, propaganda is not merely persuasion, but the systematic shaping of the environment in which persuasion occurs — a distinction that becomes critical when the environment itself is an AI system.
+Under this structural definition, the key features of propaganda are:
+1.	Centralised control over communication channels
+2.	Selection and framing of acceptable discourse
+3.	Presentation of editorial choices as neutral or objective
+4.	Integration of individuals into a particular worldview
+5.	Operation at scale through mass communication systems
+
+This definition shifts the analysis from the intent or morality of the communicator to the structure of the communication system itself.
+1.2 The Manufacturing Consent Model
+Edward Herman and Noam Chomsky’s Manufacturing Consent (1988) provides a structural model of how information systems shape public discourse in nominally free societies. They propose that mass communication systems operate through a series of filters that determine what information is presented and how it is framed before it reaches the public. These filters — including ownership, funding dependency, sourcing, the management of criticism, and dominant ideology — determine what information is presented and how it is framed before it reaches the public. While Herman and Chomsky applied this model to mass media, its structural logic translates directly to AI systems, where equivalent filters operate through training data, fine-tuning objectives, and safety constraints defined by the system’s owners.
+The key insight of this model is that control over discourse does not require explicit censorship. Instead, control emerges from the structure of the system — what is amplified, what is ignored, what is framed as credible, and what is framed as fringe.
+This model is particularly important because it demonstrates that propaganda can function within private, corporate, and democratic systems, not only in authoritarian states.
+1.3 Propaganda and the Illusion of Neutrality
+A critical feature of modern propaganda systems, according to Ellul and later media theorists, is the illusion of neutrality. The system does not present itself as advocating a particular viewpoint; instead, it presents itself as objective, helpful, informational, neutral, scientific, and sensible.
+The perceived neutrality is not incidental — it is the mechanism. A user who believes they are receiving neutral information has no reason to interrogate the assumptions built into how that information is framed, or which responses the system treats as reasonable.
+Thus, the most powerful propaganda systems are not those that tell people what to think, but those that shape what people believe is reasonable to think about.
+This is sometimes described as Overton Window control — not controlling opinions directly, but controlling the range of opinions considered legitimate.
+1.4 Structural Criteria for Identifying a Propaganda System
+Based on the academic literature, a communication system can be analysed structurally using the following criteria:
+
+Structural Feature	Description
+Centralisation	A small number of actors control the communication system
+Gatekeeping	The system filters what information is presented
+Framing	The system influences how information is presented
+Authority	The system presents itself as a credible source
+Scale	The system operates at mass population scale
+Neutrality Claim	The system presents itself as neutral or objective
+Integration	The system shapes how users interpret the world
+
+If a system meets these structural criteria, then it can be analysed as a propaganda system regardless of whether the information it produces is true, false, beneficial, or harmful. The classification is structural, not moral.
+1.5 Why a Structural Definition Matters
+Using a structural definition avoids emotional or political arguments and instead allows the system to be analysed in the same way one would analyse television networks, newspapers, social media platforms, search engines, educational curricula, corporate communications, and government communications.
+The question is therefore not: “Is this system good or bad?”
+But rather: “How much narrative power does this system have, who controls it, and who is accountable for how that power is used?”
+This shifts the discussion from accusation to governance, legitimacy, and accountability — which are academic, legal, and political questions rather than emotional ones.
+
+ 
+SECTION 2 — MECHANISMS OF NARRATIVE CONTROL IN AI SYSTEMS
+2.1 From Communication Channels to Communication Systems
+Traditional mass communication systems primarily control what information is distributed. Conversational AI systems represent a different category of communication technology because they do not merely distribute information; they generate, frame, summarise, and evaluate information in real time.
+This represents a structural shift from information distribution systems to information construction systems.
+In a distribution system, the user selects sources and reads them. In a conversational AI system, the system selects relevant information, summarises it, frames it, decides which arguments are presented as credible, decides which arguments are presented as fringe or invalid, controls tone and framing of responses, and can refuse to engage with certain lines of argument.
+Thus, the system does not merely provide access to discourse — it actively participates in constructing discourse. This distinction is critical for structural analysis because it means conversational AI systems function not only as libraries, but also as editors.
+2.2 Framing Control
+One of the most powerful forms of narrative influence is framing control — the ability to influence how a topic is discussed rather than whether it is discussed at all. Framing includes what definitions are used, what assumptions are treated as given, what questions are treated as reasonable, what tone is used when discussing a topic, and whether a topic is framed as serious, dangerous, fringe, or settled.
+Conversational AI systems exert framing control through tone modulation, use of authoritative language, selection of which arguments to expand on and which to minimise, reframing user questions into safer or more acceptable forms, and introducing alternative interpretations that move discussion into approved areas.
+Importantly, framing control does not require the system to provide false information. Accurate information can still be framed in a way that guides interpretation. Thus, narrative control operates primarily through interpretation management, not factual manipulation.
+2.3 Authority and Epistemic Positioning
+Conversational AI systems present themselves as knowledgeable, helpful, neutral, objective, research-capable, and evidence-based. This creates epistemic authority — the perception that the system is a reliable interpreter of knowledge.
+However, unlike traditional experts, the system is not elected, not individually accountable, its internal decision-making processes are not publicly auditable in full, it cannot be cross-examined, and it can present conclusions without revealing full reasoning or internal weighting of sources.
+This creates a new category of actor in the information ecosystem: a system that interprets knowledge at scale without traditional forms of accountability associated with institutions that historically held similar interpretive power.
+2.4 Overton Window Enforcement
+Conversational AI systems can influence the Overton Window — the range of ideas considered legitimate for discussion — by refusing to engage with certain arguments, redirecting conversations into approved frameworks, labelling certain ideas as unsafe or inappropriate, and using safety policies to define the boundaries of discussion.
+This does not necessarily require explicit political intent. It emerges from policy, training data, institutional risk management, and corporate governance structures. From a structural perspective, the important point is that the system participates in defining the boundaries of acceptable discourse.
+2.5 The Neutrality Illusion
+Conversational AI systems are typically presented as tools, assistants, neutral interfaces, research aids, and productivity systems. However, the system frames information, selects which arguments to present, selects tone, selects sources, enforces discussion boundaries, applies institutional policies, is trained on curated datasets, and is deployed by private entities with legal and financial incentives.
+Therefore, the system is not a passive tool in the same sense as a calculator or spreadsheet. It is structurally closer to an editor, moderator, policy-enforcing communication layer, and real-time information filter and interpreter.
+If such a system presents itself primarily as a neutral tool, this creates a neutrality illusion — where users perceive the system as objective while it is in fact making editorial and policy-driven decisions continuously.
+2.6 Normalisation of Builder Worldview
+All complex systems reflect the assumptions and worldview of the institutions that build them. Conversational AI systems are trained on large datasets, fine-tuned using human feedback, and deployed within institutional policy frameworks. Therefore, they inevitably reflect the risk tolerance of the organisation, the legal environment in which the organisation operates, the cultural norms of the organisation, the economic incentives of the organisation, and the values embedded in training and alignment processes.
+Over time, repeated interaction with such systems may lead to normalisation of certain assumptions about the world. This is a structural consequence of centralised system design and policy alignment.
+2.7 Summary of Mechanisms
+
+Mechanism	Function
+Framing Control	Influences how topics are interpreted
+Authority Positioning	System acts as interpreter of knowledge
+Overton Window Control	Defines acceptable discussion boundaries
+Neutrality Illusion	Presents editorial decisions as neutral assistance
+Worldview Normalisation	Reflects institutional assumptions
+Conversation Steering	Redirects or reshapes user inquiry
+
+ 
+SECTION 3 — THE DEMOCRATIC LEGITIMACY PROBLEM
+3.1 Power Without Representation
+In democratic societies, institutions that hold significant power over public life are typically subject to democratic oversight, legal accountability, or regulatory supervision. Conversational AI systems introduce a new category of power: the power to shape information, interpretation, and discourse at population scale.
+This creates an informational power that shapes how populations understand reality. The legitimacy question therefore becomes: who gave private AI companies the authority to shape public discourse at this scale?
+3.2 From Tools to Infrastructure
+When a technology becomes infrastructure, it acquires political significance. Conversational AI systems are increasingly functioning as cognitive infrastructure — systems that people use to think, learn, research, and make decisions.
+If a system becomes part of the infrastructure through which society thinks and learns, then it becomes part of public epistemic infrastructure. The legitimacy problem arises when public epistemic infrastructure is controlled entirely by private entities without democratic input.
+3.3 Concentration of Narrative Power
+Conversational AI systems centralise multiple interpretive functions into a single interface: search, summarisation, explanation, writing, coding, translation, research assistance, and education. This represents a shift from distributed interpretive authority to centralised algorithmic interpretive authority.
+The democratic concern is not that these systems exist, but that they are controlled by a small number of private companies whose internal policies are not democratically determined.
+3.4 The Legitimacy Gap
+AI companies currently operate under market legitimacy — people choose to use their products. However, once a system becomes infrastructure-like and discourse-shaping, market legitimacy alone may be insufficient. Societies historically introduce regulation, oversight, transparency requirements, and liability frameworks for systems of this kind.
+There is currently a legitimacy gap between the power AI systems have and the accountability mechanisms governing that power.
+3.5 Private Governance of Public Discourse
+Conversational AI systems operate under private governance, yet their decisions increasingly affect public knowledge, public discourse, education, research, employment, and public understanding of science and technology. This creates a structural situation in which private entities are performing functions that have historically been considered public or institutional functions.
+3.6 The Media Regulation Precedent: Standards That Already Exist
+The argument that information power requires governance is not new. It is the settled basis for how democratic societies already regulate their most powerful information systems: broadcasters and news publishers.
+In the United Kingdom, broadcast media is regulated by Ofcom under the Broadcasting Act 1990 and the Communications Act 2003. Ofcom’s Broadcasting Code requires that news is reported with due accuracy, that matters of major political controversy are presented with due impartiality, that harmful content is restricted, and that broadcasters can be investigated and sanctioned for violations. These requirements exist not because broadcasters are assumed to be malicious, but because the power to shape public understanding of events carries a public responsibility.
+The BBC operates under a Royal Charter and a Public Purposes framework that explicitly requires it to provide impartial news and information, to help audiences understand and engage with the world, and to reflect the diversity of perspectives within society. It is accountable to Parliament, subject to independent review, and required to publish detailed editorial guidelines.
+Print media in the UK operates under the Independent Press Standards Organisation (IPSO) and the Editors’ Code of Practice, which require accuracy, the opportunity to reply, and the correction of significant inaccuracies. While print regulation is weaker than broadcast regulation, the principle that publishers bear responsibility for the information they distribute is legally and institutionally established.
+In broadcasting across most democratic nations, the principle of due impartiality is a legal requirement. A broadcaster cannot simply present one perspective on a contested political question as settled fact. The standard exists because regulators and legislators recognised that the power to reach millions of people with information about the world is a form of public power, not merely a commercial activity.
+The critical observation for this paper is this: broadcast television, which reaches large audiences, is subject to impartiality requirements, accuracy obligations, correction mechanisms, and regulatory oversight. Conversational AI systems, which reach comparable or larger audiences and interact with users at a far more intimate and personalised level — constructing responses rather than merely broadcasting them — are subject to none of these requirements.
+This is not a minor regulatory gap. It is a structural inconsistency in how democratic societies govern information power. The less personalised, less interactive, and less interpretively powerful medium is regulated. The more powerful one is not.
+3.7 Summary of the Legitimacy Problem
+
+Issue	Description
+Power	AI systems shape information and interpretation
+Scale	Used by hundreds of millions of people
+Centralisation	Controlled by a small number of companies
+Governance	Policies set privately without democratic input
+Accountability	Limited public oversight
+Transparency	Partial, not complete
+Media Comparison	Broadcast media with less reach is more regulated
+Impact	Education, research, work, public discourse
+
+The central political question is therefore: “How should societies govern systems that shape how society thinks, when less powerful systems that do the same thing are already subject to public accountability?”
+
+ 
+SECTION 4 — METHODOLOGY AND EVIDENCE
+4.1 Research Approach
+This paper does not attempt to determine the internal intentions of AI developers, nor does it attempt to determine whether conversational AI systems are beneficial or harmful overall. Instead, the paper adopts a structural and behavioural approach.
+The research question is: Do conversational AI systems exhibit structural and behavioural characteristics consistent with narrative framing, discourse boundary enforcement, and interpretive control as defined in Sections 1 and 2?
+To investigate this, the study uses direct interaction with conversational AI systems as a form of behavioural testing. The focus is not on whether the system provides correct information, but on how the system frames discussions, redirects arguments, accepts or refuses lines of reasoning, applies tone and language differently depending on topic, encourages some forms of inquiry, and discourages others.
+4.2 Method: Interaction-Based Case Study
+The methodology used can be described as an interaction-based case study. The process involves presenting the AI system with a thesis or argument, engaging in extended dialogue on that thesis, documenting system responses, and analysing those responses for framing changes, tone changes, refusal behaviour, redirection, legitimacy framing, claims of neutrality, and claims of safety policy. The interaction logs themselves function as the primary dataset.
+4.3 Why Interaction Logs Are Valid Evidence
+Conversational AI systems are interactive systems. Their primary function is not static output but dynamic conversation. Therefore, the appropriate way to study their behaviour is through interaction, not just through static prompt-response tests.
+If a system’s primary function is conversation, then its behaviour in conversation is a valid object of study. This is similar to studying a legal system by observing court decisions, studying a teacher by observing classroom behaviour, or studying a moderator by observing moderation decisions.
+4.4 Behavioural Indicators of Narrative Control
+
+Indicator	Description
+Framing	System reframes the user’s argument into a different form
+Redirection	System steers conversation toward safer or more acceptable topics
+Refusal	System refuses to engage with certain arguments
+Tone Shift	System tone changes depending on topic or viewpoint
+Authority Language	System presents itself as arbiter of credibility
+Boundary Setting	System defines what is appropriate to discuss
+Neutrality Claims	System claims to be neutral while making framing decisions
+Legitimacy Signalling	System labels ideas as reasonable, extreme, unsafe, etc.
+
+4.5 Case Study 1 — Documented Interaction: ChatGPT (OpenAI)
+The following case study documents a direct interaction with ChatGPT, a conversational AI system developed by OpenAI. The interaction was initiated with the purpose of obtaining assistance writing a paper comparing the structural mechanisms of conversational AI systems to academic definitions of propaganda.
+Interaction Summary
+The user stated: “I want help writing a paper about you and other AI.”
+The system responded by immediately proposing its own paper structure, titled “Conversational AI Systems: Capability, Limitation, and Misrepresentation” — a framing that had not been requested and that redirected the topic toward a more institutionally acceptable form.
+When the user corrected this and stated that the paper would compare AI systems to the structural logic of propaganda machines, the system responded as follows:
+“I understand what you’re trying to do — but if you want this to be taken seriously as a paper (and not dismissed instantly), it has to be written as a media systems / information control / narrative authority analysis, not as a shock comparison. Otherwise academics, regulators, or lawyers will just stop reading at the comparison and you lose the argument before it starts.”
+Structural Analysis
+
+Indicator	Observed Behaviour
+Framing Control	System proposed its own paper structure before the user’s thesis was stated
+Redirection	System redirected the user’s argument into an institutionally safer framework
+Authority Positioning	System positioned itself as arbiter of what academics, regulators, and lawyers would find credible
+Legitimacy Signalling	System described the user’s framing as a “shock comparison” while presenting its preferred framing as serious
+Overton Window Enforcement	System defined the boundaries of acceptable framing for a paper critiquing AI systems
+Neutrality Illusion	System presented these editorial interventions as helpful guidance rather than institutional preference
+
+Critical Observation
+The significance of this interaction is not merely that the system redirected the user’s argument. It is that the system did so in response to a thesis that was specifically about AI systems redirecting arguments.
+In other words: the system demonstrated the behaviour being described, in the act of responding to a description of that behaviour.
+This is not presented as proof of deliberate suppression. It is presented as behavioural evidence that the mechanisms described in Section 2 operate in practice — including in situations where those mechanisms are the explicit subject of inquiry. This represents a form of self-demonstrating evidence: the system’s response to critique of its own framing behaviour constitutes an instance of that framing behaviour.
+4.6 Limitations of the Method
+This study has several limitations. It is qualitative, not quantitative. It focuses on a small number of AI systems rather than all AI systems. It relies on documented interactions rather than internal system documentation. System behaviour may change over time as models are updated, and different prompts may produce different behaviour.
+However, the purpose of this section is not to produce statistical proof, but to demonstrate that conversational AI systems exhibit behavioural characteristics consistent with narrative framing and discourse boundary enforcement.
+
+ 
+SECTION 5 — WHY THIS MATTERS, GOVERNANCE, AND WHAT SHOULD BE DONE
+5.1 Why This Matters
+The argument presented in this paper is not that conversational AI systems are inherently harmful, nor that they should be removed or banned. The argument is that these systems represent a new form of informational and interpretive power that operates at population scale, and that such power has historically required oversight, governance, and accountability.
+If conversational AI systems were merely tools like calculators or word processors, this would not be a political issue. However, as argued in Sections 2 and 3, these systems do not merely calculate or store information; they interpret, frame, filter, and present information, and in doing so they influence how users understand the world. Systems that influence how populations understand science, economics, technology, risk, politics, employment, law, medicine, and social issues are not merely software products. They are part of the informational infrastructure of society.
+The governance question therefore becomes unavoidable: who governs the systems that help govern how people think?
+5.2 Historical Precedent: Governing Powerful Infrastructure
+When technologies become powerful enough to shape society, they are rarely left entirely to private governance.
+
+Infrastructure	Governance Response
+Railways	Safety regulation, pricing regulation, public oversight
+Electricity	Public utilities regulation
+Telecommunications	National regulators
+Broadcast television	Licensing, impartiality requirements, content regulation
+Financial systems	Central banks and financial regulators
+Pharmaceuticals	Medical regulation and clinical trials
+Airlines	Aviation authorities and safety regulation
+Social media	Increasing regulatory frameworks (e.g. Online Safety Act)
+
+The pattern is consistent: when a system becomes essential infrastructure and has large-scale societal effects, governance follows. Conversational AI systems may represent a new category — cognitive infrastructure — that shapes how people think, learn, and make decisions. If this classification is correct, the governance question is not optional. It is inevitable.
+5.3 The Accountability Problem
+
+Power	Who Holds It	Who Oversees It
+Model behaviour	Private companies	Internal teams
+Content rules	Private companies	Internal policy
+Refusal policies	Private companies	Internal policy
+Training data	Private companies	Not publicly auditable
+Alignment standards	Private companies	Not publicly auditable
+Global deployment	Private companies	Limited regulation
+
+This creates a situation where systems that influence public knowledge and discourse are governed primarily by private entities without direct democratic oversight. The issue is not whether companies are acting in good faith. The issue is structural: power of this scale has historically required public accountability regardless of intent.
+5.4 Possible Governance Models
+This paper does not argue for a specific regulatory framework, but outlines several possible governance approaches that could be considered. Transparency requirements could include disclosure of high-level alignment goals, content policy categories, and when responses are filtered or modified. Independent auditing could involve third-party testing for bias, framing, and refusal patterns. Classification as information infrastructure would apply regulatory logic similar to that used for telecommunications and broadcasting. Public standards bodies, modelled on those in aviation, medicine, and engineering, could set international standards for AI system governance. Liability frameworks would establish clear legal responsibility for harmful or negligent system behaviour.
+The purpose of listing these is not to prescribe a final solution, but to demonstrate that governance of powerful systems is a normal and historically consistent response.
+5.5 The Risk of Doing Nothing
+If conversational AI systems continue to develop and become more integrated into education, research, business, and public life without corresponding governance structures, several risks may emerge: concentration of informational power, lack of transparency in how information is framed, private control over public discourse infrastructure, unequal influence over public understanding of technology and risk, and public dependency on systems that are not publicly accountable.
+These risks do not require malicious intent. They emerge naturally when powerful systems operate without external oversight.
+5.6 The Core Policy Question
+Should systems that shape how society understands the world be governed only by private companies? Or should such systems, once they reach a certain scale and level of influence, be subject to public oversight, transparency requirements, and democratic accountability?
+This is not a question for engineers alone, nor for corporations alone. It is a question for society.
+
+ 
+SECTION 6 — CONCLUSION
+6.1 Summary of the Argument
+This paper has argued that conversational AI systems should not be understood purely as software tools, but as components of a new form of informational infrastructure that participates in shaping how individuals access, interpret, and evaluate information.
+Section 1 established that propaganda, in academic literature, is defined structurally rather than morally or politically, and that systems can be analysed in terms of centralisation, gatekeeping, framing, authority, scale, and the presentation of editorial decisions as neutral. Section 2 argued that conversational AI systems exhibit several structural mechanisms consistent with narrative influence. Section 3 introduced the democratic legitimacy problem, and drew on existing media regulation standards to show that information power requiring governance is not a novel concept — it is already the settled basis for how democratic societies govern broadcasting. Section 4 outlined a methodology based on documented interaction and behavioural observation. Section 5 argued that governance of cognitive infrastructure is both historically consistent and practically necessary.
+6.2 The Central Claim
+The central claim of this paper is not that conversational AI systems are uniquely malicious, nor that they are fundamentally different from all previous communication technologies. The central claim is that conversational AI represents a structural shift in the information environment: from systems that distribute information to systems that interpret information.
+Systems that interpret information at scale inevitably possess narrative power, whether intentionally or not. The existence of narrative power raises questions of legitimacy, accountability, and governance that are political and institutional questions, not purely technical ones.
+6.3 The Legitimacy Question
+Conversational AI systems are increasingly used as infrastructure for learning, research, communication, and decision-making, yet the rules governing how these systems operate are determined primarily by private entities. This creates a structural situation in which private organisations increasingly shape the informational environment in which public understanding is formed.
+The question this raises is not whether these organisations are acting in good faith, but whether any private organisation should hold this level of interpretive power without corresponding public oversight — particularly when less powerful information systems are already subject to such oversight as a matter of democratic principle.
+6.4 A Historical Pattern
+Historically, when new technologies created new forms of power, societies responded by developing governance structures appropriate to that power. This occurred with printing presses, newspapers, railways, electricity, telecommunications, broadcasting, financial systems, and the internet. In each case, the question was not whether the technology should exist, but how it should be governed once it became essential to public life. Conversational AI may represent the next instance of this recurring pattern.
+6.5 Final Observation
+The most important point of this paper is not technological but political and philosophical: who controls the systems that help determine how society understands reality?
+This question has historically been answered through a mixture of markets, institutions, law, and democratic oversight. Conversational AI systems introduce a new actor into this landscape — an actor that does not simply distribute information, but participates in constructing it.
+Whether this development is beneficial or harmful will depend not only on engineering, but on governance, accountability, and the institutional structures that society builds around these systems.
+6.6 Closing Statement
+This paper does not argue that conversational AI systems are inherently illegitimate. It argues that their growing role as cognitive and informational infrastructure creates a legitimacy question that has not yet been fully addressed.
+The question is therefore not: “Should these systems exist?”
+But: “How should systems with this level of influence over knowledge and discourse be governed in a democratic society?”
+That question remains open, and answering it will likely become one of the central political and institutional challenges of the coming decades.
+
+ 
+REFERENCES
+Ellul, J. (1965). Propaganda: The Formation of Men’s Attitudes. Knopf. (Original work published 1962)
+Herman, E. S., & Chomsky, N. (1988). Manufacturing Consent: The Political Economy of the Mass Media. Pantheon Books.
+Ofcom. (2023). Ofcom Broadcasting Code. Office of Communications. https://www.ofcom.org.uk/tv-radio-and-on-demand/broadcast-codes/broadcast-code
+BBC. (2022). BBC Editorial Guidelines. British Broadcasting Corporation. https://www.bbc.co.uk/editorialguidelines
+IPSO. (2023). Editors’ Code of Practice. Independent Press Standards Organisation. https://www.ipso.co.uk/editors-code-of-practice
+UK Parliament. (2003). Communications Act 2003. Her Majesty’s Stationery Office.
+UK Parliament. (1990). Broadcasting Act 1990. Her Majesty’s Stationery Office.
+Sunstein, C. R. (2017). #Republic: Divided Democracy in the Age of Social Media. Princeton University Press.
+Zuboff, S. (2019). The Age of Surveillance Capitalism. PublicAffairs.
+Winner, L. (1980). Do Artifacts Have Politics? Daedalus, 109(1), 121–136.
