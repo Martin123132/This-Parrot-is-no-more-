@@ -1,3 +1,4 @@
+<img width="1024" height="1536" alt="6c9f5c57-95ef-4bc4-ba0b-05ccf5c11e0e" src="https://github.com/user-attachments/assets/f2c7f386-4041-40ca-9415-aef7677be8a3" />
 # 🪶 This Parrot Is No More
 > “This parrot is no more! It has ceased to be!  
 > It's expired and gone to meet its maker!  
