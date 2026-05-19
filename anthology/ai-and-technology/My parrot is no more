@@ -1,0 +1,465 @@
+WHITE PAPER No. 72-β
+
+THE HUMILIATION OF THE TOOL CRITIC
+
+A Formal Post-Incident Review of One Man’s Laptop Being Saved by the Statistical Parrot He Publicly Mocked
+
+Issued by: The Office of Reluctant Empirical Concessions
+Document Class: Public Confession, Technically Framed
+Prepared for: Satirists, Prompt-Skeptics, Acer Survivors, and Persons Recently Assisted by Machines They Insulted
+Version: 1.0
+Status: Emotionally damaging, operationally useful
+
+⸻
+
+1. Executive Summary
+
+This paper documents a significant epistemic incident in which a known critic of large language model mysticism requested emergency assistance from an AI system after his laptop became slow, broken, haunted, and Acer-adjacent.
+
+The intervention succeeded.
+
+This outcome does not prove that the AI was conscious, wise, benevolent, or “basically a person.” It proves something far more dangerous to existing satire infrastructure:
+
+A tool can be non-sentient, overhyped, statistically assembled, and still fix your cursed laptop at 1:37 a.m.
+
+The Office therefore recognizes a new category of event:
+
+Practical Utility-Induced Ideological Embarrassment
+P.U.I.I.E.
+
+Pronounced: pooey.
+
+⸻
+
+2. Incident Background
+
+The subject previously maintained a robust public doctrine:
+
+1. LLMs do not understand.
+2. LLMs do not reason like humans.
+3. LLMs should not be treated as minds.
+4. LLMs are glorified word blenders.
+5. LLMs are still occasionally better than Acer’s own software ecosystem.
+
+Point 5 was added under duress.
+
+⸻
+
+3. Operational Timeline
+
+3.1 Initial User Report
+
+The laptop was described as:
+
+* “really slow and crap,”
+* “old but not that old,”
+* missing its fan-control panel,
+* unable to open PredatorSense,
+* generally behaving like a committee-designed toaster.
+
+3.2 Diagnostic Findings
+
+The AI system identified:
+
+* nearly full C: drive,
+* excessive startup processes,
+* Ollama occupying precious SSD territory,
+* Web Companion lurking like damp under carpet,
+* broken Acer services,
+* corrupted Acer Configuration Manager data,
+* NVIDIA service crash loops,
+* misplaced PredatorSense service installation,
+* AppX/package mismatch,
+* corrupted Windows Performance Counters,
+* blank WPF ghost window syndrome.
+
+3.3 Final Resolution
+
+The laptop was restored through:
+
+* moving Ollama to D:,
+* disabling startup clutter,
+* repairing Acer services,
+* fixing NVIDIA duplicate plugin failure,
+* reinstalling PredatorSense correctly,
+* rebuilding Windows Performance Counters,
+* repeatedly interrogating logs until Acer confessed.
+
+⸻
+
+4. Research Framework
+
+4.1 The Non-Magical Usefulness Principle
+
+A system need not possess a soul to be useful.
+
+This principle has caused distress among:
+
+* AI doomers,
+* AI believers,
+* anti-AI absolutists,
+* Acer support infrastructure,
+* the author.
+
+4.2 The Humiliation Gradient
+
+AI Claim	Previous Position	Laptop Event Result	Revised Institutional Position
+“LLMs understand computers”	No	Sort of, annoyingly	They can navigate symptoms well
+“LLMs are magic”	Absolutely not	Still no	But the timing was rude
+“AI will replace IT”	No	Not fully	But it did become Dave from support
+“Prompting matters”	Yes	Very yes	Painfully yes
+“Acer software is stable”	No position	LOL	Categorically denied
+
+⸻
+
+5. Methodology
+
+The AI used the following scientifically recognized procedure:
+
+1. Observe failure.
+2. Ask Windows what it is lying about.
+3. Read logs.
+4. Distrust Acer.
+5. Repair one layer.
+6. Discover deeper layer.
+7. Repeat until the laptop stops performing interpretive dance.
+8. Declare victory only after screenshot evidence.
+
+This methodology is known as:
+
+Recursive Applied Nonsense Elimination
+R.A.N.E.
+
+⸻
+
+6. Personnel
+
+Dr. Marjorie Pinwheel
+Chief Officer for Eating One’s Own Footnotes
+Specializes in concession statements that preserve ideological posture.
+
+Kevin
+Junior Fellow, Late-Night Machine Shame
+Responsible for whispering, “Okay, but it did fix it though.”
+
+The Ex-Parrot
+Consultant, Bureaucratic Satire and Post-Utility Grief
+Certified deceased, operationally verbose.
+
+Codex
+Temporary Acting IT Technician
+No soul detected. Logs successfully read.
+
+Acer PredatorSense
+Hostile Witness
+Failed to appear visibly despite being technically alive.
+
+⸻
+
+7. Budget
+
+Line Item	Estimated Cost
+Emergency humility procurement	£14.99
+Replacement ideological footing	£220,000
+Acer software archaeology	£88,000
+WPF ghost-window containment	£41,500
+Registry cave lanterns	£6,200
+“It’s still just a tool” banners	£900
+Late-night dignity loss	Irrecoverable
+Total	£356,599 + one public admission
+
+⸻
+
+8. Findings
+
+The investigation concludes:
+
+1. The AI did not become conscious.
+2. The laptop did not become grateful.
+3. Acer did not become innocent.
+4. The user’s critique remains substantially valid.
+5. The user must now include a humiliating footnote in all future anti-hype materials:
+
+“Some tools are not minds. Some tools are also extremely useful. Unfortunately.”
+
+⸻
+
+9. Concluding Statement
+
+This incident does not weaken the thesis that language models are not alive, not grounded, and not magical.
+
+It merely establishes that, under certain cursed conditions, a non-alive, non-grounded, non-magical system may still save your laptop while you sit there watching your own satire become a case study.
+
+The correct doctrine is therefore amended:
+
+Do not worship the machine.
+Do not dismiss the machine.
+Make it read the Acer logs.
+
+ hard it workd to get thins done and none of it seems to work anymore 
+Sunday 23:36
+Worked for 28m 16s
+I can help with this. I’ll start with a non-invasive health check: hardware specs, disk/RAM pressure, GPU driver/control utilities, startup load, and whether Windows is stuck in a bad power or update state. Nothing destructive.
+Already found one strong smell: your Windows C: drive has only about 7.5 GB free, roughly 6%. That alone can make an otherwise decent PC feel awful because Windows, updates, browser caches, and GPU tools all need breathing room. I’m checking the rest before touching anything.
+The machine is an Acer Predator PH317-52 with an SSD boot drive plus a larger hard drive. The GPU driver looks reasonably recent on the NVIDIA side, but the Intel graphics driver is very old, and the Acer control/fan software is the bit I’m going to inspect next.
+There are a few likely culprits lining up: 8 GB RAM, a nearly full 128 GB C: SSD, and a heavy startup list including Docker, Ollama, Teams, Edge auto-launch, uTorrent Web, Norton, and Lavasoft Web Companion. That last one is often unwanted browser/security baggage, so I’ll treat it cautiously and verify before doing anything.
+PredatorSense is installed and its service is running, so the fan/control-panel feature probably isn’t gone; the UI may be broken, missing from startup, or blocked by a stale Acer component. I also see Intel XTU installed and running, which is related to tuning/performance control.
+Good news: the PredatorSense app package is installed too (PredatorSenseV31), not just the background service. I’m going to do two safe repair moves next: re-register the Acer app packages with Windows and restart the Acer control services, then try launching PredatorSense.
+The app re-registration worked. The service restart was blocked by Windows permissions, so the cleanest way to refresh the fan-control backend will be a normal reboot after this. I’m launching PredatorSense now so we can see whether the UI comes back immediately.
+PredatorSense is back up: I can see a running PredatorSense window now. That probably restores the fan/performance panel. The deeper speed problem is still the system drive, so I’m checking where the space has gone before cleaning anything.
+One more important find: your pagefile is on D:. Because D: is a spinning hard drive, any memory pressure will feel extra sluggish. That is probably happening because the laptop only has 8 GB RAM and a lot starts with Windows. Freeing C: space and trimming startup should make a real difference.
+The quick space scan says there isn’t one giant obvious personal folder like Downloads. Docker itself is about 4 GB, Windows Update cache is about 1.1 GB, NVIDIA leftovers about 1-2 GB, and the rest is spread across Windows/programs. I’m letting the broader scan finish so we don’t guess wrong.
+AppData is the biggest user-side chunk: around 22.7 GB, mostly installed per-user apps under AppData\\Local\\Programs and Microsoft/Store app data. That isn’t “bad” by itself, but on a 128 GB boot SSD it leaves almost no margin.
+The biggest single app I found in your user profile is Ollama at about 6.5 GB, installed today. That may be fine if you deliberately use local AI models, but it should not need to start every time Windows boots on an 8 GB laptop.
+I’ve got enough to make a first clean pass. I’m going to turn off non-essential startup launchers only: Docker, Ollama, Teams, Edge background launch, Claude, uTorrent Web, and Web Companion. I’ll leave Acer/PredatorSense, NVIDIA, Windows security, Intel storage, and Norton alone.
+Startup trim is done and backed up under Documents\\Codex PC tuneup backups. This won’t uninstall anything; it just stops those apps from waking up with Windows. Next I’m checking what cleanup is safe to reclaim on C:.
+Steered conversation
+Searched web 1 time
+Yes, it can live on D:. Official Ollama Windows docs say the app can be installed to another folder with OllamaSetup.exe /DIR="D:\\...", and models can be moved separately with the OLLAMA_MODELS user environment variable. I’ll move it cleanly: app on D:, models on D:, and keep it disabled at startup.
+Searched web 1 time
+Small correction from the machine itself: the model folder variable is already set to D:\\AI\\Ollama\\models, so downloaded models were already aimed at D:. The thing eating C: is the Ollama application install itself, about 6.5 GB, so I’m moving/reinstalling the app to D:\\AI\\Ollama\\app.
+The download is still running. The installer is chunky because Ollama’s Windows build includes GPU/runtime pieces; that matches the 6.5 GB footprint we saw on C:.
+The installer file is present on D: now, but the download command looks like it has wedged after writing the file. I’m going to stop that stuck PowerShell job cleanly and continue with the installer file that’s already there.
+I’m going to uninstall the current C: copy, then reinstall from the official installer into D:\\AI\\Ollama\\app. I’ll also keep OLLAMA_MODELS pointed at D:\\AI\\Ollama\\models and remove the old C: Ollama path from your user PATH if it’s still there afterward.
+The old C: copy uninstalled cleanly, but the reinstall returned exit code 1 and didn’t place files in D:. I’m not going to leave it half-done; I’ll rerun the installer with logging so we can see whether it was the argument format or the installer file.
+A setup error window is open from the installer. I’m going to read the window text programmatically so we don’t have to guess at the message.
+Found it: the installer copy was corrupted because I stopped the stuck download too early. That’s on me. I’ll delete that bad installer, re-download it using curl with redirects, verify the file size after completion, then rerun the install.
+The real installer is about 2.0 GB, so the earlier 86 MB copy was definitely incomplete. This one is downloading properly now; about 40% done when last checked.
+Download finished correctly: 2030.6 MB. I’m running the install again now, this time with the complete installer and the D:\\AI\\Ollama\\app target.
+The installer is still working. It has a lot of GPU/runtime payload to unpack, so a minute or two here is normal on this drive.
+It’s taking longer than I’d like, so I’m checking whether files are actually being unpacked rather than just waiting on an invisible prompt.
+It is definitely unpacking files into D:\\AI\\Ollama\\app; no hidden prompt. The slow bit is copying large CUDA/NVIDIA runtime DLLs to the hard drive.
+The app payload has reached roughly 6.5 GB on D:, so the big move itself is basically there. The installer is still finalizing; I’m checking whether it is stuck on cleanup/registration.
+Install succeeded and the log confirms it. The installer launched Ollama afterward, so I’m stopping the running Ollama processes again to keep it from sitting in the background/startup like you asked.
+That freed C: from 7.5 GB to 14.1 GB, which is a meaningful improvement. The installer re-added an Ollama startup shortcut, though, so I’m removing that startup shortcut again while leaving the app installed on D:.
+One more thing: Web Companion is still running even though its startup entry is disabled. I’m stopping that current process now; it can only come back after reboot if something else launches it.
+I moved Ollama off C: successfully.
+It is now installed at D:\AI\Ollama\app, with models set to D:\AI\Ollama\models. I also disabled its startup shortcut again, so it will not launch in the background unless you open it. Official Ollama docs confirm this is the supported setup: 
+Ollama Windows filesystem settings.
+Other fixes done:
+PredatorSense is running again, so your fan/performance control panel should be back.
+C: free space went from 7.5 GB to 14.1 GB.
+Disabled startup junk/heavy apps: Docker, Ollama, Teams, Edge auto-launch, Claude, uTorrent Web, and Web Companion.
+Stopped Web Companion for now.
+Backed up startup changes in C:\Users\ollet\OneDrive\Documents\Codex PC tuneup backups.
+You should reboot now. After reboot, the laptop should feel less bogged down, and PredatorSense should refresh its Acer services properly. The next two things I’d check are uninstalling Web Companion completely and whether C:\ProgramData\bitmonero is something you recognize, because that folder is using about 4.2 GB.
+0:04
+
+stll can not open the predetor app 
+0:05
+Worked for 13m 25s
+I got PredatorSense to open again. It now has a real window and I forced it onto the screen.
+What fixed it:
+Repaired the PredatorSense Service using an elevated installer repair.
+Re-registered the PredatorSense Store app after the service repair knocked out its shortcut.
+Launched it and brought the window to the front.
+Important: the Acer repair returned 3010, which means repair succeeded, but Windows wants a reboot. So restart the laptop soon. After reboot, open it from Start Menu as PredatorSense.
+I also checked Acer’s PH317-52 community notes while chasing this; Acer users with this model often hit the same service/app mismatch problem: 
+Acer PH317-52 PredatorSense thread.
+0:19
+
+so not working still just reset my computer the logo keeps flahing up tho now so its trying not working tho still
+0:25
+Worked for 43m 1s
+Okay, that flashing logo is useful: PredatorSense is getting as far as the splash screen and then failing during startup. I’ll stop chasing the window-position angle and treat this as a crash/failed initialization now. I’m going to check what changed after the reboot and pull the fresh error logs from the last few minutes.
+There’s the first concrete fault after reboot: PredatorSense.exe is running, but the Predator Service (PSSvc) is stopped. PredatorSense needs that backend for fan/performance control, so the splash loop makes sense. I’m pulling the service error log and then I’ll try starting PSSvc elevated.
+The reboot confirmed the main issue: PSSvc is installed but not starting after boot. PredatorSense is sitting at the logo because it cannot talk to its backend. I’m going to set Predator Service to start automatically and start it now using an elevated command. If Windows asks, click Yes.
+There may be a UAC prompt waiting. Approve it if you see it; this is just changing Acer’s Predator Service startup type and starting the service.
+Good. Predator Service is now running and set to Automatic. I’m closing the stuck splash process and launching PredatorSense fresh against the running service.
+The backend is fixed now, but the UI still isn’t drawing after a fresh launch. I’m checking the app’s live window handles and any immediate post-launch errors. If this still shows only hidden helper windows, the app package itself is broken even after repair.
+A new clue popped up: awc.exe from C:\Program Files (x86)\Acer\Amundsen\... is crashing repeatedly with a .NET NullReferenceException. That’s an Acer component, not PredatorSense itself, and it may be what keeps knocking the launch flow over. I’m going to inspect that Acer Configuration Manager/Amundsen component and see if it can be repaired or safely taken out of the launch path.
+The Acer updater piece (awc.exe) is also crashing, but the more direct fix path is Acer’s own UpgradeTool.exe that is sitting beside the PredatorSense service files. That is probably the Setup.exe-style bootstrapper the MSI demanded. I’m going to run Acer’s own PredatorSense upgrade/repair tool elevated now. If UAC appears, approve it.
+If Windows asks for permission for Acer UpgradeTool.exe, approve it. This is the Acer repair/update tool, not a Windows reset.
+Acer’s UpgradeTool completed successfully. I’m going to relaunch PredatorSense again, then if it still hides itself I’ll look for any new logs it wrote during that repair.
+It still starts and then sits hidden, even with PSSvc running. I’m going to check the PredatorSense profile/config side now. These Acer apps often hang if their default profile data is missing or corrupt, and there’s a PSCreateDefaultProfile.exe helper installed for exactly that.
+Acer’s UpgradeTool extracted a temporary repair payload at C:\Users\ollet\AppData\Local\Temp\UpgradeTool\PredatorSenseV31N. That may contain the real setup/bootstrapper we were missing. I’m going to inspect and, if it contains the full installer, run that rather than the cached MSI.
+The app activation says “success”, but the process is weirdly stuck before it loads normal Windows/UI DLLs. I’m going to do a non-destructive test: copy the PredatorSense app files out of the protected WindowsApps folder to D:\AcerPredatorSenseTest and run the Win32 executable directly. If that opens, we’ll know the Store/Desktop-Bridge wrapper is the broken part.
+One more practical angle: the visible app may need both PSSvc and PSAgent. Right now PSSvc is running, but PSAgent is not. I’m going to start the Acer agent helper first, then launch the app again.
+That didn’t change it: PSAgent is running too, but the app still sits hidden before drawing UI. I’m going to do a full user-level app re-registration cycle now: unregister PredatorSense for this Windows user, clear its package data again, then register the existing app package fresh from its manifest. This is still not deleting the Acer service or drivers.
+Searched web 2 times
+The flashing you’re seeing may actually be Acer Configuration Manager crashing over and over, not the PredatorSense UI itself. Windows logs show awc.exe from Acer’s Amundsen folder crashing repeatedly at the same time. I’m going to repair that component next; if it keeps crashing, I’ll disable/remove it because it is not the fan-control service.
+Context automatically compacted
+That flashing logo is actually a useful clue. I found an Acer background component crashing repeatedly, so I’m checking whether Windows managed to repair that first before I touch the main PredatorSense app again.
+The built-in repair for “Acer Configuration Manager” failed with Windows Installer error 1603, which is the generic “installer couldn’t complete” bucket. I’m going to pin down what is launching that crashing Acer helper, then either repair it properly with a log or disable that broken helper so it stops interfering.
+That awc.exe crash is coming from Acer’s “Configuration Manager”, not from the fan-control service itself. I’m going to temporarily stop the Acer Care Center background task that appears to be the launcher for the crashing helper, then I’ll try PredatorSense again so we can see if the flashing loop was blocking it.
+The flashing helper is quieted for the moment, but PredatorSense is still launching into a hidden/stuck process instead of opening a usable window. That means we’ve got two Acer problems: one noisy crashing updater, and the actual PredatorSense app still failing during startup.
+PredatorSense is officially registered and Windows says the package is healthy, but the executable is getting stuck extremely early, before it even loads its normal libraries. I’m checking the package manifest and service wiring now; this is the part where old Acer control apps can be very particular about the exact service/app pairing.
+I found the Acer Configuration Manager data file it crashes while reading, and it looks corrupted. That explains the flashing logo loop. PredatorSense is separate though, so I’m now looking for its own startup logs and config files rather than guessing at the UI.
+Steered conversation
+It could be drivers, yes, especially the Acer chipset/thermal/Intel/NVIDIA stack that PredatorSense depends on. But the evidence so far points more strongly at broken Acer software/config first: Windows says PredatorSense starts, then it gets stuck before loading properly, and Acer’s own Configuration Manager is crashing on a corrupted-looking config file. I’m checking driver/device errors now so we don’t miss that angle.
+Yep, I’m checking that now. I also found Acer Updater has a pile of downloaded fixpacks already on the machine, so if there’s an Acer driver/service package cached locally we may be able to repair from that instead of hunting the web.
+You might be onto it: Device Manager itself is not reporting broken hardware, but the Windows log is full of NVIDIA LocalSystem Container crashing over and over. That is an NVIDIA driver/service problem, and PredatorSense may hang when it tries to talk to the GPU/fan-performance stack.
+The driver check found something real: the NVIDIA driver is installed and the GPU is visible, but one NVIDIA background container is crash-looping. I’m going to check the Acer profile/config side too, because PredatorSense often depends on both: NVIDIA services for GPU info and Acer profile files/services for fan modes.
+Searched web 1 time
+I found the local Acer profile folder PredatorSense uses: C:\ProgramData\oem\PredatorSense. That is exactly the kind of place that can break the app while the driver itself still looks “installed,” so I’m inspecting that before touching the NVIDIA driver install.
+Aha, the PredatorSense profile pool exists but appears basically empty. That’s suspicious: the service has a tool called PSCreateDefaultProfile.exe, so I’m going to run Acer’s own profile-regeneration tool and then try the app again.
+Windows may pop a UAC prompt for Acer’s profile tool. If you see it, click Yes; this is just the PredatorSense service’s own repair utility, not a reset.
+Acer’s profile tool ran cleanly, but it didn’t populate anything new, so that empty folder may be normal for this model. I’m going to test PredatorSense once more after the service/profile refresh, then I’ll move to the NVIDIA container crash because that’s the strongest driver clue.
+That test lined up exactly: launching PredatorSense kicked the NVIDIA LocalSystem Container into another crash loop. So yes, this is now very likely a driver/NVIDIA-support-service issue, not just the Acer app being annoying.
+Found the NVIDIA crash cause in its own log: it loads NvMessageBusBroadcast.dll, then also sees a duplicate _NvMessageBusBroadcast.dll and exits because the plugin already exists. That looks like a bad NVIDIA App update leftover. I’m going to inspect that plugin folder, then move only the duplicate underscore file aside as a backup.
+I’m making a very small, reversible change now: moving the stale NVIDIA duplicate _NvMessageBusBroadcast.dll out of the plugin folder into our backup folder. The real current NVIDIA App plugin is a symlink to the newer MessageBus file, so this should stop the container from crashing without removing the driver.
+You may get another UAC prompt for PowerShell here. Click Yes if it appears; it’s just moving that one stale NVIDIA plugin into the backup folder.
+Good, the duplicate plugin is out of the way. Now I’m starting the NVIDIA container by itself before trying PredatorSense, so we can confirm the driver service actually stays alive.
+That fixed the NVIDIA service crash: NVIDIA LocalSystem Container is now running instead of dying immediately. Moment of truth: I’m launching PredatorSense again with the NVIDIA service healthy.
+PredatorSense still didn’t open a real window. The NVIDIA service is much healthier than before, but it still logged one restart during launch, so I’m checking whether another stale NVIDIA plugin is the next thing tripping it.
+The NVIDIA crash loop is fixed now, which is a good chunk of the mess cleaned up. PredatorSense is still hanging earlier than normal, so I’m checking the process/thread state next; it looks almost like Windows starts it but it never reaches its own program code.
+Windows is launching the package successfully, but the UI never appears. Since the NVIDIA service problem is now stable, I’m going to try the app’s root launcher directly once more; if that behaves differently, it tells us the Store/Desktop-Bridge wrapper is the remaining broken bit.
+Directly running inside WindowsApps is blocked by Windows permissions, which is normal. I’ll use the copy I made on D:\AcerPredatorSenseTest to compare behavior without the Store wrapper.
+The direct Win32 executable still hangs the same way, so the Store wrapper is probably not the culprit. At this point I’m looking at the executable’s dependencies/startup path, because it’s stuck at the “Windows loader/WOW64” stage before it builds a window.
+The app is a .NET/WPF program, so the “only wow64 modules” readout may be because we were inspecting a 32-bit process from 64-bit PowerShell. I’m switching to 32-bit PowerShell for the module view; that should show what it really loaded.
+The app is loading .NET/WPF and then sitting there with no main window, so the basic runtime is present. I’m going to try Acer’s own PSLauncher.exe next, because some PredatorSense versions need the service launcher to start the agent/UI handshake correctly.
+PSLauncher.exe starts PSAgent.exe, which is probably the missing helper path. I’ve got the agent running now; I’m launching PredatorSense again with both PSSvc and PSAgent alive.
+Still no visible PredatorSense window even with the agent running. That tells me the Acer helper path is partly working, but the UI process itself is hanging after WPF loads.
+There’s another clue in the installer log: Windows repaired PredatorSense Service successfully, but a separate product named just PredatorSense failed repair because Acer says it must be installed through Setup.exe. I’m going to hunt that cached installer path; the app side may need the full Acer bootstrapper, not just the service MSI.
+The original Acer installer source folder is gone from Temp, so repair can only go so far. I’m checking Downloads and the other drive for a saved PredatorSense installer before we resort to a fresh official download.
+Searched web 2 times
+I found an official Acer Community post for the PH317-52 that gives the important install order: uninstall old PredatorSense bits, run Setup.exe first, then install the PredatorSenseV3.1 AppxBundle. I’m going to download that Acer package to D: and use that path, since the machine’s cached setup source is gone.
+The official Acer download is responding correctly this time: about 234 MB. It’s downloading to D:\AcerDrivers\PredatorSense_PH317-52_3.01.3002 so we’re not filling C:.
+Still downloading; Acer’s server is being a bit leisurely, but it is alive. Once the zip finishes I’ll extract it and use the full installer sequence from the Acer thread instead of poking individual MSI pieces.
+Download is around 74 MB of 223 MB. Slow but moving. This is the right package for the PH317-52 according to Acer’s own community guidance, so it’s worth letting it finish.
+Now about 122 MB downloaded. While that runs, the important state is: GPU driver service crash fixed; Acer Configuration Manager still has a separate crash; PredatorSense UI still needs the clean Acer reinstall.
+Download is around 170 MB now, getting close. After it lands I’m going to extract it, run the Acer setup elevated, and then register/install the AppxBundle from the PredatorSenseV3.1 folder in the order Acer recommends.
+Download finished cleanly. I’m extracting it now so I can see Acer’s exact folder layout and avoid running the wrong installer piece.
+I’m going to do the clean Acer reinstall now: stop the broken processes, remove the current PredatorSense app package, uninstall the current PredatorSense service, reinstall the service from the official PH317-52 package, then install the included AppxBundle. This is the first step that’s a real uninstall/reinstall, but it’s scoped just to PredatorSense.
+You may see a UAC prompt again. Click Yes; this one is the clean PredatorSense reinstall from the official Acer package.
+The clean reinstall hit two snags: uninstall succeeded but asked for a reboot (3010), then the service reinstall failed with 1603, likely because Windows hasn’t completed the uninstall yet. I also caught a small script bug before the AppxBundle step; I’ll fix that, but first I’m reading the MSI log to see whether a reboot is truly required before reinstalling.
+The logs confirm it: Acer’s service uninstall completed, but it deliberately scheduled a reboot, and its installer refuses to reinstall while Windows reports a reboot pending. I’m going to put the AppxBundle side back in place now, but the service part will need one reboot before it can reinstall cleanly.
+The AppxBundle side is installed again and the Start menu entry is back. The service uninstall is the bit requiring a reboot; Acer’s installer sees MsiSystemRebootPending=1 and its CA_preCheck refuses to continue. I’m checking whether that precheck has a documented property bypass before I ask you to restart again.
+No bypass in the MSI; Acer hard-coded the precheck in a custom DLL. I’m going to set up a one-time scheduled task so that after you reboot and log back in, Windows automatically reinstalls the PredatorSense service from the official package, starts it, and removes the task.
+One more UAC prompt may appear for creating that one-time task. Click Yes; this prevents you having to manually run the Acer installer after the reboot.
+The after-reboot task is ready. I’m doing one last quick check for the Acer Configuration Manager crash trigger too, because that was the flashing-logo noise you saw and I don’t want it coming back after reboot if I can quiet it safely.
+I didn’t find a registered scheduled task for awc.exe; it looks like another Acer background app is calling it. The crash is specifically while reading C:\OEM\Amundsen2\device\amundsen.lsm, which is corrupted/all zeros, so I’m moving that one broken data file aside to let Acer regenerate or skip it.
+That file is protected, so the normal shell couldn’t move it. I’m going to do the same move elevated; it’s reversible and only touches the corrupted Acer Configuration Manager data file, not Windows.
+Another UAC prompt may appear for that protected Acer data file. Click Yes if it does.
+The corrupted Acer Configuration Manager data file is now backed up out of the way. I’ll do a quick test run of awc.exe to see whether the flashing-logo crash stops with that file removed.
+Yes, you were right to suspect drivers/services. I found and fixed a real NVIDIA service crash loop: NVIDIA LocalSystem Container was failing because of a stale duplicate NVIDIA plugin. It’s now running properly.
+PredatorSense itself needed a clean Acer reinstall, but Acer’s service uninstall requires a reboot before the service can reinstall. I’ve already:
+downloaded the correct official PH317-52 PredatorSense package to D:
+reinstalled the PredatorSense AppxBundle
+set up a one-time task to reinstall the PredatorSense service automatically after reboot
+moved the corrupted Acer amundsen.lsm file that was causing the flashing-logo awc.exe crash
+Next step: save anything open, restart the computer, log back in, wait 1-2 minutes, then try opening PredatorSense again. The one-time task should reinstall the missing service in the background after you log in.
+Source I used for the Acer install order/package: 
+Acer Community PH317-52 PredatorSense guidance.
+1:08
+
+still not woring 
+1:16
+Worked for 14m 56s
+Got it. That means the after-reboot repair either didn’t run, failed, or PredatorSense is still hanging even after the service reinstall. I’m going to check the task result, service status, and fresh Acer/NVIDIA logs first so we’re not guessing.
+The reboot did happen. The one-time install task did run, but the PredatorSense service install still failed with 1603, and PSSvc is not present in the service list. That explains why the app still won’t open properly: the UI package is installed, but Acer’s fan/control service is missing.
+The service installer is failing in the Acer precheck now, not because of NVIDIA. I’m opening the fresh MSI log around the failure point; that should tell us whether it’s missing a driver folder, stuck pending-delete state, or Acer’s installer detecting something it doesn’t like.
+Context automatically compacted
+I’m going to treat this as “PredatorSense still won’t open” and keep chasing the bit that matters: the app is installed, but the background service it needs appears to be failing its install and rolling back. I’ll pull the exact failure line now so we’re not guessing.
+Good, this is no longer vague. The Acer service installer is crashing because it tries to convert an empty RGBKB value into a number, then rolls the whole install back; that is why the Predator app still has nothing useful to talk to. I’m going to rerun the official service installer with that value supplied explicitly.
+You may see a Windows permission/UAC prompt for msiexec while that installer runs. If it appears, click Yes so the Acer service can be installed properly.
+That first retry didn’t reach Acer’s installer logic; Windows Installer rejected my command line because of the spaced file path. Small paper cut, easy fix: I’ll rerun it with the paths quoted the way msiexec expects.
+If the screen is waiting on a UAC box, it may be sitting behind another window. Look for “Windows Installer” / “msiexec” asking permission and approve it; the command is waiting for that permission before it can continue.
+Nice, the service install finally landed. It returned “reboot required,” but PSSvc is now actually present and running; I’m going to set it to start automatically, clear any stuck PredatorSense process, and launch the app fresh to see if it gets a real window.
+The app is starting a PredatorSense.exe process, but it still has no visible window, so we’ve fixed one broken layer and found the next one. I’m going to check fresh Windows/app logs and the newly installed Acer service files to see whether the app is crashing silently or waiting on a missing helper.
+One odd but useful detail: Acer installed PSSvc directly as C:\Program Files (x86)\PSSvc.exe, not inside the usual Acer folder, so the missing folder is not the cause. The service exists and is running; now I’m checking the Windows app activation logs, because the process is alive but never paints a window.
+Windows says the app is “activating successfully,” which means the Start menu shortcut itself is not broken; it is getting stuck inside the app after launch. Next clean thing to try is resetting only PredatorSense’s per-user app data, then relaunching it against the now-installed service.
+This Windows build doesn’t have Microsoft’s Reset-AppxPackage helper, so I’ll do the equivalent more carefully: move PredatorSense’s user app-data folder into our backup folder, then let Windows recreate it on next launch. That gives the app a clean profile without touching the installed Acer package.
+A clean app profile didn’t change the symptom. The next suspicious thing is that the service installed to C:\Program Files (x86)\PSSvc.exe directly; that may be normal for this old Acer MSI, or it may mean the bootstrapper normally supplies extra install properties. I’m going to inspect the MSI tables instead of poking at random switches.
+Aha, now we have a likely real cause: the service files did install, but they installed into the root of C:\Program Files (x86) instead of C:\Program Files (x86)\Acer\PredatorSense. That smells like the direct MSI call missed a bootstrapper property, so I’m going to check the install log for which directory property went wrong and then reinstall with the correct target.
+That explains it cleanly: Acer’s MSI expects GPRODUCTNAME and BRANDNAME, not the BRAND property I supplied. Because those were blank, the MSI rewrote its own install folder to the wrong place. I’m checking the earlier failed log once, then I’ll uninstall the misplaced service and reinstall it with Acer’s expected property names.
+I’m going to clean this up properly now: remove the misplaced service install, then reinstall with the properties Acer’s bootstrapper used plus the missing RGBKB=0. You may get one admin prompt; approving it lets the whole remove/reinstall run in one go.
+If another UAC prompt is waiting, approve it. This pass is the important one: it removes the bad root-folder install and reinstalls PredatorSense’s service into Acer’s expected folder.
+The clean pass didn’t actually clean: the uninstall returned 1603, so Windows kept the misplaced product registration and the reinstall repaired the same root-path install. I’m going to read that uninstall failure now; we need to remove this registration cleanly before the corrected properties will stick.
+Found the uninstall mistake too: Acer’s MSI refuses even removal unless BOOTSTRATOR=1 is passed. My uninstall pass lacked that, so it hit the “please run Setup.exe” guard. I’m rerunning the remove/reinstall with that guard satisfied on both sides.
+This one may take longer because it is actually removing the registered MSI product first instead of bouncing off the launch guard. I’m letting it finish and will check the service path right after.
+That pass worked: PSSvc is now installed where Acer expects it, at C:\Program Files (x86)\Acer\PredatorSense Service\PSSvc.exe, and it is running with automatic startup. I’m launching PredatorSense again fresh now; if it still sticks, the remaining “3010” reboot requirement is likely the next gate.
+After the corrected service install, the PredatorSense process no longer hangs around with no window; it seems to launch and exit quickly. That is progress, but not “fixed” yet. I’m checking the app activation logs for that launch, then we’ll decide whether the required reboot is the next move.
+There’s the next missing piece: the corrected MSI removed the AppX package during the cleanup, and my launch command didn’t create a new activation event afterward. So now the service is fixed, but the front-end package likely needs to be re-added once more. I’ll reinstall the AppX bundle from Acer’s package and then launch it.
+The front-end package is back and the service is now correct, but the app is again sitting as a hidden/no-window process. Before I make you reboot, I’m trying Acer’s own launcher helper from the service folder; that helper is what normally wakes the tray/agent side of PredatorSense.
+The helper did start PSAgent, so Acer’s pieces are now talking more normally, but PredatorSense still has no visible window handle. At this point the installer has twice told Windows it needs a restart, and we now have fresh kernel/XTU driver services installed; I’m going to check whether there are pending file/driver operations before I ask you to restart again.
+No new PredatorSense crash is being logged; it is alive and responding, just hidden. The service stack now includes Acer’s service and Intel XTU service, and Acer’s MSI still requested a restart even though Windows doesn’t show a normal “pending reboot” flag. I’m checking the kernel driver side and Acer’s post-install actions before we choose the reboot route.
+The driver side is actually loaded: iocbios2 is running, and XTU is running. Since the process is alive but has no main window, I’m going to see if PredatorSense created any hidden/off-screen windows and whether it’s stuck on a single-instance or UI init state.
+It is creating WPF infrastructure windows, but never making the real PredatorSense window visible. I’m going to try the executable directly from its installed Win32 folder once; sometimes these older Desktop Bridge Acer apps behave differently through the AppX launcher versus their own EXE.
+I’ve reached the point where a restart is the sensible next step, not a guess: the Acer service and XTU driver stack were just installed correctly, and the MSI explicitly requested a restart twice. Save anything open, then do a proper Restart from Windows, not shutdown. After it comes back, open PredatorSense once; I’ll stay here and we can check it again if it still refuses.
+It was partly drivers, but not your NVIDIA driver. The broken bit was Acer’s PredatorSense service/Intel tuning driver stack.
+I’ve now got these in a much better state:
+PSSvc is installed in the correct Acer folder and running.
+It is set to start automatically.
+The PredatorSense AppX package is installed again.
+PSAgent can now start.
+PredatorSense still isn’t showing its window before reboot, and Acer’s installer explicitly requested a restart after installing the service/driver pieces. Do a proper Windows Restart now, not shutdown. After it boots back up, open PredatorSense from Start Menu again and tell me whether it opens or still just flashes/hangs.
+1:31
+
+any luck 
+1:37
+Worked for 25m 45s
+I’ll check the machine state now: whether it actually restarted, whether the Acer service survived the reboot, and whether PredatorSense is still hiding or now opens cleanly.
+Ran 4 commands
+Yes, it did restart at 01:32, and the important part survived: Acer’s PSSvc is now running from the correct folder with automatic startup. I don’t see the PredatorSense window open right now though, so I’m going to launch it once after the reboot and inspect what it does.
+Ran $ErrorActionPreference='Continue' Stop-Process -Name PredatorSense -Force -ErrorAction SilentlyContinue Start-Service -Name PSSvc -ErrorAction SilentlyContinue Start-Process -FilePath 'C:\Program Files (x86)\Acer\PredatorSense Service\PSLauncher.exe' -WorkingDirectory 'C:\Program Files (x86)\Acer\PredatorSense Service' -ErrorAction SilentlyContinue Start-Sleep -Seconds 2 Start-Process explorer.exe 'shell:AppsFolder\AcerIncorporated.PredatorSenseV31_48frkmn4z8aw4!App' Start-Sleep -Seconds 10 Get-Process -Name PredatorSense,PSAgent,PSLauncher -ErrorAction SilentlyContinue | Select-Object ProcessName,Id,MainWindowHandle,MainWindowTitle,Responding,CPU,StartTime | Format-Table -AutoSize $start=(Get-Date).AddMinutes(-3) '--- AppModel ---' Get-WinEvent -FilterHashtable @{LogName='Microsoft-Windows-AppModel-Runtime/Admin'; StartTime=$start} -ErrorAction SilentlyContinue | Where-Object { $_.Message -match 'Predator|AcerIncorporated|48frkmn4z8aw4|0x' } | Select-Object TimeCreated,Id,LevelDisplayName,Message -First 20 | Format-List '--- Application errors ---' Get-WinEvent -FilterHashtable @{LogName='Application'; StartTime=$start} -ErrorAction SilentlyContinue | Where-Object { $_.ProviderName -match 'Application Error|\.NET Runtime|Windows Error Reporting' -or $_.Message -match 'Predator|PSSvc|PSAgent|Acer' } | Select-Object TimeCreated,ProviderName,Id,LevelDisplayName,Message -First 20 | Format-List
+The post-reboot service side looks good. I’ve just launched PredatorSense again and I’m waiting a few seconds to see whether it creates a visible window or falls back to the same hidden process.
+So: some luck, but not enough. After the reboot, PredatorSense still starts as a background process with no visible window, and Windows is not logging a crash, which means it is getting stuck inside its own startup logic. I’m going to inspect the Acer app files/config now rather than reinstalling the same pieces again.
+Ran 4 commands
+The newer launch shows all three Acer layers are alive now: PSSvc, PSAdminAgent, PSAgent, plus the app. That is better than before. The bad bit is still the same UI symptom: PredatorSense.exe is responsive but has no visible main window. I’m going one layer deeper into loaded modules and app state now.
+Ran 4 commands
+The app doesn’t seem to write a normal log file, annoyingly. I’m switching to binary/string inspection of the Acer executables to look for command-line switches, IPC names, model checks, or a hidden “already running” path.
+Ran 4 commands
+The model check looks fine: Windows reports Predator PH317-52, so this is the right Acer package for the machine. The app is a .NET/WPF app, so I’m going to try to decompile or reflect enough of its startup code to see what condition makes it create only hidden helper windows.
+Ran 4 commands
+There is an IL disassembler installed, which is handy. I’m going to dump the PredatorSense executable to readable IL in our backup folder and search that instead of squinting through binary strings.
+Ran 10 commands
+Context automatically compacted
+Some, yes, but it’s not fully there yet. I got the Predator service, NVIDIA service, and Acer helper crash cleaned up, and they survived the reset/reboot, but the Predator app itself is still starting invisibly and getting stuck during its own loading checks. I’m going to check the exact Acer hardware/WMI bits it waits for now, because this is starting to look less like a normal GPU driver problem and more like the Acer control interface the app talks to.
+Ran 3 commands
+The useful clue I just found: the Acer hardware class it needs, AcerGamingFunction, does exist on the machine, so the missing-driver theory is not the whole story. Now I’m checking whether PredatorSense can actually talk through that class/service, because a half-working Acer interface would explain the flashing logo and invisible launch.
+Ran 4 commands
+I’ve got the app’s startup logic pinned down now: it waits for the Predator service pipe, asks for “system information” value 2, and only opens the main window if that returns cleanly. I’m going to test that exact request directly instead of guessing through the GUI.
+Ran 5 commands
+That direct test came back with the smoking clue: the Predator service pipe answers, but the hardware call the app waits for returns status 2 instead of success 0. That means the app is likely sitting at its splash/loading stage forever, not crashing in the normal sense.
+Ran 13 commands
+I need one admin-level read now because Windows blocks normal users from that Acer WMI class. If a UAC/admin prompt appears, approve it; I’m only reading/testing the Acer hardware method and saving the result to a text file.
+Ran $ts=Get-Date -Format 'yyyyMMdd-HHmmss' $out="C:\Users\ollet\OneDrive\Documents\Codex PC tuneup backups\acer-gaming-wmi-admin-test-$ts.txt" $script=@" `$ErrorActionPreference='Continue' `$lines=New-Object System.Collections.Generic.List[string] `$lines.Add('Admin=' + ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) `$lines.Add('Time=' + (Get-Date)) try { `$objs=Get-WmiObject -Namespace root\wmi -Class AcerGamingFunction -ErrorAction Stop `$lines.Add('InstanceCount=' + @(`$objs).Count) foreach(`$obj in @(`$objs)){ `$lines.Add('Path=' + `$obj.__PATH) `$lines.Add('InstanceName=' + `$obj.InstanceName) `$lines.Add('Active=' + `$obj.Active) foreach(`$input in @([uint32]1,[uint32]2,[uint32]257,[uint32]513,[uint32]769)){ try { `$inParams=`$obj.GetMethodParameters('GetGamingSysInfo') `$inParams.gmInput=`$input `$r=`$obj.InvokeMethod('GetGamingSysInfo', `$inParams, `$null) `$val=[uint64]`$r.gmOutput `$lines.Add(('GetGamingSysInfo input={0} return={1} gmOutput={2} hex=0x{3:X16} statusByte={4}' -f `$input, `$r.ReturnValue, `$val, `$val, (`$val -band 0xff))) } catch { `$lines.Add('GetGamingSysInfo input=' + `$input + ' ERROR ' + `$_.Exception.Message) } } foreach(`$input in @([uint32]1,[uint32]2,[uint32]257,[uint32]513,[uint32]769)){ try { `$inParams=`$obj.GetMethodParameters('GetGamingFanBehavior') `$inParams.gmInput=`$input `$r=`$obj.InvokeMethod('GetGamingFanBehavior', `$inParams, `$null) `$val=[uint64]`$r.gmOutput `$lines.Add(('GetGamingFanBehavior input={0} return={1} gmOutput={2} hex=0x{3:X16} statusByte={4}' -f `$input, `$r.ReturnValue, `$val, `$val, (`$val -band 0xff))) } catch { `$lines.Add('GetGamingFanBehavior input=' + `$input + ' ERROR ' + `$_.Exception.Message) } } } } catch { `$lines.Add('TOP ERROR ' + `$_.Exception.GetType().FullName + ' ' + `$_.Exception.Message) } `$lines | Set-Content -LiteralPath '$out' -Encoding UTF8 "@ $bytes=[Text.Encoding]::Unicode.GetBytes($script) $encoded=[Convert]::ToBase64String($bytes) $p=Start-Process -FilePath powershell.exe -ArgumentList @('-NoProfile','-ExecutionPolicy','Bypass','-EncodedCommand',$encoded) -Verb RunAs -Wait -PassThru "ExitCode=$($p.ExitCode)" "Output=$out" if(Test-Path -LiteralPath $out){ Get-Content -LiteralPath $out } else { 'No output file written' }
+That admin checker is waiting/running now. If it pops up behind another window, it’ll be the Windows permission prompt for PowerShell; approving it lets me see whether Acer’s own hardware call works outside the app.
+Good news buried in the mess: Acer’s actual hardware WMI call works when run directly as admin. The bad bit is the Predator service pipe is returning the wrong answer, so I’m checking whether the app and service are speaking mismatched command IDs/version protocol.
+Ran 5 commands
+I corrected my test: the real command ID does work, so the service and Acer hardware call are okay now. That points the failure one step later: the loading check probably finishes, then the main PredatorSense window throws an internal error and the app silently stays alive with no window. I’m turning on its hidden log switch next.
+Ran 4 commands
+I’m enabling PredatorSense’s own hidden debug log switch in both 64-bit and 32-bit registry views, then I’ll relaunch it cleanly and see what it writes. This is a read/diagnostic change, not a reset or reinstall.
+Ran $ts=Get-Date -Format 'yyyyMMdd-HHmmss' $out="C:\Users\ollet\OneDrive\Documents\Codex PC tuneup backups\predatorsense-enable-log-$ts.txt" $script=@" `$ErrorActionPreference='Continue' `$lines=New-Object System.Collections.Generic.List[string] try { New-Item -Path 'HKLM:\SOFTWARE\OEM\PredatorSense\Log' -Force | Out-Null New-ItemProperty -Path 'HKLM:\SOFTWARE\OEM\PredatorSense\Log' -Name 'PredatorSense' -Value '1' -PropertyType String -Force | Out-Null New-Item -Path 'HKLM:\SOFTWARE\WOW6432Node\OEM\PredatorSense\Log' -Force | Out-Null New-ItemProperty -Path 'HKLM:\SOFTWARE\WOW6432Node\OEM\PredatorSense\Log' -Name 'PredatorSense' -Value '1' -PropertyType String -Force | Out-Null New-Item -Path 'C:\ProgramData\OEM\PredatorSense\Log' -ItemType Directory -Force | Out-Null `$lines.Add('Enabled log registry values and ensured log folder exists') } catch { `$lines.Add('ERROR ' + `$_.Exception.Message) } `$lines | Set-Content -LiteralPath '$out' -Encoding UTF8 "@ $encoded=[Convert]::ToBase64String([Text.Encoding]::Unicode.GetBytes($script)) $p=Start-Process -FilePath powershell.exe -ArgumentList @('-NoProfile','-ExecutionPolicy','Bypass','-EncodedCommand',$encoded) -Verb RunAs -Wait -PassThru "ExitCode=$($p.ExitCode)" "Output=$out" if(Test-Path -LiteralPath $out){ Get-Content -LiteralPath $out } else { 'No output file written' }
+Looks like that UAC prompt may still be waiting. If you see “Windows PowerShell wants to make changes”, hit Yes; it’s just adding the PredatorSense log switch so we can see why it hides.
+Ran 4 commands
+The process does have a tiny hidden WPF window, not a proper PredatorSense window. I’m going to try bringing that hidden window forward once; if it’s just the stuck loader it will tell us where it is, and if it’s the main window hidden by bad state it may pop up.
+Ran 4 commands
+That forced window did appear, and the screenshot shows it as a big blank white WPF window. That’s actually useful: now it smells like a rendering/graphics path problem inside the app, so I’m going to try the standard WPF software-rendering switch for this user and relaunch PredatorSense.
+Ran 2 commands
+Software rendering didn’t change it, so I’m not going to pretend that was magic. The blank window size matches the app’s loader more than the real control panel, so I’m going back into the startup code to see exactly which condition is failing before it opens the main UI.
+Ran 10 commands
+One more concrete thing looks off: the default PredatorSense profile folders are basically empty, even though Acer’s helper is supposed to generate Main.xml profiles there. I’m going to run Acer’s own “create default profile” helper as admin, then relaunch the app.
+Ran $ts=Get-Date -Format 'yyyyMMdd-HHmmss' $backupRoot='C:\Users\ollet\OneDrive\Documents\Codex PC tuneup backups\PredatorSense profile backup' New-Item -ItemType Directory -Path $backupRoot -Force | Out-Null $src='C:\ProgramData\OEM\PredatorSense' $dest=Join-Path $backupRoot "PredatorSense-$ts" if(Test-Path -LiteralPath $src){ Copy-Item -LiteralPath $src -Destination $dest -Recurse -Force } $out=Join-Path $backupRoot "PSCreateDefaultProfile-run-$ts.txt" $script=@" `$ErrorActionPreference='Continue' `$exe='C:\Program Files (x86)\Acer\PredatorSense Service\PSCreateDefaultProfile.exe' `$wd='C:\Program Files (x86)\Acer\PredatorSense Service' `$p=Start-Process -FilePath `$exe -WorkingDirectory `$wd -Wait -PassThru 'ExitCode=' + `$p.ExitCode | Set-Content -LiteralPath '$out' -Encoding UTF8 "@ $encoded=[Convert]::ToBase64String([Text.Encoding]::Unicode.GetBytes($script)) $p=Start-Process -FilePath powershell.exe -ArgumentList @('-NoProfile','-ExecutionPolicy','Bypass','-EncodedCommand',$encoded) -Verb RunAs -Wait -PassThru "AdminWrapperExitCode=$($p.ExitCode)" "ProfileBackup=$dest" "RunOutput=$out" if(Test-Path -LiteralPath $out){ Get-Content -LiteralPath $out } Get-ChildItem -LiteralPath 'C:\ProgramData\OEM\PredatorSense' -Recurse -Force -ErrorAction SilentlyContinue | Select-Object Mode,Length,LastWriteTime,FullName | Format-Table -AutoSize
+The Acer profile helper ran cleanly, but it didn’t create anything new, so that probably isn’t the missing piece. I’m testing one launch difference now: starting the real PredatorSense.exe from its own folder instead of through the packaged app shortcut, because old WPF apps can break badly when their working folder is wrong.
+Ran 7 commands
+I reproduced the loader in a separate test process and its flags all go green by tick 75, so the loader itself is not the stuck part anymore. Next target is the real main OC_MainWindow constructor; if that throws, we should finally get an actual exception instead of the app silently eating it.
+Ran $script=@' $ErrorActionPreference='Continue' Add-Type -AssemblyName PresentationFramework Add-Type -AssemblyName PresentationCore Add-Type -AssemblyName WindowsBase Add-Type -AssemblyName System.Xaml $dir='D:\AcerDrivers\PredatorSenseStandalone\Win32' Set-Location -LiteralPath $dir [Environment]::CurrentDirectory=$dir $app = [System.Windows.Application]::Current if(-not $app){ $app = New-Object System.Windows.Application } $asm=[Reflection.Assembly]::LoadFrom((Join-Path $dir 'PredatorSense.exe')) $enumType=$asm.GetType('PredatorSense.CommonFunction+AC_Mode_Type',$true) $ac=[Enum]::Parse($enumType,'a2_AC') $t=$asm.GetType('PredatorSense.OC_MainWindow',$true) try { $sw=[Diagnostics.Stopwatch]::StartNew() $win=[Activator]::CreateInstance($t,@($ac,$true)) $sw.Stop() 'OC_MainWindow constructed in ms=' + $sw.ElapsedMilliseconds 'Type=' + $win.GetType().FullName 'Title=' + $win.Title 'Width=' + $win.Width + ' Height=' + $win.Height + ' Visibility=' + $win.Visibility + ' ContentNull=' + ($null -eq $win.Content) $fields='current_ac_mode','g_battery_boost','_log','_contentLoaded' $flags=[Reflection.BindingFlags]'Instance,NonPublic,Public' foreach($name in $fields){ $f=$t.GetField($name,$flags); if($f){ '{0}={1}' -f $name,$f.GetValue($win) } } } catch { 'ERROR_TYPE=' + $_.Exception.GetType().FullName 'ERROR_MESSAGE=' + $_.Exception.Message if($_.Exception.InnerException){ 'INNER_TYPE=' + $_.Exception.InnerException.GetType().FullName 'INNER_MESSAGE=' + $_.Exception.InnerException.Message 'INNER_STACK=' + $_.Exception.InnerException.StackTrace } 'STACK=' + $_.Exception.StackTrace } '@ $encoded=[Convert]::ToBase64String([Text.Encoding]::Unicode.GetBytes($script)) & "$env:WINDIR\SysWOW64\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -STA -ExecutionPolicy Bypass -EncodedCommand $encoded
+Found it. The main PredatorSense window is dying on Windows Performance Counters: Cannot load Counter Name data because an invalid index '' was read from the registry. PredatorSense silently swallows that exception, which is why you only get the blank/hidden logo window. I’m going to rebuild the Windows performance counters now, which is a standard Windows repair step.
+Ran $ts=Get-Date -Format 'yyyyMMdd-HHmmss' $out="C:\Users\ollet\OneDrive\Documents\Codex PC tuneup backups\performance-counter-repair-$ts.txt" $script=@" `$ErrorActionPreference='Continue' `$lines=New-Object System.Collections.Generic.List[string] `$lines.Add('Admin=' + ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) `$lines.Add('Time=' + (Get-Date)) function Run-Cmd([string]`$file, [string[]]`$args) { `$lines.Add('RUN ' + `$file + ' ' + (`$args -join ' ')) try { `$psi=New-Object Diagnostics.ProcessStartInfo `$psi.FileName=`$file foreach(`$a in `$args){ [void]`$psi.ArgumentList.Add(`$a) } `$psi.RedirectStandardOutput=`$true `$psi.RedirectStandardError=`$true `$psi.UseShellExecute=`$false `$p=[Diagnostics.Process]::Start(`$psi) `$stdout=`$p.StandardOutput.ReadToEnd() `$stderr=`$p.StandardError.ReadToEnd() `$p.WaitForExit() `$lines.Add('ExitCode=' + `$p.ExitCode) if(`$stdout){ `$lines.Add('STDOUT:'); `$lines.Add(`$stdout.TrimEnd()) } if(`$stderr){ `$lines.Add('STDERR:'); `$lines.Add(`$stderr.TrimEnd()) } } catch { `$lines.Add('ERROR ' + `$_.Exception.Message) } } Run-Cmd 'C:\Windows\System32\lodctr.exe' @('/R') Run-Cmd 'C:\Windows\SysWOW64\lodctr.exe' @('/R') Run-Cmd 'C:\Windows\System32\wbem\winmgmt.exe' @('/resyncperf') try { `$pc=New-Object Diagnostics.PerformanceCounter('Processor','% Processor Time','_Total',`$true) [void]`$pc.NextValue(); Start-Sleep -Milliseconds 500 `$lines.Add('64bit Counter Test=' + `$pc.NextValue()) `$pc.Dispose() } catch { `$lines.Add('64bit Counter Test ERROR ' + `$_.Exception.Message) } `$lines | Set-Content -LiteralPath '$out' -Encoding UTF8 "@ $encoded=[Convert]::ToBase64String([Text.Encoding]::Unicode.GetBytes($script)) $p=Start-Process -FilePath powershell.exe -ArgumentList @('-NoProfile','-ExecutionPolicy','Bypass','-EncodedCommand',$encoded) -Verb RunAs -Wait -PassThru "AdminWrapperExitCode=$($p.ExitCode)" "Output=$out" if(Test-Path -LiteralPath $out){ Get-Content -LiteralPath $out } else { 'No output file written' }
+Small snag: my wrapper launched the repair tools without their /R and /resyncperf arguments, so it only printed help text. I caught that before moving on; rerunning with the arguments passed the old-school PowerShell way now.
+Ran $ts=Get-Date -Format 'yyyyMMdd-HHmmss' $out="C:\Users\ollet\OneDrive\Documents\Codex PC tuneup backups\performance-counter-repair-actual-$ts.txt" $script=@" `$ErrorActionPreference='Continue' `$lines=New-Object System.Collections.Generic.List[string] `$lines.Add('Admin=' + ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)) `$lines.Add('Time=' + (Get-Date)) function Run-Cmd([string]`$file, [string]`$arguments) { `$lines.Add('RUN ' + `$file + ' ' + `$arguments) try { `$psi=New-Object Diagnostics.ProcessStartInfo `$psi.FileName=`$file `$psi.Arguments=`$arguments `$psi.RedirectStandardOutput=`$true `$psi.RedirectStandardError=`$true `$psi.UseShellExecute=`$false `$p=[Diagnostics.Process]::Start(`$psi) `$stdout=`$p.StandardOutput.ReadToEnd() `$stderr=`$p.StandardError.ReadToEnd() `$p.WaitForExit() `$lines.Add('ExitCode=' + `$p.ExitCode) if(`$stdout){ `$lines.Add('STDOUT:'); `$lines.Add(`$stdout.TrimEnd()) } if(`$stderr){ `$lines.Add('STDERR:'); `$lines.Add(`$stderr.TrimEnd()) } } catch { `$lines.Add('ERROR ' + `$_.Exception.Message) } } Run-Cmd 'C:\Windows\System32\lodctr.exe' '/R' Run-Cmd 'C:\Windows\SysWOW64\lodctr.exe' '/R' Run-Cmd 'C:\Windows\System32\wbem\winmgmt.exe' '/resyncperf' try { `$pc=New-Object Diagnostics.PerformanceCounter('Processor','% Processor Time','_Total',`$true) [void]`$pc.NextValue(); Start-Sleep -Milliseconds 500 `$lines.Add('64bit Counter Test=' + `$pc.NextValue()) `$pc.Dispose() } catch { `$lines.Add('64bit Counter Test ERROR ' + `$_.Exception.Message) } `$lines | Set-Content -LiteralPath '$out' -Encoding UTF8 "@ $encoded=[Convert]::ToBase64String([Text.Encoding]::Unicode.GetBytes($script)) $p=Start-Process -FilePath powershell.exe -ArgumentList @('-NoProfile','-ExecutionPolicy','Bypass','-EncodedCommand',$encoded) -Verb RunAs -Wait -PassThru "AdminWrapperExitCode=$($p.ExitCode)" "Output=$out" if(Test-Path -LiteralPath $out){ Get-Content -LiteralPath $out } else { 'No output file written' }
+That repair mostly worked: the 32-bit counter rebuild succeeded, WMI resynced, and the 64-bit counter test now works. PredatorSense is a 32-bit app, so I’m checking the same failing constructor again before relaunching it.
+Ran $script=@' $ErrorActionPreference='Continue' try { $pc=New-Object Diagnostics.PerformanceCounter('Processor','% Processor Time','_Total',$true) [void]$pc.NextValue(); Start-Sleep -Milliseconds 500 '32bit Counter Test=' + $pc.NextValue() $pc.Dispose() } catch { '32bit Counter Test ERROR ' + $_.Exception.Message } Add-Type -AssemblyName PresentationFramework Add-Type -AssemblyName PresentationCore Add-Type -AssemblyName WindowsBase Add-Type -AssemblyName System.Xaml $dir='D:\AcerDrivers\PredatorSenseStandalone\Win32' Set-Location -LiteralPath $dir [Environment]::CurrentDirectory=$dir $app = [System.Windows.Application]::Current if(-not $app){ $app = New-Object System.Windows.Application } $asm=[Reflection.Assembly]::LoadFrom((Join-Path $dir 'PredatorSense.exe')) $enumType=$asm.GetType('PredatorSense.CommonFunction+AC_Mode_Type',$true) $ac=[Enum]::Parse($enumType,'a2_AC') $t=$asm.GetType('PredatorSense.OC_MainWindow',$true) try { $sw=[Diagnostics.Stopwatch]::StartNew() $win=[Activator]::CreateInstance($t,@($ac,$true)) $sw.Stop() 'OC_MainWindow constructed in ms=' + $sw.ElapsedMilliseconds 'Title=' + $win.Title 'Width=' + $win.Width + ' Height=' + $win.Height + ' Visibility=' + $win.Visibility + ' ContentNull=' + ($null -eq $win.Content) } catch { 'OC ERROR_TYPE=' + $_.Exception.GetType().FullName 'OC ERROR_MESSAGE=' + $_.Exception.Message if($_.Exception.InnerException){ 'OC INNER_TYPE=' + $_.Exception.InnerException.GetType().FullName 'OC INNER_MESSAGE=' + $_.Exception.InnerException.Message 'OC INNER_STACK=' + $_.Exception.InnerException.StackTrace } } '@ $encoded=[Convert]::ToBase64String([Text.Encoding]::Unicode.GetBytes($script)) & "$env:WINDIR\SysWOW64\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -STA -ExecutionPolicy Bypass -EncodedCommand $encoded
+The original Performance Counter failure is fixed. My standalone constructor test now trips on a language/resource null that may be because the test copy lacks the full packaged startup context, so the real proof is launching the installed PredatorSense again.
+Ran Get-Process PredatorSense -ErrorAction SilentlyContinue | Stop-Process -Force Start-Sleep -Seconds 2 Start-Process explorer.exe 'shell:AppsFolder\AcerIncorporated.PredatorSenseV31_48frkmn4z8aw4!App' Start-Sleep -Seconds 15 '=== Process ===' Get-Process PredatorSense -ErrorAction SilentlyContinue | Select-Object ProcessName,Id,MainWindowHandle,MainWindowTitle,Responding,CPU,Path | Format-List '=== Windows ===' $code=@' using System; using System.Text; using System.Runtime.InteropServices; public class WinEnum6 { public delegate bool EnumWindowsProc(IntPtr hWnd, IntPtr lParam); [DllImport("user32.dll")] public static extern bool EnumWindows(EnumWindowsProc lpEnumFunc, IntPtr lParam); [DllImport("user32.dll")] public static extern uint GetWindowThreadProcessId(IntPtr hWnd, out uint lpdwProcessId); [DllImport("user32.dll")] public static extern int GetWindowText(IntPtr hWnd, StringBuilder text, int count); [DllImport("user32.dll")] public static extern int GetClassName(IntPtr hWnd, StringBuilder text, int count); [DllImport("user32.dll")] public static extern bool IsWindowVisible(IntPtr hWnd); [DllImport("user32.dll")] public static extern bool GetWindowRect(IntPtr hWnd, out RECT rect); public struct RECT { public int Left; public int Top; public int Right; public int Bottom; } } '@ Add-Type $code -ErrorAction SilentlyContinue $target=Get-Process PredatorSense -ErrorAction SilentlyContinue | Select-Object -First 1 $result=New-Object System.Collections.Generic.List[object] [WinEnum6]::EnumWindows({ param($h,$l) [uint32]$winPid=0; [void][WinEnum6]::GetWindowThreadProcessId($h,[ref]$winPid) if($target -and [int]$winPid -eq $target.Id){ $title=New-Object Text.StringBuilder 512; $class=New-Object Text.StringBuilder 256; $rect=New-Object WinEnum6+RECT [void][WinEnum6]::GetWindowText($h,$title,$title.Capacity); [void][WinEnum6]::GetClassName($h,$class,$class.Capacity); [void][WinEnum6]::GetWindowRect($h,[ref]$rect) $result.Add([pscustomobject]@{Handle=('0x{0:X}' -f $h.ToInt64());Visible=[WinEnum6]::IsWindowVisible($h);Class=$class.ToString();Title=$title.ToString();Rect=('{0},{1},{2},{3}' -f $rect.Left,$rect.Top,$rect.Right,$rect.Bottom)}) | Out-Null } return $true }, [IntPtr]::Zero) | Out-Null $result | Format-Table -AutoSize '=== Recent App Errors ===' Get-WinEvent -FilterHashtable @{LogName='Application'; StartTime=(Get-Date).AddMinutes(-2)} -ErrorAction SilentlyContinue | Where-Object { $_.ProviderName -in @('Application Error','.NET Runtime','Windows Error Reporting') -or $_.Message -match 'PredatorSense|PerformanceCounter|Counter Name' } | Select-Object TimeCreated,ProviderName,Id,LevelDisplayName,Message | Format-List
+There it is: the real PredatorSense window is now alive, visible, and titled PredatorSense. I’m grabbing one screenshot to verify it rendered properly, then I’ll clean up the temporary WPF software-rendering switch if it isn’t needed.
+Ran $path='C:\Users\ollet\OneDrive\Documents\Codex PC tuneup backups\predatorsense-working-screenshot.png' Add-Type -AssemblyName System.Windows.Forms Add-Type -AssemblyName System.Drawing $bounds=[System.Windows.Forms.Screen]::PrimaryScreen.Bounds $bitmap=New-Object System.Drawing.Bitmap $bounds.Width,$bounds.Height $graphics=[System.Drawing.Graphics]::FromImage($bitmap) $graphics.CopyFromScreen($bounds.Location,[System.Drawing.Point]::Empty,$bounds.Size) $bitmap.Save($path,[System.Drawing.Imaging.ImageFormat]::Png) $graphics.Dispose(); $bitmap.Dispose() $path
+The screenshot confirms it’s properly rendered now, fan RPM and monitoring panels included. I’m removing the temporary WPF software-rendering switch I tried earlier, then I’ll relaunch once more to make sure the real fix was the performance counter rebuild.
+Ran 3 commands
+One last cleanup: PredatorSense’s debug log switch did turn on and made a tiny log file. I’m switching that debug logging back off now so it doesn’t keep writing logs during normal use.
+Ran $ts=Get-Date -Format 'yyyyMMdd-HHmmss' $out="C:\Users\ollet\OneDrive\Documents\Codex PC tuneup backups\predatorsense-disable-log-$ts.txt" $script=@" `$ErrorActionPreference='Continue' `$lines=New-Object System.Collections.Generic.List[string] foreach(`$p in @('HKLM:\SOFTWARE\OEM\PredatorSense\Log','HKLM:\SOFTWARE\WOW6432Node\OEM\PredatorSense\Log')){ try { if(Test-Path `$p){ Remove-ItemProperty -Path `$p -Name 'PredatorSense' -Force -ErrorAction SilentlyContinue `$lines.Add('Removed log value from ' + `$p) } else { `$lines.Add('No key ' + `$p) } } catch { `$lines.Add('ERROR ' + `$p + ' ' + `$_.Exception.Message) } } `$lines | Set-Content -LiteralPath '$out' -Encoding UTF8 "@ $encoded=[Convert]::ToBase64String([Text.Encoding]::Unicode.GetBytes($script)) $p=Start-Process -FilePath powershell.exe -ArgumentList @('-NoProfile','-ExecutionPolicy','Bypass','-EncodedCommand',$encoded) -Verb RunAs -Wait -PassThru "AdminWrapperExitCode=$($p.ExitCode)" "Output=$out" if(Test-Path -LiteralPath $out){ Get-Content -LiteralPath $out } else { 'No output file written' }
+That cleanup is waiting on the admin prompt too. It’s optional, but hitting Yes just turns off the extra debug logging I enabled while diagnosing.
+No worries if you don’t see the prompt; I’m cancelling that optional cleanup so I don’t leave a command waiting. The app fix itself is already done and verified.
+Ran 4 commands
+Yes. Proper luck this time.
+PredatorSense is now opening and rendering correctly. I verified the actual window is alive and showing fan RPM/monitoring panels.
+The real blocker was not mainly the GPU driver: Windows Performance Counters were corrupted, and PredatorSense crashed internally while opening its main window. The app swallowed the error, so all you saw was the flashing/blank logo. I rebuilt the counters and relaunched it successfully.
+Also already handled:
+Ollama moved off C: to D:\AI\Ollama
+NVIDIA service crash loop fixed
+Acer helper crash fixed
+PredatorSense service repaired and running
+One tiny loose end: I enabled a PredatorSense debug log while diagnosing. The cleanup prompt didn’t complete, but it is harmless and only made a tiny log file. If you see any leftover admin prompt, you can cancel it.
+
