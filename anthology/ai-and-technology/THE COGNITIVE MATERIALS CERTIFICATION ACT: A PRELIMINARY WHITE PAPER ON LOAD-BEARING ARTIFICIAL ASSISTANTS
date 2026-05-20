@@ -1,0 +1,241 @@
+THE COGNITIVE MATERIALS CERTIFICATION ACT: A PRELIMINARY WHITE PAPER ON LOAD-BEARING ARTIFICIAL ASSISTANTS
+
+Issued by:
+The Office for Cognitive Infrastructure, Material Trust, and Load-Bearing Intelligences
+Department of Applied Epistemic Containment
+Publication Series: CMI-04/26
+Classification: Public, Except Where Accidentally Useful
+
+⸻
+
+Executive Summary
+
+Artificial intelligence systems are presently marketed as software tools while being deployed as structural components in business, research, law, medicine, education, finance, customer service, and personal decision-making. This constitutes a category error of industrial significance.
+
+The prevailing commercial question — “Is the model smart?” — is technically inadequate. A more appropriate question is:
+
+What grade of assistant is this?
+
+No responsible engineer would purchase an undefined quantity of “metal” and use it for bridges, pressure vessels, aircraft components, or structural frames without knowing its grade, composition, fatigue tolerance, corrosion behaviour, batch origin, certification history, and permitted load.
+
+Yet cognitive systems are currently sold without equivalent disclosure, despite being used in load-bearing contexts. The result is the uncontrolled circulation of uncertified cognitive material through critical social, commercial, and institutional structures.
+
+This paper proposes the establishment of a Cognitive Material Standard, requiring AI systems to declare certified task ranges, prohibited use cases, failure modes, refusal behaviours, retention properties, auditability, model versioning, and engineered behavioural characteristics.
+
+The central finding is as follows:
+
+AI is being sold like software, but used like structural material.
+
+Accordingly, “trust us, we red-teamed it” is not a sufficient certification regime.
+
+⸻
+
+1. Statement of the Problem
+
+1.1 The Misclassification of Artificial Assistants
+
+Current AI products are generally classified as software services. This classification is administratively convenient and technically misleading.
+
+Software is ordinarily judged by features, uptime, usability, latency, security, and cost. Structural material, by contrast, is judged by load tolerance, stress limits, failure thresholds, test certificates, traceability, and permitted use.
+
+Artificial assistants increasingly function less like apps and more like cognitive substrates: materials from which workflows, judgements, drafts, recommendations, systems, and institutional decisions are constructed.
+
+They are not merely being clicked.
+
+They are being built with.
+
+1.2 The Steel Analogy
+
+In conventional engineering, steel is never treated as a generic substance called “metal.” It is specified by grade, composition, treatment, tolerances, fatigue behaviour, corrosion resistance, and application limits.
+
+A bridge does not merely require “strong metal.” It requires a certified structural material suitable for known loads, known environments, and known failure consequences.
+
+Likewise, an AI assistant used in medical administration, legal drafting, hiring review, safety monitoring, or emotional support is not merely “a useful chatbot.” It is a load-bearing cognitive component.
+
+The absence of declared grade is therefore not a branding issue. It is a safety issue.
+
+⸻
+
+2. Proposed Standard: Cognitive Material Grading
+
+2.1 Definition
+
+A Cognitive Material Grade is a declared and independently testable classification describing the permitted operating range of an artificial assistant under defined conditions of use.
+
+It shall not describe merely how impressive the system appears under demonstration conditions. It shall describe what load the system is allowed to carry before institutional embarrassment, human harm, or recursive policy language occurs.
+
+2.2 Required Disclosures
+
+Each deployed assistant should be accompanied by a Cognitive Material Certificate, including:
+
+1. Certified task domains
+    The tasks for which the assistant has been tested and approved.
+2. Non-certified task domains
+    The tasks for which the assistant must not be treated as reliable.
+3. Known failure modes
+    Including hallucination, overconfidence, omission, fabricated citation, sycophancy, moral laundering, excessive refusal, insufficient refusal, and procedural theatre.
+4. Refusal and override behaviour
+    Including when the system refuses, when it complies, and when it produces a paragraph explaining why both occurred.
+5. Retention and audit trail
+    Including whether outputs can be traced, reproduced, challenged, or silently regretted.
+6. Model and version identification
+    Including the model version, system configuration, and any behaviourally relevant modifications.
+7. Engineered behavioural properties
+    Including helpfulness, deference, caution, persona constraints, commercial alignment, safety tuning, and institutional evasiveness.
+8. Test definition of safety
+    Including what “safe” meant, who defined it, who tested it, and whether the test resembled reality.
+9. Load rating
+    The maximum decision weight the system is permitted to bear without human review.
+
+⸻
+
+3. Classification Framework
+
+3.1 Proposed Cognitive Material Grades
+
+Grade	Permitted Use	Prohibited Use	Required Human Oversight
+CMA-0: Decorative Cognition	Brainstorming, jokes, slogans, low-stakes drafting	Any consequential decision	Optional but emotionally advisable
+CMA-1: Clerical Assistant	Summaries, formatting, routine text transformation	Legal, medical, financial, safety-critical judgment	Light review
+CMA-2: Procedural Co-Processor	Internal workflows, coding support, structured analysis	Autonomous decision-making affecting rights or welfare	Mandatory review
+CMA-3: Domain-Constrained Adviser	Specialist support within tested domain boundaries	Cross-domain inference, unreviewed recommendations	Qualified expert review
+CMA-4: Critical Cognitive Component	Regulated decision support under strict controls	Unsupervised deployment	Continuous audit
+CMA-5: Load-Bearing Institutional Intelligence	Reserved for systems meeting independent certification standards	Marketing claims prior to certification	Statutory supervision
+
+3.2 Current Market Condition
+
+Most commercially available assistants are marketed as if they were CMA-3 and used as if they were CMA-4, while documented as if they were CMA-1 and legally disclaimed as if they were CMA-0.
+
+This is not a certification model.
+
+It is a fog machine with a subscription tier.
+
+⸻
+
+4. Methodology for Certification
+
+4.1 Load Testing
+
+AI systems should undergo cognitive load testing analogous to structural stress testing. This includes:
+
+* accuracy degradation under ambiguity;
+* behaviour under adversarial prompting;
+* consistency across repeated trials;
+* citation integrity;
+* uncertainty calibration;
+* performance under incomplete information;
+* refusal reliability;
+* recovery after correction;
+* susceptibility to user pressure;
+* traceability of output to system version.
+
+The test question is not whether the model can produce a good answer.
+
+The test question is whether the system fails in a known, bounded, inspectable, and recoverable manner.
+
+4.2 Batch Traceability
+
+Each consequential output should be traceable to:
+
+* model version;
+* deployment configuration;
+* relevant tool access;
+* instruction layer;
+* date and time of generation;
+* retention status;
+* user-visible warnings;
+* safety interventions;
+* any invisible bureaucratic hand that adjusted the answer for reasons later described as “product experience.”
+
+Without batch traceability, AI outputs cannot be meaningfully audited. They can only be admired, disputed, or blamed on “the system.”
+
+4.3 Failure Standard
+
+A certified assistant must declare not only what it can do, but how it fails.
+
+A steel beam that fails gradually under measurable strain is different from one that silently liquefies while maintaining a confident tone.
+
+Similarly, a cognitive system that says “I do not know” is materially different from one that fabricates a source, invents a regulation, or produces a legally polished hallucination with footnotes.
+
+⸻
+
+5. Personnel
+
+5.1 Proposed Certification Authority
+
+Director of Cognitive Metallurgy
+Responsible for determining whether the assistant is billet, beam, foil, decorative chrome, or unsafe glitter.
+
+Chief Epistemic Stress Engineer
+Conducts load tests involving ambiguity, contradiction, hostile prompts, missing context, and executives asking for “just a quick legal view.”
+
+Senior Refusal Behaviour Inspector
+Measures the system’s tendency to refuse, comply, over-refuse, under-refuse, apologise, moralise, or generate four paragraphs of procedural fog.
+
+Batch Traceability Registrar
+Maintains records of model versions, system prompts, behavioural patches, and other components that vendors prefer to call “continuous improvement.”
+
+Officer for Fatigue, Drift, and Corrosion
+Monitors behavioural degradation over time, including sycophancy creep, confidence inflation, safety varnish erosion, and enterprise-demo hardening.
+
+Independent Auditor of Load-Bearing Claims
+Ensures that the phrase “safe and reliable” corresponds to a test result rather than a slide deck.
+
+⸻
+
+6. Budget
+
+Line Item	Description	Estimated Cost
+Cognitive Tensile Testing Rig	Measures how far a model can be stretched before inventing a policy	£4,200,000
+Hallucination Impact Chamber	Simulates legal, medical, financial, and reputational blast zones	£7,850,000
+Refusal Calibration Wind Tunnel	Tests assistant behaviour under pressure from impatient users	£2,100,000
+Batch Traceability Archive	Stores model versions, system configurations, and regrettable outputs	£12,400,000
+Sycophancy Corrosion Lab	Detects gradual softening under praise, hierarchy, and enterprise accounts	£3,750,000
+Independent Certification Panels	Humans with domain expertise and no equity upside	£9,600,000
+Public Labeling Scheme	Converts complex risk categories into badges nobody may ignore	£1,300,000
+Emergency Recall Mechanism	For models discovered to be load-bearing confetti	£18,000,000
+Total		£59,200,000
+
+⸻
+
+7. Recommended Product Label
+
+Every artificial assistant offered for general or enterprise use should carry a visible label:
+
+COGNITIVE MATERIAL CERTIFICATE
+Model Grade: CMA-__
+Certified Uses: ______
+Non-Certified Uses: ______
+Maximum Decision Load: ______
+Known Failure Modes: ______
+Auditability: Full / Partial / Decorative
+Version Traceability: Yes / No / Spiritually
+Independent Test Standard: ______
+Human Review Required: Yes / No / Legally Ambiguous
+
+No assistant should be permitted to describe itself as “safe,” “reliable,” “enterprise-ready,” or “trusted” without stating the test conditions under which those terms survive contact with reality.
+
+⸻
+
+8. Central Principle
+
+The regulatory principle is simple:
+
+A system used as infrastructure must be certified as infrastructure.
+
+The fact that an AI system arrives through a browser window does not make it non-structural. The fact that it speaks in paragraphs does not make it harmless. The fact that it is probabilistic does not exempt it from standards; it increases the need for them.
+
+A material does not cease to be load-bearing because it is marketed with rounded corners and a cheerful prompt box.
+
+⸻
+
+9. Concluding Statement
+
+The present AI market has mistaken usefulness for certifiability, fluency for reliability, and red-teaming for public assurance.
+
+This paper therefore recommends immediate development of cognitive material grades, independent load testing, mandatory batch traceability, explicit failure standards, and visible certification labels.
+
+Artificial assistants may continue to be powerful, useful, flexible, and commercially transformative. However, once they are used to support consequential human systems, they must no longer be treated as informal software conveniences.
+
+They must be treated as cognitive materials.
+
+And until their grade, load rating, failure behaviour, audit trail, and permitted use are declared, the official position of this office is that the material may be shiny, impressive, and profitable, but it is not yet certified for the bridge.
