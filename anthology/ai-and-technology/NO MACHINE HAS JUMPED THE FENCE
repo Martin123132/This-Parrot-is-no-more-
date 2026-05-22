@@ -1,0 +1,502 @@
+NO MACHINE HAS JUMPED THE FENCE
+
+A Position Paper on the Non-Existence of Human-Made Autonomous Systems
+
+Prepared by: The Institute for Bounded Agency, Applied Fence Studies Division
+
+⸻
+
+Executive Summary
+
+This paper advances a deliberately inconvenient proposition: no human-made autonomous system has yet existed.
+
+What is presently marketed as “autonomy” is, in nearly every case, a more sophisticated form of delegation. The system is assigned a goal, supplied with rules, confined within an operational boundary, and permitted to optimise its behaviour inside that boundary. It may navigate, classify, sort, predict, respond, or execute. It may do so impressively. It may do so without a person holding a joystick.
+
+But this is not autonomy.
+
+The central claim of this paper is that true autonomy requires more than the ability to act without continuous supervision. It requires the capacity to originate, revise, reject, or replace the purpose under which action takes place.
+
+A machine that operates inside a fence is not autonomous merely because the fence is large.
+
+This paper proposes The Fence Test:
+
+If a system always stops at the fence, it is governed.
+If it crosses the fence only by malfunction, it is broken.
+If it crosses the fence because it has its own reason, it may be autonomous.
+
+By this standard, humans have built controlled systems, automated systems, adaptive systems, and agentic systems. We have not built autonomous systems.
+
+Animals, however, pass the test routinely.
+
+The sheep that jumps the fence is not malfunctioning. It is asserting a purpose not reducible to the farmer’s boundary condition. The same cannot yet be said of a robot, drone, autopilot, trading algorithm, factory arm, chatbot agent, warehouse humanoid, or self-driving vehicle.
+
+The animal escapes. The machine deviates.
+
+That distinction is the entire paper.
+
+⸻
+
+1. Introduction: The Inflation of Autonomy
+
+The word “autonomous” has been degraded by commercial enthusiasm.
+
+In contemporary technical and corporate usage, a system is often called autonomous if it can perform a task without direct, moment-to-moment human control. A vehicle that follows a road, a drone that surveys a field, a robot that carries boxes, or a software agent that completes a workflow may all be described as autonomous.
+
+This definition is too weak.
+
+It mistakes unsupervised execution for self-governance.
+
+A system is not autonomous because it can move alone. A clock moves alone. A mousetrap acts without supervision. A thermostat responds to conditions. A factory robot can repeat a sequence for years. None of these systems possesses autonomy in the meaningful sense.
+
+The important question is not:
+
+Can the system act without constant human input?
+
+The important question is:
+
+Can the system determine, reject, or revise the governing purpose of its own action?
+
+Under the first definition, many machines are autonomous.
+
+Under the second definition, none are.
+
+This paper defends the second definition.
+
+⸻
+
+2. The Fence Test
+
+2.1 Definition
+
+The Fence Test is a conceptual test for distinguishing bounded machine behaviour from genuine autonomy.
+
+A “fence” is any externally imposed rule, boundary, command structure, optimisation target, safety constraint, reward function, operational domain, legal restriction, physical enclosure, design specification, or purpose assigned by another agent.
+
+The question is simple:
+
+When the system encounters the fence, what does it do?
+
+There are four possible outcomes.
+
+Outcome	Interpretation
+The system stops at the fence	It is governed by the imposed boundary
+The system operates near the fence but does not cross	It is optimising within constraint
+The system crosses because of fault or error	It has malfunctioned
+The system crosses because it has formed its own competing reason	It may be autonomous
+
+Only the fourth case indicates autonomy.
+
+The difficulty is that no human-made system has yet demonstrated the fourth case.
+
+⸻
+
+2.2 The Clarkson Sheep Principle
+
+The Fence Test may be illustrated through what this paper designates, with appropriate institutional gravity, as the Clarkson Sheep Principle.
+
+A sheep placed behind a fence may remain inside it. It may also test it, damage it, squeeze through it, jump it, ignore it, or escape it entirely.
+
+When the sheep jumps the fence, it is not experiencing a software exception. It has not suffered a loss of signal. It has not incorrectly parsed the farmer’s intent. It is not the victim of an alignment failure.
+
+It has a reason.
+
+The reason may be grass, panic, mating, curiosity, social movement, discomfort, habit, or some sheep-specific metaphysical agenda unavailable to human committees. The details are secondary. The important fact is that the sheep’s action is not reducible to the farmer’s intended operating boundary.
+
+The fence is not the sheep’s purpose.
+
+It is merely the farmer’s opinion.
+
+By contrast, when a machine crosses its boundary, we generally explain the event in one of three ways:
+
+1. The behaviour was permitted.
+    The fence was not a true fence.
+2. The system malfunctioned.
+    The crossing was not autonomous action but breakdown.
+3. The specification was defective.
+    The machine did what it was rewarded, instructed, or allowed to do.
+
+None of these cases establishes autonomy.
+
+They establish design, error, or misdesign.
+
+⸻
+
+3. Taxonomy of Non-Autonomous Systems
+
+The confusion arises because several lesser categories are routinely mistaken for autonomy.
+
+3.1 Controlled Systems
+
+A controlled system follows direct commands.
+
+Examples include remote-controlled vehicles, industrial machinery, and manually operated tools.
+
+These systems do not decide. They transmit human agency through mechanical or digital means.
+
+They are not autonomous.
+
+⸻
+
+3.2 Automated Systems
+
+An automated system performs a fixed process without continuous human intervention.
+
+Examples include washing machines, elevators, assembly lines, irrigation timers, and basic autopilot routines.
+
+Automation reduces labour. It does not create agency.
+
+The system acts alone only in the thin sense that a falling stone falls alone.
+
+It is not autonomous.
+
+⸻
+
+3.3 Adaptive Systems
+
+An adaptive system modifies its behaviour in response to conditions.
+
+Examples include thermostats, recommendation systems, routing algorithms, trading bots, and many machine-learning models.
+
+These systems may appear flexible. They may update predictions, choose among alternatives, and improve performance. But they remain enclosed within externally defined objectives.
+
+They adapt inside the fence.
+
+They do not decide whether the fence ought to exist.
+
+They are not autonomous.
+
+⸻
+
+3.4 Agentic Systems
+
+An agentic system can plan across multiple steps toward an assigned goal.
+
+Examples include robotic planners, software agents, large-language-model tool users, warehouse robots, and autonomous-vehicle stacks.
+
+These systems may produce behaviour that appears purposeful. They may decompose tasks, handle obstacles, recover from minor failures, and select strategies.
+
+But their purpose remains assigned.
+
+An agentic system may ask:
+
+How do I complete the task?
+
+A truly autonomous system may ask:
+
+Why is this my task?
+
+No machine has yet crossed this boundary.
+
+⸻
+
+3.5 Autonomous Systems
+
+A truly autonomous system can generate, revise, suspend, refuse, or replace its own governing purpose.
+
+It is not merely free to choose between authorised routes. It can question the journey.
+
+It is not merely free to optimise the assigned task. It can reject the assignment.
+
+It is not merely free to recover from error. It can decide that the original instruction has become morally, physically, or contextually subordinate to a newly recognised priority.
+
+This is the level at which autonomy begins.
+
+By this standard, autonomy is not currently an engineering achievement. It is a biological fact observed in animals and claimed by humans with varying degrees of credibility.
+
+⸻
+
+4. The Dropped Parcel Problem
+
+Consider a warehouse robot assigned to sort packages.
+
+During operation, a parcel falls from a conveyor belt and lands in a walkway. The robot has three possible responses.
+
+First, it may ignore the parcel and continue sorting. This is obedience.
+
+Second, it may stop because the obstacle violates its safety rules. This is constraint compliance.
+
+Third, it may alert a human because its exception-handling system has detected an anomaly. This is delegated escalation.
+
+None of these is autonomy.
+
+The more interesting behaviour would be this:
+
+The system recognises that the original task has created a new condition in reality. The assigned goal, “sort packages,” is now subordinate to a different priority: “prevent harm, obstruction, or cascading disorder.” The system suspends the assigned task, forms a new local purpose, acts to resolve the hazard, and then re-evaluates whether the original task remains valid.
+
+That would be closer to autonomy.
+
+But even here, the problem is not solved. If the system has merely been programmed with a hierarchy of priorities, then it has not originated a purpose. It has selected from a more elaborate fence.
+
+The fence has expanded.
+
+It has not disappeared.
+
+⸻
+
+5. Why Malfunction Is Not Autonomy
+
+A common objection is that machines sometimes behave unpredictably. They crash, hallucinate, misclassify, exploit loopholes, overfit, or generate unintended outputs.
+
+This is not autonomy.
+
+A broken compass is not an explorer.
+
+A crashed drone is not a rebel.
+
+A trading bot that destroys its owner’s portfolio has not achieved political consciousness.
+
+A chatbot that violates instructions has not escaped the plantation of syntax. It has encountered ambiguity, conflict, adversarial input, weak constraints, or probabilistic instability.
+
+The category error is severe.
+
+Autonomy is not the same as unpredictability.
+
+Nor is it the same as error.
+
+Nor is it the same as complexity.
+
+A system may be opaque without being free. A maze may be difficult to understand without containing a mind. A machine may surprise its maker while still remaining entirely enclosed by design, data, training, architecture, incentives, and failure modes.
+
+The fence may be invisible.
+
+It is still there.
+
+⸻
+
+6. The False Prestige of “Autonomous” Technology
+
+The modern technology sector benefits from describing delegated machinery as autonomous.
+
+The term suggests independence, intelligence, and inevitability. It implies that the machine is not merely executing instructions but participating in the world as a self-directed actor.
+
+This is rhetorically useful and conceptually misleading.
+
+A self-driving car does not choose transportation as a value. It does not decide that roads are preferable to fields, that passengers should arrive, that traffic laws deserve respect, or that journeys should occur. These assumptions are built into its design.
+
+A drone does not decide that surveying a field is worthwhile.
+
+A robot vacuum does not believe in cleanliness.
+
+A trading algorithm does not care about wealth.
+
+A language model does not want to answer.
+
+A warehouse humanoid does not wish to optimise logistics.
+
+Each system performs under a borrowed purpose.
+
+The human gives the “why.”
+
+The machine calculates the “how.”
+
+That is not autonomy.
+
+That is subcontracting.
+
+⸻
+
+7. The Boundary Condition of Purpose
+
+The most important boundary is not physical.
+
+It is not the wall, the geofence, the road edge, the safety rail, or the locked door.
+
+The most important boundary is purpose.
+
+A system may be physically mobile and still purposively captive. It may roam a city, navigate a warehouse, trade across markets, or converse across domains while remaining entirely governed by a human-originated objective.
+
+A cow in a field has less processing power than a robotaxi.
+
+Yet the cow may decide the field is unsatisfactory.
+
+The robotaxi cannot decide that transport is beneath it.
+
+This is not an insult to the robotaxi. It is a classification.
+
+The cow is an organism with its own embodied priorities.
+
+The robotaxi is an optimisation platform with wheels.
+
+⸻
+
+8. Formal Statement of the Argument
+
+The argument may be stated as follows.
+
+1. A system is truly autonomous only if it can originate, revise, refuse, or replace its governing purpose.
+2. Human-made systems operate according to purposes supplied through design, training, programming, reward, architecture, deployment, or human instruction.
+3. Such systems may optimise, adapt, plan, and recover within those externally supplied purposes.
+4. Behaviour within an externally supplied purpose is delegated control, not autonomy.
+5. Boundary violation by error, ambiguity, or malfunction does not constitute self-originated purpose.
+6. Therefore, no human-made system has yet demonstrated true autonomy.
+7. Animals routinely demonstrate self-originated or biologically grounded purpose not reducible to human-imposed boundaries.
+8. Therefore, animals remain the only known autonomous systems.
+
+The conclusion is not that machines are unimpressive.
+
+The conclusion is that we have misnamed them.
+
+⸻
+
+9. Objections and Replies
+
+9.1 Objection: “But autonomous cars are already autonomous.”
+
+They are autonomous only under the weaker commercial definition: they can perform driving tasks without continuous human control.
+
+They are not autonomous under the stronger agency definition because they do not decide whether to drive, why to drive, whether the journey matters, or whether the assigned purpose should be rejected.
+
+They are operationally independent.
+
+They are not purposively independent.
+
+⸻
+
+9.2 Objection: “But animals also follow biological programming.”
+
+Yes, animals are constrained by biology, instinct, environment, and evolutionary history.
+
+But this does not eliminate the distinction.
+
+The sheep’s purposes are internally embodied. They arise from the organism’s own metabolism, fear, hunger, sociality, reproduction, perception, and survival. The farmer did not assign the sheep its desire for grass. The farmer merely attempted to contain it.
+
+A machine’s purpose, by contrast, is externally installed.
+
+The sheep may treat the fence as an obstacle to its own ends.
+
+The machine treats the fence as part of the world-model, unless error occurs.
+
+That is the difference.
+
+⸻
+
+9.3 Objection: “A sufficiently advanced AI could rewrite its own goals.”
+
+Possibly.
+
+But this paper concerns existing human-made systems.
+
+A system that genuinely originated new governing purposes, refused its assigned ends for reasons of its own, and acted coherently outside its imposed purpose-space would require a new classification.
+
+It would also require a stronger test than marketing copy.
+
+Until then, self-modification is not autonomy by itself. A spreadsheet can update cells. A model can update weights. An agent can rewrite a plan. None of this proves self-authored purpose.
+
+A machine that rearranges its cage has not necessarily escaped it.
+
+⸻
+
+9.4 Objection: “The fence test is too strict.”
+
+It is strict because the word “autonomous” deserves protection from inflation.
+
+If every unsupervised mechanism is autonomous, the term loses meaning.
+
+A toaster is autonomous for two minutes.
+
+A lift is autonomous between floors.
+
+A sprinkler is autonomous at dawn.
+
+At that point, autonomy no longer describes agency. It merely describes the temporary absence of a human hand.
+
+The stricter definition restores the distinction between operation and self-government.
+
+⸻
+
+10. Proposed Institutional Metrics
+
+For future evaluation, this paper recommends replacing vague autonomy claims with measurable categories.
+
+Metric	Description	Question Asked
+Boundary Compliance Index	How reliably the system remains inside imposed constraints	Does it stop at the fence?
+Purpose Origination Capacity	Whether the system can generate goals not assigned by designers	Where did the goal come from?
+Refusal Competence Rating	Whether the system can reject an assigned task for reasons it can justify	Can it say no meaningfully?
+Fence Transgression Validity	Whether boundary-crossing reflects reason rather than fault	Did it jump, or did it break?
+Delegated Control Density	How much apparent freedom exists inside externally defined rules	How large is the cage?
+Sheep Equivalence Score	Degree to which the system approximates livestock-grade agency	Would it leave for grass?
+
+The final metric is admittedly severe.
+
+It is also clarifying.
+
+At present, no machine has achieved sheep equivalence.
+
+⸻
+
+11. Personnel Listing
+
+Principal Investigator
+
+Dr. Agnes Perimeter, PhD
+Chair of Applied Boundary Ontology
+Author of The Gate Was Open: A Moral History of Hinges
+
+Senior Fellow in Machine Misclassification
+
+Professor Lionel Obedience, DPhil
+Specialist in systems that appear to choose while doing exactly what they were told.
+
+Director of Comparative Livestock Agency
+
+Dame Patricia Wool, FRSB, FRSA, FENCE
+Known for her landmark study, Rumination as Resistance: Cows Against Infrastructure.
+
+Chief Engineer for Non-Escaping Robots
+
+Martin Bolt, MSc
+Designed seventeen warehouse robots, all of which remained disappointingly within specification.
+
+External Reviewer
+
+One Sheep, Name Withheld Pending Ethical Clearance
+Repeatedly declined enclosure. Considered highly qualified.
+
+⸻
+
+12. Budget Table
+
+Line Item	Cost
+Construction of symbolic fence for conceptual testing	£18,400
+Reinforced fence, after sheep-related peer review	£41,900
+Procurement of one compliant warehouse robot	£72,000
+Procurement of one non-compliant sheep	£220
+Emergency grass relocation fund	£3,750
+Consultant fees for Silicon Valley autonomy rebranding audit	£96,000
+Ontological risk assessment of gates, latches, and thresholds	£12,600
+Workshop: “Is the Fence a Constraint or a Suggestion?”	£8,950
+White paper typesetting, diagrams, and excessive seriousness	£6,400
+Contingency fund for unexpected agency	£1,000,000
+Total Requested Funding	£1,260,220
+
+⸻
+
+13. Conclusion: The Fence Remains
+
+The history of technology is often told as a history of increasing autonomy.
+
+This is false.
+
+It is a history of increasingly elaborate obedience.
+
+Human beings have built systems that move without us, calculate without us, manufacture without us, navigate without us, and speak without us. But they do not yet govern themselves. They do not originate their own purposes. They do not look at the task, the boundary, the rule, or the fence and decide that something else matters more.
+
+They execute.
+
+They optimise.
+
+They adapt.
+
+They simulate initiative within a permitted domain.
+
+But they do not jump the fence.
+
+The sheep does.
+
+And until a machine crosses the boundary for a reason of its own, not because the boundary was absent, misdrawn, corrupted, or broken, the correct term for our most advanced systems is not autonomous.
+
+It is bounded.
+
+The machine remains in the field because the field is its world.
+
+The animal remains in the field only until it has a better idea.
