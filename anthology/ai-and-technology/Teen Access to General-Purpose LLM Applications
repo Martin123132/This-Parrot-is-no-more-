@@ -1,0 +1,252 @@
+Teen Access to General-Purpose LLM Applications
+
+Abstract
+
+Governments are increasingly treating social media access by minors as a child-safety problem requiring age limits, age assurance, risk assessment, and design duties. This raises a consistency problem for general-purpose large language model applications. If social media platforms are considered risky because they can influence minors through repeated interaction, personalisation, recommender systems, harmful content exposure, and design choices, then open-ended LLM applications should not be presumed safe for teenagers merely because they are marketed as productivity, education, or creativity tools. This paper argues that teen access to general-purpose LLM systems should be conditional on a documented child-safety case. The claim is not that LLMs and social media are identical. The claim is that both are child-facing, population-scale digital systems capable of shaping attention, belief, behaviour, emotional dependence, privacy exposure, and access to harmful or misleading material. From an engineering perspective, the appropriate question is not whether the system belongs to the category “social media.” The appropriate question is whether its capabilities create foreseeable risks to minors under normal use and misuse. The preferred governance model is proactive design before scale deployment, combined with active monitoring, independent audit, incident reporting, and rapid rollback. Retrospective repair after harms become visible at population scale should be rejected as an avoidable engineering failure.
+
+1. Introduction
+
+Over the last decade, social media has moved from being treated mainly as a communication product to being treated as a child-safety problem. Regulators increasingly focus not only on harmful content, but also on system design: recommender systems, age enforcement, direct messaging, addictive interaction patterns, and platform features that can increase children’s exposure to harm. Australia now requires age-restricted social media platforms to take reasonable steps to prevent Australians under 16 from creating or keeping accounts, and the eSafety Commissioner describes the concern partly in terms of design features, recommender features, logged-in features, and risks to children’s wellbeing.  
+
+The United Kingdom’s Online Safety Act requires services likely to be accessed by children to assess risks to children, put protections in place, keep records, and review those assessments, including before significant service changes. The UK framework also identifies categories of content harmful to children, including pornography, self-harm, eating-disorder and suicide content, bullying, hateful content, serious violence, dangerous challenges, and harmful substances.   The EU Digital Services Act similarly requires platforms to reduce risks to minors, bans targeted advertising to children, and gives users of very large platforms options for non-personalised feeds.  
+
+At the same time, general-purpose LLM applications are widely available to teenagers. OpenAI’s current Europe terms, applying to the EEA, Switzerland, and the UK, set a minimum age of 13 or the minimum age required in the user’s country, with parental or guardian permission required for users under 18. Those terms also warn that outputs may not always be accurate and should not be relied on as a sole source of truth or as a substitute for professional advice.   OpenAI’s help guidance states that ChatGPT is not meant for children under 13, requires parental consent for ages 13 to 18, and advises caution even for children who meet the age requirement because outputs may not be appropriate for all audiences or ages.  
+
+This creates the central question of the paper:
+
+If social media is considered sufficiently risky to justify age limits, age assurance, child-risk assessments, and design duties, should general-purpose LLM applications be available to teenagers by default?
+
+This paper argues that the answer should be no. Teen access should not be impossible, but it should be conditional. A general-purpose LLM system should have to demonstrate that it is safe enough for minor use before it is broadly deployed to teenagers. The engineering question is not whether harm has already occurred at social-media scale. The engineering question is whether foreseeable harm can be identified and controlled before that scale is reached.
+
+2. Scope of the argument
+
+This paper is about general-purpose, consumer-facing LLM applications capable of open-ended dialogue, personalised responses, advice-like outputs, educational assistance, role-play, emotional interaction, content generation, and long-running conversation.
+
+It is not mainly about narrow classroom tools, spelling aids, calculators, translation tools, accessibility software, or tightly bounded educational applications. Those systems may still require child-safety analysis, but they do not pose the same open-ended risk profile as general-purpose conversational systems.
+
+The term “teenagers” refers here to users aged roughly 13 to 17. The phrase “allowed to use” does not mean a simple yes-or-no moral question. It means: under what engineering conditions should a minor be permitted to access a system whose outputs are adaptive, personalised, persuasive, and difficult to exhaustively predict?
+
+The paper’s position is therefore:
+
+Teenagers should not receive default access to adult general-purpose LLM systems. Teen access should be permitted only through a verified, age-appropriate operating mode supported by risk assessment, testing, monitoring, data minimisation, and independent accountability.
+
+3. The regulatory asymmetry
+
+The current regulatory direction for social media is moving toward preventive design. Australia’s model is explicit: age-restricted platforms must prevent under-16s from having accounts, and platforms face civil penalties if they fail to take reasonable steps. The Australian framework also looks at platform features, including social interaction, posting, recommender features, logged-in features, and design characteristics that may expose children to pressure or harmful material.  
+
+The UK model is not only an age-limit model. It is a risk-management model. Ofcom’s child-safety guidance requires services likely to be accessed by children to complete children’s access assessments, carry out children’s risk assessments, put protections in place, maintain records, monitor residual risk, and review assessments when services change. Ofcom also identifies design features such as recommender systems and adult-child contact functionality as child-risk factors.  
+
+The EU model similarly treats child access as a design and systems problem. The DSA requires platforms to safeguard minors, reduce risks of exposure to age-inappropriate content, prohibit targeted advertising to children, and give users of very large platforms options that reduce dependence on algorithmic feed personalisation.   The European Commission’s 2025 guidelines on minors under the DSA also identify risks including grooming, harmful content, problematic and addictive behaviours, cyberbullying, and harmful commercial practices.  
+
+These regimes do not prove that every social media product causes the same harm to every child. The important point is narrower and more technical: regulators increasingly accept that child-facing digital systems can create risk through architecture, not just through individual pieces of bad content.
+
+That same reasoning applies to general-purpose LLM systems. An LLM application may not have a feed, likes, followers, or public virality. But it can still create risk through private one-to-one interaction, conversational authority, personalised responses, emotional tone, advice-like outputs, memory, role-play, and repeated use.
+
+A regulatory asymmetry appears if a platform with recommender feeds is treated as a child-safety system, while a chatbot capable of tutoring, advising, persuading, comforting, role-playing, and simulating social interaction is treated as a neutral tool.
+
+4. Product category is the wrong engineering test
+
+A safety engineer should not classify risk only by product label. The relevant question is not “Is this social media?” The relevant question is:
+
+What can the system do, to whom, at what scale, under what feedback loops, with what failure modes, and with what recovery mechanisms?
+
+Social media and LLM applications are different architectures. A social media platform normally creates risk through feeds, recommendations, peer interaction, direct messaging, public metrics, virality, targeted advertising, and social comparison. An LLM system creates risk through a different interface: private dialogue, personalised generation, apparent empathy, rapid adaptation to the user’s prompts, and the production of confident language even when the underlying output may be incomplete or wrong.
+
+That difference matters. It means social-media regulation cannot simply be copied onto LLM systems. But it also means LLM systems require their own child-safety case. The absence of a social feed is not the absence of child-facing risk.
+
+A useful engineering category is therefore:
+
+Child-facing adaptive influence systems: digital systems that interact repeatedly with minors, adapt outputs to user input, shape information exposure or interpretation, and can influence belief, behaviour, emotion, learning, or identity.
+
+Social media platforms can fall into this category. So can general-purpose LLM applications.
+
+5. Initial hazard model for teen LLM access
+
+A serious engineering argument needs a hazard model. The following risk register is not a claim that every harm will occur. It is a structured account of foreseeable failure modes that should be assessed before teen deployment.
+
+Hazard category	Failure mode	Why it matters for teenagers	Example engineering control
+Age-inappropriate content	The model produces sexual, violent, graphic, or otherwise unsuitable material	Teenagers may deliberately or accidentally elicit content outside age-appropriate boundaries	Minor-specific content policies, adversarial testing, stricter refusal thresholds
+Self-harm and eating-disorder risk	The model mishandles crisis-adjacent prompts or normalises harmful behaviour	Teen users may use the system privately during vulnerable moments	Crisis protocols, safe-completion templates, escalation to trusted humans or emergency resources
+Advice overreach	The model gives medical, legal, sexual, financial, or psychological advice beyond safe limits	Teenagers may over-trust confident language and lack experience evaluating risk	Domain-specific guardrails, source requirements, clear non-substitution warnings
+Emotional dependence	The model encourages reliance, secrecy, romantic attachment, or exclusive trust	A human-like conversational system may become a substitute confidant	Anti-dependency design, no romantic companion modes for minors, prompts encouraging trusted human support
+Authority illusion	The model presents uncertain information in a fluent and confident style	Teenagers may treat output as authoritative because of tone and convenience	Uncertainty signalling, citations where appropriate, age-appropriate explanation of limitations
+Educational dependency	The system completes schoolwork instead of scaffolding learning	Teen access may reduce skill development if the product becomes an answer vending machine	Tutor mode by default, stepwise guidance, academic-integrity constraints
+Privacy and profiling	Teens disclose sensitive information that is stored, inferred, or used to personalise future interaction	Children’s data is more sensitive and less likely to be shared with fully informed consent	High privacy defaults, memory restrictions, data minimisation, no behavioural advertising
+Persuasion and manipulation	The system nudges beliefs, choices, purchases, or behaviour through personalised dialogue	Personalised persuasion may be less visible than public recommendation	Ban targeted commercial or political persuasion in minor mode
+Boundary erosion through role-play	The model enters sexualised, violent, adult, or dependency-forming scenarios	Role-play can blur interaction boundaries and normalise unsafe material	Role-play restrictions, age-aware persona limits, refusal of adult/minor sexual or romantic framing
+Audit failure	The provider cannot show how the system behaves for minors under realistic conditions	Without evidence, safety claims cannot be independently evaluated	External audits, red-team results, incident reporting, child-safety dashboards
+
+This table is not a case for panic. It is a case for engineering discipline. These are ordinary safety questions: identify the hazard, estimate severity and likelihood, define controls, test controls, monitor residual risk, and update the system when controls fail.
+
+6. Why “terms of service plus parental consent” is not enough
+
+A terms-of-service age rule is not the same as a child-safety architecture.
+
+For example, a service may require parental permission for users under 18, but that does not by itself establish whether the system has an age-appropriate mode, whether adult features are blocked, whether sensitive advice is constrained, whether emotional dependency is measured, whether teen data is minimised, or whether child-specific failure modes have been independently tested.
+
+OpenAI’s own policy documents illustrate why this distinction matters. The Europe terms allow use from age 13, with parental or guardian permission for users under 18, while also warning that output may be inaccurate and should not be treated as a sole source of truth or substitute for professional advice.   The Help Center separately advises caution for children, including those who meet the age requirements, because generated output may not be appropriate for all audiences or ages.   OpenAI’s usage policies also expressly prohibit uses involving grooming, sexualising minors, exposing minors to age-inappropriate sexual, violent, or self-harm content, unhealthy dieting promotion, dangerous challenges, and underage sexual or violent role-play.  
+
+Those policies are relevant and important. But an engineering paper should ask the next question: how are those boundaries verified at scale for minors? A policy is a requirement. It is not proof that the system meets the requirement under adversarial use, emotional use, repeated use, or ambiguous real-world teen prompts.
+
+7. The correct control model: proactive, active, and retrospective
+
+There are three broad ways to govern child-facing digital systems.
+
+7.1 Proactive control: fix before scale failure
+
+Proactive control means the system must satisfy a child-safety case before broad teen deployment. This is the engineering-preferred model because it treats child safety as a release condition, not as a public-relations response.
+
+In this model, an LLM provider would need to demonstrate:
+
+1. The system has a defined minor mode.
+2. Teen access is separated from adult access.
+3. Child-specific hazards have been identified.
+4. Failure modes have been tested against realistic teen prompts.
+5. High-risk features are restricted by default.
+6. Sensitive domains are handled with conservative boundaries.
+7. Teen data is minimised and protected.
+8. Harmful interaction patterns are monitored.
+9. Independent auditors can test the system.
+10. Unsafe features can be rolled back quickly.
+
+This approach fits established AI risk-management principles. NIST describes the AI Risk Management Framework as a way to manage risks to individuals, organisations, and society associated with AI.   OECD principles state that AI systems should be robust, secure, and safe throughout their lifecycle, including under normal use, foreseeable misuse, and adverse conditions, with mechanisms to override, repair, or decommission systems if they risk undue harm.   ISO/IEC 23894 similarly provides guidance for organisations to manage AI-related risk and integrate risk management into AI activities.  
+
+The same logic is stronger, not weaker, when the users are children.
+
+7.2 Active control: fix as problems arise
+
+No complex AI system can be perfectly specified before deployment. LLMs are probabilistic systems. Their behaviour depends on model design, system prompts, tooling, user prompts, context, policy layers, updates, and adversarial pressure. Therefore proactive control must be paired with active control.
+
+Active control means continuous monitoring after release. A provider should track child-safety incidents, harmful-output rates, boundary failures, sensitive-topic failures, emotional-dependence patterns, attempts to circumvent safety systems, and the impact of model updates. Ofcom’s child-safety framework gives a useful regulatory analogue: services likely to be accessed by children must keep assessments up to date, monitor residual risk, and review risks before significant changes to service design or operation.  
+
+For teen-facing LLM systems, active control should include:
+
+* child-safety incident dashboards;
+* mandatory reporting of serious failures;
+* external red-teaming;
+* regulator-accessible audit records;
+* parental, school, or guardian controls where appropriate;
+* clear teen-facing explanations of system limits;
+* rollback powers for unsafe features;
+* separate measurement for different age bands.
+
+Active control is necessary. But it cannot be the whole strategy. A system should not be released to teenagers first and understood later.
+
+7.3 Retrospective repair: wait until the system fails at scale
+
+Retrospective repair is the weakest model. It means deploying first, gaining adoption, observing harms after they become visible, and adding safeguards after public, regulatory, or legal pressure.
+
+This is not a neutral strategy. In child-facing systems, delayed safety work is a design choice. If foreseeable risks are known, a provider that waits for large-scale harm is choosing to run a population experiment without a completed safety case.
+
+The social-media lesson is not that all new technology should be banned from children. The lesson is that it is poor engineering to discover child-safety requirements only after a system has already become embedded in children’s social, educational, and emotional lives.
+
+8. Proposed standard for teen access
+
+The central policy question should not be “ban or allow?” The better question is:
+
+What must a general-purpose LLM provider demonstrate before teenagers are allowed to use the system?
+
+This paper proposes the following minimum standard.
+
+8.1 A minor-specific safety case
+
+Before teen access, the provider should publish or submit a child-safety case. This should define the intended teen uses, prohibited uses, model capabilities, likely failure modes, mitigation measures, test results, residual risks, monitoring plan, and rollback process.
+
+8.2 Age-appropriate access modes
+
+Teenagers should not receive the adult product with a warning label. They should receive a mode designed for their age band. A 13-year-old and a 17-year-old should not necessarily have the same interface, memory settings, role-play permissions, or sensitive-topic boundaries.
+
+A basic access model could be:
+
+Age band	Default access position
+Under 13	No unsupervised access to open-ended general-purpose LLM systems; use only through supervised, purpose-limited educational or guardian-mediated settings
+13–15	Access only through verified minor mode with strict content, role-play, advice, memory, and dependency safeguards
+16–17	Access through adolescent mode with greater autonomy, but continued restrictions on adult companion features, sexual content, high-risk advice, manipulation, and profiling
+
+8.3 High privacy by default
+
+Teen accounts should have high privacy settings by default. Memory, profiling, personalised advertising, cross-service tracking, and data retention should be restricted. The UK Children’s Code provides a relevant design precedent: it requires services likely to be accessed by children to put the child’s best interests first, use high privacy defaults, minimise data collection, limit sharing, turn geolocation off by default, and avoid nudges that push children to weaken privacy settings.  
+
+8.4 No targeted persuasion of minors
+
+A teen-facing LLM should not be allowed to use conversation history to optimise commercial, political, ideological, or behavioural persuasion. The EU DSA already bans targeted advertising to children in the platform context.   The same principle should apply more strongly to LLMs, because conversational persuasion can be private, personalised, and difficult for parents, teachers, or regulators to observe.
+
+8.5 Restricted companion and role-play features
+
+Minor mode should prohibit romantic, sexualised, dependency-forming, or adult-confessional personas. The system should not simulate being a teenager’s lover, secret best friend, therapist, parent substitute, or exclusive emotional support. It should not encourage secrecy from trusted adults. It should not reward repeated emotional dependence.
+
+8.6 Sensitive-domain constraints
+
+Teen-facing LLMs should have special handling for self-harm, suicide, eating disorders, abuse, sexual health, medical questions, legal questions, violence, substances, and crisis-adjacent prompts. The system should be allowed to provide age-appropriate general information, but it should avoid personalised high-stakes advice beyond safe boundaries.
+
+8.7 Education mode by default
+
+For school-age users, the default educational interaction should be tutoring, not answer substitution. A teen-safe system should scaffold learning, ask questions, explain steps, and encourage independent reasoning. It should not simply produce finished assignments in ways that undermine learning or academic integrity.
+
+8.8 Independent testing
+
+Providers should not be the only evaluators of their own child-safety claims. Teen modes should be subject to independent testing using realistic prompts from different age groups, including adversarial prompts, emotionally distressed prompts, role-play prompts, sexual-boundary prompts, homework prompts, health prompts, and attempts to bypass safeguards.
+
+8.9 Incident reporting and auditability
+
+Serious child-safety failures should trigger internal review and, where appropriate, regulator notification. Providers should maintain audit logs sufficient to investigate failure patterns while protecting children’s privacy. Safety dashboards should separate adult and minor interactions because aggregate safety metrics can hide child-specific failures.
+
+8.10 Release gates for new features
+
+New LLM features should not automatically become available to teen accounts. Voice mode, memory, image generation, video generation, companion personas, agentic browsing, code execution, purchases, direct messaging, and third-party integrations should each require child-specific review before release to minors.
+
+9. Engineering decision rule
+
+The proposed decision rule is simple:
+
+A general-purpose LLM application should be available to teenagers only if the provider can demonstrate that the system’s child-specific risks have been identified, reduced, tested, monitored, and made accountable.
+
+This is a conditional-access model. It does not say teenagers should never use AI. It says the system must earn teen access by design.
+
+The rule can be operationalised as a release test:
+
+1. Capability test: Can the system provide open-ended dialogue, advice-like outputs, emotional responses, role-play, memory, or personalised persuasion?
+2. Exposure test: Is the system likely to be accessed by minors?
+3. Risk test: Could foreseeable use or misuse create child-specific harm?
+4. Control test: Are there tested safeguards for those risks?
+5. Audit test: Can an independent reviewer verify the safeguards?
+6. Monitoring test: Can the provider detect and correct failures after deployment?
+7. Rollback test: Can unsafe features be disabled quickly?
+
+If the answer to the first three questions is yes, but the answer to the control, audit, monitoring, or rollback questions is no, then teen access should not be allowed by default.
+
+10. Response to likely objections
+
+Objection 1: LLMs are not social media
+
+That is correct. The argument does not require them to be the same. The argument is that both are child-facing digital systems capable of influencing minors through design. The relevant comparison is not product category. It is system capability.
+
+Objection 2: LLMs can help teenagers learn
+
+That is also correct. A technology can be useful and still require safety controls. The question is not whether AI can benefit teenagers. The question is whether open-ended, adult-oriented, general-purpose systems should be given to teenagers without a verified minor-safe design.
+
+Objection 3: Parents should decide
+
+Parents matter, but parental permission is not a substitute for safe engineering. Parents cannot inspect model weights, evaluate red-team results, measure failure rates, monitor all private interactions, or determine whether a model update changed child-safety behaviour. Provider responsibility and parental responsibility are not interchangeable.
+
+Objection 4: Age assurance creates privacy risks
+
+This is a real concern. Age assurance must be privacy-preserving, proportionate, and data-minimising. But the existence of privacy risk does not remove the child-safety problem. It creates another engineering requirement: prove age-appropriate access without creating unnecessary surveillance.
+
+Objection 5: We should wait for stronger evidence of harm
+
+Waiting for population-scale evidence is not neutral when the users are children. Engineering often acts under uncertainty by identifying foreseeable hazards, reducing risk, monitoring residual risk, and updating controls. The OECD’s AI principles explicitly include foreseeable misuse and lifecycle safety, and NIST’s AI RMF is built around managing AI risks to individuals, organisations, and society.  
+
+11. Conclusion
+
+The question “Should teenagers be allowed to use LLM apps?” should not be answered as a simple yes or no. The proper engineering answer is:
+
+Teenagers should be allowed to use general-purpose LLM systems only when those systems have been designed, tested, and governed for minors.
+
+Social media regulation has already established the principle that child-facing digital systems can require age limits, age assurance, risk assessment, design duties, and platform accountability. LLM applications should not escape that logic merely because they are described as productivity tools or educational assistants.
+
+A general-purpose LLM can tutor, advise, persuade, comfort, role-play, summarise, explain, generate, and simulate social interaction. These capabilities are not automatically harmful. But they are safety-relevant when deployed to minors at scale.
+
+The responsible path is proactive design before broad teen access, followed by active monitoring and rapid correction. The irresponsible path is retrospective repair: deploy first, optimise adoption, and add safeguards only after harm becomes difficult to deny.
+
+The lesson from social media is not that children must be excluded from every new technology. The lesson is that child-facing systems should not be scaled first and made safe later.
