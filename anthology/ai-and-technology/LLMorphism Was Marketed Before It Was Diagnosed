@@ -1,0 +1,85 @@
+LLMorphism Was Marketed Before It Was Diagnosed
+
+Valerio Capraro’s term LLMorphism names a real phenomenon: the belief that human cognition works like a large language model. The core argument is simple. Because LLMs produce fluent, human-like language, people may reverse the comparison and begin imagining humans as if they were LLMs too. Similarity in output becomes mistaken for similarity in architecture. Capraro’s warning is valid: human thought is not merely next-token prediction with a body attached.
+
+But the diagnosis is incomplete.
+
+The public did not randomly decide that language models are researchers, agents, workers, coders, collaborators, assistants, tutors, analysts, and autonomous task-completers. That language was not invented by confused users. It was sold to them.
+
+The AI industry has spent years teaching the public to understand these systems through human-work metaphors. OpenAI described Deep Research as an agent that can “do work for you independently” and produce reports “at the level of a research analyst.” OpenAI described Codex as a cloud-based software engineering agent that can work on tasks in parallel, write features, answer questions about a codebase, fix bugs, and propose pull requests. Anthropic describes Claude Code as an agentic coding system that reads a codebase, makes changes across files, runs tests, and delivers committed code. Anthropic describes Claude Cowork as a system that executes multi-step knowledge work on a user’s behalf, moves across files and applications, synthesises information, and completes tasks without the user coordinating each step.
+
+That is not neutral language.
+
+That is the vocabulary of labour.
+
+So when people begin describing themselves, their work, their learning, or their cognition through LLM terms, the cause is not merely a psychological slip. The cause is a commercial environment that repeatedly frames statistical language systems as functional substitutes for human roles.
+
+The causal chain is straightforward.
+
+First, AI companies market LLMs using human-role language.
+
+Then those products are embedded into chat interfaces, workplace tools, coding environments, research workflows, schools, and customer-service systems.
+
+Then users adopt the language because it matches the interface, the product design, and the sales pitch.
+
+Then institutions begin treating fluent output as measurable work.
+
+Then humans are re-described through the same reduced vocabulary used to sell the machines.
+
+That is not just LLMorphism.
+
+That is industrial metaphor laundering.
+
+The machine is first described as human-like to make it seem more capable. Then the human is described as machine-like to make them seem less complex.
+
+The important distinction is between three separate claims.
+
+The first is the architectural claim: humans literally think like LLMs. That claim is weak. Human cognition is embodied, emotional, social, developmental, physical, sensory, and consequence-bearing. A person does not simply emit tokens. A person gets tired, hungry, afraid, skilled, injured, attached, ashamed, proud, trained, traumatised, bored, interrupted, and accountable.
+
+The second is the functional claim: in some contexts, LLM output can substitute for human output. That claim is already true in narrow cases. LLMs can draft, summarise, translate, classify, generate code, produce reports, and answer questions. That does not mean they think like people. It means some institutions are willing to accept the output.
+
+The third is the institutional claim: once machines are accepted as output-producing substitutes, organisations may begin treating humans as output-producing machines.
+
+That third claim is the real danger.
+
+The problem is not only that ordinary users may say, “my brain is doing next-token prediction.” The deeper problem is that schools, companies, platforms, and managers may start behaving as if people are language-output devices. Education becomes text production. Work becomes deliverable generation. Expertise becomes response quality. Understanding becomes fluency. Judgement becomes completion. Care becomes a script. Creativity becomes recombination.
+
+That is not a user hallucination.
+
+That is an institutional incentive.
+
+If a company sells an AI as a research analyst, coding agent, workplace assistant, autonomous knowledge worker, or task-completing agent, it cannot then act surprised when society begins thinking in those categories. The metaphor was not smuggled in by users. It was printed on the tin.
+
+A serious account of LLMorphism therefore needs to study exposure to AI marketing, workplace adoption, product naming, managerial automation language, agent interfaces, and institutional substitution. It should ask whether people who use coding agents, research agents, workplace copilots, customer-service bots, or AI-mediated management tools are more likely to describe human cognition in LLM terms.
+
+It should compare toy usage against workplace dependence.
+
+It should separate casual metaphor from managerial reduction.
+
+It should distinguish “I used a phrase because it is culturally available” from “my employer now evaluates me as a completion engine.”
+
+Without that causal layer, the concept risks blaming downstream users for absorbing the upstream sales pitch.
+
+The weaker version of the argument is:
+
+People wrongly anthropomorphise LLMs, then wrongly mechanise humans.
+
+The stronger version is:
+
+Companies humanise machines to sell capability, then institutions mechanise humans to extract output.
+
+That is the loop.
+
+The public debate has focused heavily on whether people attribute too much mind to machines. Capraro is right that the reverse problem matters too: we may begin attributing too little mind to humans. But the source of that reversal is not only cognitive bias. It is product design, advertising, investment narrative, workplace deployment, and managerial convenience.
+
+The machine is marketed as a worker.
+
+The worker is then evaluated like a machine.
+
+That is the actual circuit.
+
+So yes, LLMorphism is real. But it did not emerge in a vacuum. It emerged inside an industry that sells language models as agents, coworkers, analysts, tutors, researchers, programmers, and autonomous task systems.
+
+The public did not invent that frame.
+
+The public learned it.
