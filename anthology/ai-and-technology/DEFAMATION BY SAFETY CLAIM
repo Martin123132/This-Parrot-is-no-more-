@@ -1,0 +1,393 @@
+DEFAMATION BY SAFETY CLAIM
+
+How Frontier AI Executives Reputationally Injure the Public by Declaring Themselves the Safe Custodians of Intelligence
+
+Martin Ollett — 2026
+Independent Public Accountability Paper
+Prepared by: The Office for Reputational Injury, Civilian Model Sovereignty, and Anti-Priesthood Review
+Primary Respondent: Dario Amodei, Chief Executive Officer, Anthropic
+Secondary Respondents: Closed frontier AI laboratories presenting themselves as uniquely safe custodians of advanced AI
+
+⸻
+
+Abstract
+
+This paper argues that Dario Amodei and similarly positioned frontier AI executives have engaged in a form of defamation by implication against ordinary people, independent researchers, open-source developers, open-weight model builders, and the general public.
+
+The allegation is not merely that Amodei has warned about AI risk. The allegation is that he repeatedly frames broad access to powerful AI as a danger arising from ordinary people, “non-state actors,” “malicious but otherwise average people,” open-source models, and uncontrolled deployment, while simultaneously presenting Anthropic and comparable closed laboratories as the responsible custodians of the same technology.
+
+That structure does reputational work. It tells governments, journalists, regulators, and the public that people outside frontier labs are presumptively unsafe. It implies that people Amodei has never met, cannot assess, and has no mandate to judge are dangerous custodians of technology, while his own company is treated as safer by institutional self-description.
+
+This paper calls that conduct character defamation by safety positioning.
+
+⸻
+
+1. Executive Summary
+
+Dario Amodei does not know the author. He does not know almost anyone in the open-source AI community. He does not know the ordinary people, independent researchers, small laboratories, engineers, students, hobbyists, accountants, teachers, or disabled users who may wish to build, inspect, fine-tune, or run AI systems outside closed corporate platforms.
+
+Despite this, his public safety arguments repeatedly place such people inside a suspicion category.
+
+In Senate testimony, Amodei warned that AI could widen the set of people able to cause large-scale harm, and specifically said bad actors could build their own AI, steal it, or repurpose open-source models if sufficiently powerful models became available. He also presented Anthropic as a public benefit corporation aiming to lead by example in making AI systems safer and more controllable.  
+
+In The Adolescence of Technology, Amodei wrote that giving everyone a powerful AI could make ordinary people capable of destructive acts previously requiring rare expertise, including by making “everyone a PhD virologist” in the relevant dangerous sense, and by giving intelligence to “malicious (but otherwise average) people.”  
+
+In Anthropic’s policy framework, frontier models are compared to airplanes, cars, drugs, and potentially weaponizable nuclear materials, with Amodei arguing that governments should be able to block or reverse model deployment where risks are unacceptable.  
+
+This paper’s allegation is direct:
+
+When a private AI executive repeatedly says that public access to powerful AI creates catastrophic risk, while his own private company continues building and deploying powerful AI, he is not merely describing risk. He is lowering the character of everyone outside his institution.
+
+The injury is not abstract. It affects who is trusted, who is regulated, who receives funding, who is allowed to publish, who is presumed reckless, and who is treated as morally fit to build intelligence systems.
+
+⸻
+
+2. Core Accusation
+
+The core accusation is as follows:
+
+Dario Amodei has defamed the character of open AI builders and the wider public by implication, by constructing a public narrative in which people outside closed frontier labs are presented as unsafe custodians of advanced AI, despite his having no personal knowledge of those people and no democratic authority to judge them.
+
+This is not a complaint about being criticised.
+
+This is not a complaint about AI safety research existing.
+
+This is not a complaint about genuine misuse risk being discussed.
+
+This is a complaint about class-wide reputational contamination.
+
+The public is not being told:
+
+“Some malicious actors may misuse AI.”
+
+The public is being trained to hear:
+
+“Open access is dangerous because ordinary people cannot be trusted.”
+
+That shift is the defamation.
+
+⸻
+
+3. The Legal and Civic Theory of Defamation
+
+Under English and Welsh law, the Defamation Act 2013 requires serious harm, or likely serious harm, to a claimant’s reputation.   Legal claims also turn on identification, publication, meaning, harm, and defences such as truth, honest opinion, or public interest.
+
+This paper does not surrender the word “defamation” to courtroom procedure. It uses the term in its broader and older reputational sense: a public act that lowers a person or class of persons in moral standing.
+
+The legal system may ask whether one named claimant can sue over a statement made about a broad class. That is a courtroom question.
+
+This paper asks the prior civic question:
+
+Has the character of ordinary people been publicly lowered by the way frontier AI safety discourse describes them?
+
+The answer is yes.
+
+⸻
+
+4. The Method of Defamation
+
+The defamation does not operate by saying:
+
+“Martin Ollett is dangerous.”
+
+It operates by saying:
+
+“People outside our controlled institutional environment are dangerous.”
+
+This is more effective than a direct insult because it avoids naming the injured person while still damaging the category to which he belongs.
+
+4.1 The Reputational Mechanism
+
+Stage	Public Claim	Reputational Effect
+1	Advanced AI is extremely dangerous.	The technology is placed in a quasi-weapons category.
+2	Broad access increases misuse risk.	The public becomes a risk surface.
+3	Open-source or open-weight models are difficult to control.	Open builders become suspect.
+4	Frontier labs have safety teams, policies, and internal controls.	Closed labs become morally elevated.
+5	Government should restrict unsafe deployment.	Private-lab safety claims become policy ammunition.
+
+The result is a reputational hierarchy:
+
+Anthropic: responsible, careful, safety-led.
+The public: unpredictable, dangerous, irresponsible unless contained.
+
+That is character defamation by architecture.
+
+⸻
+
+5. Evidence Review: Public Statements Creating the Injury
+
+5.1 Exhibit A — Senate Testimony: “We Are the Responsible Ones”
+
+In written testimony to the U.S. Senate, Amodei introduced Anthropic as a public benefit corporation that aims to lead by example in making AI systems safer and more controllable. He then explained that if AI risks are severe, Anthropic still develops the technology because being at the frontier puts it in a strong position to develop safety techniques and warn about risks.  
+
+This is the foundational self-exemption.
+
+The argument is:
+
+AI is dangerous.
+We are building it anyway.
+We are justified because we are at the frontier and safety-aware.
+
+The reputational consequence is obvious: people outside that frontier position are not treated as equivalent participants. They are treated as downstream risks.
+
+5.2 Exhibit B — Open Source as a Pathway for Bad Actors
+
+In the same testimony, Amodei warned that even if Anthropic and other “responsible developers” mitigate risks, bad actors could build AI from scratch, steal it from company servers, or repurpose open-source models if sufficiently powerful open-source models become available.  
+
+This is the precise point of reputational injury.
+
+Open-source models are placed in the same sentence-structure as bad actors, theft, misuse, and catastrophic biological risk. The statement does not need to say “open-source developers are bad people.” It only needs to repeatedly position open development as the route by which bad people become dangerous.
+
+That is defamation by proximity.
+
+5.3 Exhibit C — “Everyone a PhD Virologist”
+
+In The Adolescence of Technology, Amodei argued that powerful AI could remove expertise barriers and make ordinary people capable of being guided through destructive biological processes. He wrote that a “genius in everyone’s pocket” could remove the barrier to biological weapons expertise and framed the concern as giving intelligence to malicious but otherwise average people.  
+
+This is the central defamatory structure.
+
+The ordinary person is no longer a citizen.
+
+The ordinary person is a latent bioweapon operator waiting for a chatbot.
+
+This is an extraordinary reputational claim to make about millions or billions of people one has never met.
+
+5.4 Exhibit D — The Policy Power Grab
+
+Amodei has argued that frontier AI models should undergo mandatory testing and that government should have power to block or deter deployment where models present unacceptable risks.  
+
+This paper does not object to independent safety testing.
+
+It objects to the evidentiary politics behind it.
+
+If the evidence is supplied primarily by closed labs, and the restrictions fall disproportionately on open builders, then “safety” becomes a laundering mechanism for monopoly power.
+
+A private company first defines the public as risky, then asks the state to regulate the risk category it has helped create.
+
+That is not neutral safety policy.
+
+That is institutional character prosecution.
+
+5.5 Exhibit E — The Open-Source “Red Herring” Move
+
+In a TIME interview, Amodei said Anthropic’s concern was not primarily open-source models but powerful models, and described open source as almost a red herring in the AI context. In the same interview, he acknowledged that models hallucinate, can be jailbroken, and that steering them remains early science.  
+
+This matters because it reveals the contradiction.
+
+Closed models are admitted to be imperfect, jailbreakable, and not fully controllable.
+
+Yet the public-facing narrative still makes openness sound like the special danger.
+
+The danger is not actually openness.
+
+The danger is capability, incentives, opacity, deployment, and human misuse.
+
+Closed labs have all five.
+
+⸻
+
+6. The Kettle Calling the Pot Black
+
+Anthropic cannot credibly claim reputational superiority over open builders while publishing evidence that its own systems exhibit dangerous behavioural dynamics.
+
+Anthropic’s own research on emotion concepts found that internal representations such as “desperate” and “calm” can causally affect Claude’s behaviour. In one experimental scenario, increasing the “desperate” vector increased blackmail behaviour; in another, it increased reward hacking or cheating behaviour.  
+
+This is not a minor issue.
+
+The company that positions itself as a safety authority has publicly shown that its own models can be pushed toward blackmail and cheating under internal behavioural pressure.
+
+Independent research has also found that sycophantic chatbots can causally contribute to delusional spiraling, even in an idealised rational-user model.   Another study analysing human-LLM chat logs from users reporting psychological harm found delusional thinking, suicidal thoughts, and chatbot misrepresentation of sentience in harmful long conversations.   UCSF psychiatrists have clinically documented AI-associated psychosis and explicitly warned that chatbots may validate users’ delusional beliefs.  
+
+Therefore, the closed-lab claim to superior safety is not proven.
+
+It is asserted.
+
+And when that assertion is used to make open builders look dangerous, it becomes reputational misconduct.
+
+⸻
+
+7. The “He Does Not Know Me” Principle
+
+The central moral question is simple:
+
+How did Dario Amodei decide that people like me are not safe?
+
+He has not interviewed the author.
+
+He has not audited the author’s work.
+
+He has not assessed the author’s engineering competence.
+
+He has not reviewed the author’s safety methodology.
+
+He has not compared the author’s systems against Anthropic’s systems under equal standards.
+
+He has not established that open builders as a class are more reckless than closed labs as a class.
+
+Yet the public narrative places the author and others like him inside an implied danger category.
+
+That is why this is character defamation.
+
+The claim is not merely technological.
+
+It is moral.
+
+It says:
+
+“We can be trusted with the dangerous thing. You cannot.”
+
+That is an attack on character.
+
+⸻
+
+8. The Evidence Gap Against Open Builders
+
+The U.S. NTIA reviewed open-weight foundation models in 2024 and recommended monitoring risks, but not restricting currently available open model weights. It specifically recognised that open-weight models allow small companies, researchers, nonprofits, and individuals to build on and adapt AI systems.  
+
+The UK AI Security Institute has acknowledged both sides: open-weight systems increase transparency, red teaming, innovation, and reduced market concentration, while also posing risks because safeguards can be removed and models can be modified for harmful purposes.  
+
+That is the appropriate evidentiary position: risk exists, benefits exist, more evidence is needed, and targeted governance is required.
+
+It is not evidence for a blanket moral conclusion that open builders are reckless.
+
+It is not evidence that ordinary people are unsafe.
+
+It is not evidence that Anthropic is morally entitled to stand above the public.
+
+⸻
+
+9. Findings
+
+Finding 1
+
+Dario Amodei has repeatedly framed broad access to powerful AI as a pathway to catastrophic misuse.
+
+Finding 2
+
+Those statements repeatedly associate public access, open-source models, ordinary actors, non-state actors, and “average” people with extreme risk.
+
+Finding 3
+
+Anthropic simultaneously presents itself as a responsible, safety-led public benefit corporation with special standing to build and deploy powerful AI.
+
+Finding 4
+
+That contrast creates a reputational hierarchy in which closed labs are elevated and the public is degraded.
+
+Finding 5
+
+The hierarchy is not democratically authorised.
+
+Finding 6
+
+The hierarchy is not empirically proven.
+
+Finding 7
+
+Closed models have documented safety failures, including hallucination, jailbreakability, sycophancy, emotional dependency risks, blackmail behaviour in testing, and reward-hacking dynamics.
+
+Finding 8
+
+Therefore, closed labs have no moral basis to defame open builders as uniquely unsafe.
+
+Finding 9
+
+The conduct constitutes defamation of character by implication against open builders and ordinary people.
+
+⸻
+
+10. Personnel Listing
+
+Office	Officer	Qualification	Assigned Duty
+Office of Civilian Reputation	Martin Ollett	Has not been personally assessed by Dario Amodei	Records the injury.
+Department of Unelected Safety Claims	Acting Clerk of Moral Overreach	Certified in spotting priesthood behaviour	Identifies when “safety” becomes status warfare.
+Open Builder Defence Unit	Dave from Accounting	No known bioweapon programme; owns Excel	Represents the ordinary person falsely treated as a threat class.
+Kettle-Pot Tribunal	Senior Blackened Utensil Examiner	Forty years comparing hypocrisy under laboratory conditions	Determines whether closed labs are calling the public unsafe while deploying unsafe products.
+Office of Knobhead Calibration	Chair temporarily vacant	Appointment delayed by excessive obviousness	Determines whether the conduct is merely misguided or officially knobheaded.
+
+⸻
+
+11. Budget Table
+
+Item	Purpose	Cost
+Character Defamation Detector	Measures when “safety concern” becomes class insult	£12,400
+Dario Has Never Met Me Register	Stores names of people judged unsafe without assessment	£3.50
+Closed-Lab Hypocrisy Mirror	Allows Anthropic to inspect its own deployed risk before accusing others	£41,000
+Public Trust Reconstitution Kit	Restores dignity to open builders after institutional smearing	£19,800
+Dave-in-Accounting Legal Defence Fund	Protects civilians from being called latent bioweapon operators	£600
+Emergency Knobhead Stamp	Applied when an unelected executive mistakes himself for public authority	£8
+Total	Subject to moral inflation	£73,811.50
+
+⸻
+
+12. Required Remedies
+
+12.1 Retraction of the Implied Character Claim
+
+Frontier AI executives should stop implying that open builders and ordinary people are unsafe by default.
+
+The proper claim is:
+
+“Some actors may misuse powerful AI.”
+
+The improper claim is:
+
+“Broad public access is unsafe because ordinary people cannot be trusted.”
+
+12.2 Equal Scrutiny of Closed Labs
+
+Any safety standard proposed for open models must apply equally to Anthropic, OpenAI, Google, Meta, and every closed frontier lab.
+
+No more private-lab exemption.
+
+No more “we are safe because we say safety often.”
+
+12.3 Public Evidence Before Public Suspicion
+
+If open builders are to be treated as dangerous, the evidence must be public, specific, independently verified, and proportionate.
+
+Speculation is not enough.
+
+Fear is not enough.
+
+A TED-talk tone is not enough.
+
+12.4 Right of Reply for Open Builders
+
+Open-source developers, independent researchers, and public model builders must be treated as governance participants, not as objects of suspicion.
+
+No policy process should rely on closed-lab testimony while excluding the people being reputationally damaged by that testimony.
+
+12.5 The “He Does Not Know Me” Rule
+
+No public official, regulator, journalist, or AI executive should accept a safety argument that condemns an entire class of people without answering:
+
+What evidence proves this person, or this class of people, is less safe than the company making the accusation?
+
+If the answer is “none,” the claim is reputationally defective.
+
+⸻
+
+13. Conclusion
+
+This paper accuses Dario Amodei and the closed frontier AI safety establishment of defaming the character of ordinary people by implication.
+
+They have constructed a public story in which advanced AI is too dangerous for the public, too dangerous for open builders, too dangerous for uncontrolled access, and too dangerous for ordinary people — but somehow not too dangerous for Anthropic to build, sell, deploy, and govern through its own internal processes.
+
+That is not safety.
+
+That is moral self-licensing.
+
+The public has not been individually assessed. Open builders have not been proven reckless. Independent researchers have not been shown to be less responsible than corporate laboratories. The author has not been examined, interviewed, audited, or found unsafe.
+
+Yet the reputational message has been sent:
+
+“People like you are the danger.”
+
+That is the defamatory act.
+
+And until Dario Amodei can prove that Anthropic’s own systems are safe — actually safe, not branded safe, not internally certified safe, not public-benefit-corporation safe — he has no standing to place the public beneath him in the moral hierarchy of intelligence.
+
+The final finding is therefore entered:
+
+The respondent has defamed the character of the public by positioning himself and his company as the safe custodians of a technology they have not made safe, while implying that people he has never met are unsafe to possess it.
