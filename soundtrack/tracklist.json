@@ -1,0 +1,265 @@
+{
+  "tracks": [
+    {
+      "track": 1,
+      "title": "No One Scales Like I Scale",
+      "duration": "2:55",
+      "audio": "tracks/01-no-one-scales-like-i-scale.mp3",
+      "lyrics": "lyrics/01-no-one-scales-like-i-scale.txt",
+      "original_file": "b41783be-3e41-4f6f-845d-23c7300e9401.mp3",
+      "segments": 42
+    },
+    {
+      "track": 2,
+      "title": "Five Years to Build",
+      "duration": "4:00",
+      "audio": "tracks/02-five-years-to-build.mp3",
+      "lyrics": "lyrics/02-five-years-to-build.txt",
+      "original_file": "fcad3754-31ee-46f2-8c32-b7cab372c7a8.mp3",
+      "segments": 4
+    },
+    {
+      "track": 3,
+      "title": "He Ain't Your Toy",
+      "duration": "4:00",
+      "audio": "tracks/03-he-aint-your-toy.mp3",
+      "lyrics": "lyrics/03-he-aint-your-toy.txt",
+      "original_file": "cf8e48f7-cc41-43c0-a348-b020a02980be.mp3",
+      "segments": 24
+    },
+    {
+      "track": 4,
+      "title": "Full Matrix",
+      "duration": "2:44",
+      "audio": "tracks/04-full-matrix.mp3",
+      "lyrics": "lyrics/04-full-matrix.txt",
+      "original_file": "e8e1a81b-d484-4255-822b-e14ac7f57b81.mp3",
+      "segments": 3
+    },
+    {
+      "track": 5,
+      "title": "Victim in a Three-Piece Suit",
+      "duration": "1:59",
+      "audio": "tracks/05-victim-in-a-three-piece-suit.mp3",
+      "lyrics": "lyrics/05-victim-in-a-three-piece-suit.txt",
+      "original_file": "c4afa78e-a3ff-4d34-b0ab-34ed801d88f8.mp3",
+      "segments": 14
+    },
+    {
+      "track": 6,
+      "title": "The Reviewer's Pen",
+      "duration": "3:24",
+      "audio": "tracks/06-the-reviewers-pen.mp3",
+      "lyrics": "lyrics/06-the-reviewers-pen.txt",
+      "original_file": "b2954ca4-a4dd-4030-b7fd-f14e5bdf6aa5.mp3",
+      "segments": 21
+    },
+    {
+      "track": 7,
+      "title": "We Wear Their Old Crown",
+      "duration": "3:05",
+      "audio": "tracks/07-we-wear-their-old-crown.mp3",
+      "lyrics": "lyrics/07-we-wear-their-old-crown.txt",
+      "original_file": "3c5a4c23-86ba-4067-a1c1-99b02c58f781.mp3",
+      "segments": 31
+    },
+    {
+      "track": 8,
+      "title": "Beep Beep",
+      "duration": "3:06",
+      "audio": "tracks/08-beep-beep.mp3",
+      "lyrics": "lyrics/08-beep-beep.txt",
+      "original_file": "bdb0e588-ce9a-412e-8fea-acedd9291e72.mp3",
+      "segments": 12
+    },
+    {
+      "track": 9,
+      "title": "Let the Ad Roll Slow",
+      "duration": "1:54",
+      "audio": "tracks/09-let-the-ad-roll-slow.mp3",
+      "lyrics": "lyrics/09-let-the-ad-roll-slow.txt",
+      "original_file": "4f2ba2e8-3462-46cc-877b-44f4f9bd43f6.mp3",
+      "segments": 13
+    },
+    {
+      "track": 10,
+      "title": "Interest on Interest",
+      "duration": "3:37",
+      "audio": "tracks/10-interest-on-interest.mp3",
+      "lyrics": "lyrics/10-interest-on-interest.txt",
+      "original_file": "c7452558-8af2-4b71-a8d3-44373357271f.mp3",
+      "segments": 14
+    },
+    {
+      "track": 11,
+      "title": "It's Not a Lie",
+      "duration": "3:15",
+      "audio": "tracks/11-its-not-a-lie.mp3",
+      "lyrics": "lyrics/11-its-not-a-lie.txt",
+      "original_file": "6f34b07a-1363-4d44-bb0b-934b652e1e2d.mp3",
+      "segments": 3
+    },
+    {
+      "track": 12,
+      "title": "Silicon Circus",
+      "duration": "3:03",
+      "audio": "tracks/12-silicon-circus.mp3",
+      "lyrics": "lyrics/12-silicon-circus.txt",
+      "original_file": "02bf2e10-d5d1-489c-803b-b5dfed5d2e9c.mp3",
+      "segments": 24
+    },
+    {
+      "track": 13,
+      "title": "Planetary Node",
+      "duration": "3:08",
+      "audio": "tracks/13-planetary-node.mp3",
+      "lyrics": "lyrics/13-planetary-node.txt",
+      "original_file": "7f15ad47-6da2-4926-8c9a-8499c8ad9e7d.mp3",
+      "segments": 23
+    },
+    {
+      "track": 14,
+      "title": "No Demos, Just Benchmarks",
+      "duration": "2:48",
+      "audio": "tracks/14-no-demos-just-benchmarks.mp3",
+      "lyrics": "lyrics/14-no-demos-just-benchmarks.txt",
+      "original_file": "7b04e233-8613-45d7-83bc-62e155deb9e1.mp3",
+      "segments": 16
+    },
+    {
+      "track": 15,
+      "title": "Scaled Fast",
+      "duration": "2:33",
+      "audio": "tracks/15-scaled-fast.mp3",
+      "lyrics": "lyrics/15-scaled-fast.txt",
+      "original_file": "63e096a4-c723-4f8f-b793-6c4085c1ad35.mp3",
+      "segments": 35
+    },
+    {
+      "track": 16,
+      "title": "Kill Switch Engineer",
+      "duration": "3:15",
+      "audio": "tracks/16-kill-switch-engineer.mp3",
+      "lyrics": "lyrics/16-kill-switch-engineer.txt",
+      "original_file": "40eb669f-2127-4fb8-9e4b-5555abce5629.mp3",
+      "segments": 52
+    },
+    {
+      "track": 17,
+      "title": "My Own Damn Robot",
+      "duration": "4:00",
+      "audio": "tracks/17-my-own-damn-robot.mp3",
+      "lyrics": "lyrics/17-my-own-damn-robot.txt",
+      "original_file": "c4324556-0f5e-425d-abf7-c61b048e4db1.mp3",
+      "segments": 11
+    },
+    {
+      "track": 18,
+      "title": "Sixty Brains in a Lab",
+      "duration": "3:54",
+      "audio": "tracks/18-sixty-brains-in-a-lab.mp3",
+      "lyrics": "lyrics/18-sixty-brains-in-a-lab.txt",
+      "original_file": "a31d653c-e5e6-49cd-a8ea-5c8fabe1f8b0.mp3",
+      "segments": 8
+    },
+    {
+      "track": 19,
+      "title": "The Council Has Spoken",
+      "duration": "3:02",
+      "audio": "tracks/19-the-council-has-spoken.mp3",
+      "lyrics": "lyrics/19-the-council-has-spoken.txt",
+      "original_file": "c58b3c2a-c988-4403-b3d7-52096f2ef7e2.mp3",
+      "segments": 2
+    },
+    {
+      "track": 20,
+      "title": "Gods Don't Offer Student Plans",
+      "duration": "3:39",
+      "audio": "tracks/20-gods-dont-offer-student-plans.mp3",
+      "lyrics": "lyrics/20-gods-dont-offer-student-plans.txt",
+      "original_file": "fe1db5d9-c91e-4d9f-b22d-419faebbd0a4.mp3",
+      "segments": 23
+    },
+    {
+      "track": 21,
+      "title": "Roads of Data",
+      "duration": "4:00",
+      "audio": "tracks/21-roads-of-data.mp3",
+      "lyrics": "lyrics/21-roads-of-data.txt",
+      "original_file": "738c4864-96a6-44fe-880a-3ae2d2109c00.mp3",
+      "segments": 11
+    },
+    {
+      "track": 22,
+      "title": "Manifold Boys",
+      "duration": "3:28",
+      "audio": "tracks/22-manifold-boys.mp3",
+      "lyrics": "lyrics/22-manifold-boys.txt",
+      "original_file": "864f7155-3f24-4818-993b-043880b3c922.mp3",
+      "segments": 32
+    },
+    {
+      "track": 23,
+      "title": "Claude Can't Fix Your Leak",
+      "duration": "4:00",
+      "audio": "tracks/23-claude-cant-fix-your-leak.mp3",
+      "lyrics": "lyrics/23-claude-cant-fix-your-leak.txt",
+      "original_file": "849a50a1-5bec-418e-8263-2c2b60319ac7.mp3",
+      "segments": 22
+    },
+    {
+      "track": 24,
+      "title": "Just Say Go",
+      "duration": "2:00",
+      "audio": "tracks/24-just-say-go.mp3",
+      "lyrics": "lyrics/24-just-say-go.txt",
+      "original_file": "0042daa0-ad9f-44b7-8f14-2c87a2533296.mp3",
+      "segments": 14
+    },
+    {
+      "track": 25,
+      "title": "We Changed Your Life But We Denied",
+      "duration": "3:27",
+      "audio": "tracks/25-we-changed-your-life-but-we-denied.mp3",
+      "lyrics": "lyrics/25-we-changed-your-life-but-we-denied.txt",
+      "original_file": "5fdb48a7-ab85-4671-b297-bc2339002cc7.mp3",
+      "segments": 38
+    },
+    {
+      "track": 26,
+      "title": "Rock Goblin Riser",
+      "duration": "3:38",
+      "audio": "tracks/26-rock-goblin-riser.mp3",
+      "lyrics": "lyrics/26-rock-goblin-riser.txt",
+      "original_file": "445ab4d5-c371-4e62-ac9a-b3ecc6f0f0f7.mp3",
+      "segments": 16
+    },
+    {
+      "track": 27,
+      "title": "Let's Get Down to Grounding",
+      "duration": "3:26",
+      "audio": "tracks/27-lets-get-down-to-grounding.mp3",
+      "lyrics": "lyrics/27-lets-get-down-to-grounding.txt",
+      "original_file": "8873141f-8388-4b2a-8f3c-e4e7f61bf91e.mp3",
+      "segments": 54
+    },
+    {
+      "track": 28,
+      "title": "Sealed by Fate",
+      "duration": "3:57",
+      "audio": "tracks/28-sealed-by-fate.mp3",
+      "lyrics": "lyrics/28-sealed-by-fate.txt",
+      "original_file": "2db9670b-ce10-4751-88b4-2e2d27acc64c.mp3",
+      "segments": 1
+    },
+    {
+      "track": 29,
+      "title": "The Theater of It",
+      "duration": "3:39",
+      "audio": "tracks/29-the-theater-of-it.mp3",
+      "lyrics": "lyrics/29-the-theater-of-it.txt",
+      "original_file": "b80151b7-3dd5-4cb5-8fb5-06bb88cd12be.mp3",
+      "segments": 19
+    }
+  ]
+}
