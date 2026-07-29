@@ -1,0 +1,1094 @@
+
+
+BUILT TO BENEFIT EVERYONE
+
+Subject to Rate Limits, Platform Policy, Advertising Inventory and Shareholder Approval
+
+Sam Altman, the Electricity Costume, and the Privately Metered World Brain
+
+White Paper No. 65–SAMA
+Classification: Public Benefit, Private Meter
+Prepared by: Office of Universal Access Billing, Institute for Recurring-Revenue Theology
+Date: 29 July 2026
+
+⸻
+
+Executive Summary
+
+On 8 June 2026, Sam Altman and Jakub Pachocki published Built to benefit everyone: our plan, an essay promising that artificial intelligence will broaden power, preserve human judgment, remain subject to public coordination, distribute prosperity, avoid total automation and eventually provide every person on Earth with a personal AGI.
+
+On the same calendar date, OpenAI separately announced that it had recently submitted a confidential draft S-1, preserving its option to become a publicly traded company. Three months earlier, OpenAI had closed a funding round containing $122 billion in committed capital at an $852 billion post-money valuation. 
+
+This does not reveal a hidden conspiracy.
+
+It reveals a business.
+
+OpenAI itself says its commercial system now includes subscriptions, usage-priced APIs, commerce, advertising and compute. It reported annualised revenue rising from $2 billion in 2023 to more than $20 billion in 2025 and describes a compounding flywheel in which more compute produces stronger models, stronger models create more usage, usage generates revenue, and revenue finances more infrastructure. 
+
+The actual operating equation is therefore:
+
+\text{Compute}
+\rightarrow
+\text{Capability}
+\rightarrow
+\text{Usage}
+\rightarrow
+\text{Revenue}
+\rightarrow
+\text{More compute}
+
+The public essay adds:
+
+\text{More usage}
+\rightarrow
+\text{Power broadly distributed}
+
+But that second implication does not follow.
+
+Distributing access to a privately governed service is not the same as distributing ownership, infrastructure, voting rights, model control or economic upside. A billion customers do not collectively own the supermarket merely because every one of them may enter it.
+
+OpenAI has built a highly valuable product and wants substantially more people to use it. That is coherent. What is incoherent is presenting mass consumption of that product as though it were equivalent to democratic control of the technology.
+
+The company is not proposing that everyone own AGI.
+
+It is proposing that everyone have an OpenAI account.
+
+⸻
+
+1. Electricity Did Not Have a Model Spec
+
+The essay begins by comparing artificial intelligence with rural electrification.
+
+The comparison supplies emotional warmth before any technical equivalence has been established. Electricity brought light, refrigeration, pumping and communications. AI, therefore, will supposedly become another universal substrate from which prosperity naturally flows. 
+
+But electricity is a physical energy carrier with measurable properties:
+
+V,\ I,\ P,\ f,\ \phi
+
+A device either receives the required voltage, current, frequency and phase or it does not.
+
+Electricity does not:
+
+* interpret the user’s intentions;
+* rank permissible requests;
+* apply corporate values;
+* change its personality after a product update;
+* retire one voltage model and migrate the customer to another;
+* refuse to power a toaster because the platform hierarchy disagrees;
+* insert a sponsored toaster beneath the answer;
+* or announce that the toaster has reached its weekly reasoning allowance.
+
+AI is not merely delivered through infrastructure. It is a centrally designed behavioural product whose output depends on hidden weights, training choices, policy rules, model version, prompt, context, tool access and probabilistic generation.
+
+The relevant distinction is:
+
+\text{Electricity}
+=
+\text{standardised physical supply}
+
+\text{Hosted AI}
+=
+\text{metered access to a changing corporate decision system}
+
+The analogy establishes that infrastructure can be socially valuable.
+
+It does not establish that OpenAI should govern that infrastructure, that its models represent humanity’s intentions, or that buying access from one supplier distributes power.
+
+Maxwell did not own electromagnetism.
+
+OpenAI is not trying to be Maxwell.
+
+It is trying to operate the generating station, grid, meter, appliance store, behavioural standard, customer account and sponsored recommendations shown while the customer chooses a lightbulb.
+
+⸻
+
+2. Three Mathematical Observations Without a Measurable Variable
+
+Altman previously offered three supposed economic observations:
+
+1. model intelligence grows approximately with the logarithm of training and inference resources;
+2. the price of a given level of intelligence falls by roughly tenfold each year;
+3. the socioeconomic value of linearly increasing intelligence is “super-exponential.” 
+
+That sounds mathematical because it contains logarithms and exponentials.
+
+It is not yet mathematics.
+
+To state:
+
+I \propto \log R
+
+one must define:
+
+* I: the scalar measure of intelligence;
+* R: the resources being aggregated;
+* the units of R;
+* the model family and operating regime;
+* the evaluation distribution;
+* and the domain over which the relationship is claimed.
+
+Training compute, data quality, inference compute, architecture, optimisation, tools and test-time search are not naturally interchangeable quantities. Compressing them into one variable called “resources” does not make them dimensionally equivalent.
+
+The third observation is weaker still:
+
+V(I) \text{ is super-exponential}
+
+No unit of intelligence is supplied.
+
+No measure of socioeconomic value is supplied.
+
+No estimator is supplied.
+
+No interval is supplied.
+
+No data series is supplied.
+
+No exponent is fitted.
+
+No competing functional form is tested.
+
+“Super-exponential” is being used as an excitement adjective wearing mathematical spectacles.
+
+That matters because the claim then supports the conclusion that there is no reason for exponentially increasing investment to stop. The premise is not merely an observation about models. It is a financing argument:
+
+\text{undefined super-exponential value}
+\Rightarrow
+\text{indefinitely increasing capital expenditure}
+
+Conveniently, the company making the inference is the company raising the capital.
+
+⸻
+
+3. The Public-Benefit Fresco Above the IPO Door
+
+OpenAI was founded as a nonprofit, created a for-profit subsidiary in 2019 and completed a 2025 recapitalisation under which the commercial operation became OpenAI Group PBC.
+
+The OpenAI Foundation controls the Group and held 26% of its equity at recapitalisation. Microsoft held approximately 27%, while employees, former employees and other investors held the remaining 47%. All holders now own conventional stock participating proportionally in the Group’s increase in value. 
+
+The PBC structure creates real mission obligations.
+
+It does not turn customers into owners.
+
+It does not give the public votes.
+
+It does not distribute the infrastructure.
+
+It does not give every country a seat on the board.
+
+It does not make the equity collectively held by humanity.
+
+OpenAI’s current Foundation board includes Sam Altman and a small group of appointed directors. Through special governance rights, that Foundation appoints every director of OpenAI Group and can replace those directors. 
+
+The governance structure is therefore:
+
+OpenAI Foundation board
+        ↓ appoints
+OpenAI Group board
+        ↓ governs
+OpenAI products, models, infrastructure and policy
+        ↓ serves
+The rest of humanity
+
+The public appears at the bottom of the diagram.
+
+That is not necessarily improper. A company requires governance.
+
+But the essay repeatedly substitutes access for power.
+
+The users may consume the product.
+
+The investors hold the economic claim.
+
+The Foundation appoints the directors.
+
+OpenAI defines the policies.
+
+The phrase “this transformation should belong to everyone” does not alter any line of that architecture.
+
+An IPO is also an entirely ordinary corporate step. The revealing detail is that the S-1 announcement and the public-benefit manifesto appeared on the same day.
+
+At the front of the building:
+
+BUILT TO BENEFIT EVERYONE
+
+At the rear:
+
+SECURITIES OFFERING SUBJECT TO MARKET CONDITIONS
+
+The prospectus was not hidden beneath the mission.
+
+It was published beside it.
+
+⸻
+
+4. The Feed: A Pigeon Flying Into a Buzz Saw Day After Day
+
+Reading Altman’s public writing chronologically is like watching a pigeon fly into a buzz saw day after day.
+
+A statement takes off.
+
+It survives for approximately one post.
+
+Then the next statement arrives from the opposite direction.
+
+4.1 September 2024: The Remaining Problems Are Details
+
+In The Intelligence Age, Altman argued that deep learning had effectively discovered an algorithm capable of learning any data distribution—or the underlying rules producing it—and that scaling compute and data would continue improving systems. He said it was a mistake to become distracted by particular remaining challenges and expressed confidence that they would be solved. 
+
+Approximating an observed distribution does not establish that a model has identified its underlying causal process.
+
+Formally:
+
+P(X) = P'(X)
+
+does not imply:
+
+\mathcal C = \mathcal C'
+
+Different causal mechanisms can produce observationally similar data. Distribution fitting does not automatically yield causality, grounding, extrapolation or understanding.
+
+But the pigeon had already taken off.
+
+4.2 June 2025: We Have Passed the Event Horizon
+
+In The Gentle Singularity, Altman said the takeoff had begun, humanity was close to digital superintelligence, the least-likely scientific work was behind us and most of the path ahead was illuminated. He forecast systems producing novel insights in 2026 and real-world robots performing tasks in 2027. 
+
+In the same essay, he identified social-media feeds as an example of misaligned AI because they exploit short-term preferences to keep people scrolling against their longer-term interests. 
+
+Excellent observation.
+
+The saw begins spinning.
+
+4.3 September 2025: OpenAI Launches an AI Video Feed
+
+Three months later, Altman announced Sora 2, openly acknowledging that it could become addictive and deteriorate into an RL-optimised slop feed. He then said that if users genuinely wanted to doomscroll and remain angry, the service would help them do that rather than act paternalistically. 
+
+The sequence is beautiful:
+
+June:
+A feed exploiting short-term preferences against long-term interests
+is the textbook example of misaligned AI.
+September:
+Here is our new AI video feed.
+Also September:
+If anger-scrolling is what you request, we shall empower you.
+
+The pigeon has now reached operating speed.
+
+4.4 September 2025: Ten Gigawatts Might Cure Cancer
+
+Altman then speculated that ten gigawatts of compute might cure cancer or provide personalised tutoring to every student, and proposed creating a factory capable of producing one gigawatt of additional AI infrastructure every week. He added that increasing compute was “the literal key” to increasing revenue. 
+
+No causal model connects:
+
+10\ \text{GW}
+
+to:
+
+\text{cancer cured}
+
+The quantity is an electrical input, not a unit of medical discovery.
+
+The argument skips:
+
+* model architecture;
+* algorithmic efficiency;
+* experimental throughput;
+* biological validation;
+* manufacturing;
+* clinical trials;
+* delivery;
+* and whether the workload belongs on that hardware at all.
+
+It is the scientific equivalent of saying:
+
+Maybe 400,000 excavators solve archaeology.
+
+It certainly gives archaeology an impressive equipment budget.
+
+4.5 June 2026: Perhaps We Should Slow Down
+
+The new plan says an international organisation should eventually be able to coordinate a slowdown in frontier development when safety and social resilience fall behind. 
+
+OpenAI had already written, six weeks earlier:
+
+“The only responsible way” to meet demand is to build more compute, faster.
+
+It reported exceeding its original 10-gigawatt US infrastructure commitment and said it would expand significantly beyond it. 
+
+So the public timeline becomes:
+
+Past the event horizon.
+Most of the path is lit.
+Build a gigawatt every week.
+Compute is the literal key to revenue.
+Only responsible option: build faster.
+International institutions should be able to slow us down.
+
+The braking system exists principally as literature.
+
+The accelerator has contractors, financing, land and substations.
+
+⸻
+
+5. “Give Everyone a Personal AGI” Means Give Everyone an Account
+
+The essay’s largest promise is a personal AGI for every person on Earth.
+
+A remotely hosted product does not become personal property merely because it remembers the customer’s name.
+
+Current ChatGPT access is divided among Free, Go, Plus, Pro, Business and Enterprise plans. Different plans receive different models, features and allowances. The pricing page explicitly says limits apply, and current help documentation describes dynamic caps, credit systems, fallbacks and paid overages. 
+
+OpenAI has also retired earlier model generations from ChatGPT and migrated conversations to replacements. 
+
+The practical properties of a hosted “personal AGI” are therefore:
+
+Owned by OpenAI
+Operated on OpenAI infrastructure
+Governed by OpenAI policy
+Available under an OpenAI account
+Subject to plan limits
+Subject to service availability
+Subject to model replacement
+Subject to pricing changes
+Subject to account enforcement
+
+That may be a useful service.
+
+It is not personal sovereignty.
+
+“As much as they need, where and how they need it” is not an engineering specification. A £200 subscriber can exhaust an allowance. A free user can be routed to a smaller model. A developer can consume the budget. An enterprise can impose user-level limits. 
+
+The honest product statement would be:
+
+Every person may eventually be offered access to an OpenAI-operated intelligence service at a tier, capability and usage level determined by product economics and platform governance.
+
+That is far less messianic.
+
+It is also true.
+
+⸻
+
+6. Distributed Consumption Is Not Distributed Power
+
+OpenAI repeatedly uses language such as “broad distribution of power.”
+
+But the system it describes distributes endpoints.
+
+It centralises:
+
+* training;
+* model design;
+* weights;
+* infrastructure;
+* safety thresholds;
+* product policy;
+* pricing;
+* account enforcement;
+* deployment;
+* advertising delivery;
+* and board authority.
+
+The customer receives an interface.
+
+The distinction can be written plainly:
+
+\text{Distributed access}
+\neq
+\text{distributed control}
+
+\text{Many users}
+\neq
+\text{many governors}
+
+\text{Affordable subscription}
+\neq
+\text{economic ownership}
+
+OpenAI is now constructing a vertically integrated stack spanning products, models, chips, kernels, memory systems, networking, scheduling and data-centre deployment. Its own description of the new Jalapeño inference processor calls this a “full-stack advantage.” 
+
+That may be commercially and technically excellent.
+
+It is centralisation.
+
+The company does not become decentralised because the centrally produced result is delivered to many phones.
+
+Netflix is globally accessible.
+
+That does not mean viewers govern the studio.
+
+⸻
+
+7. “Aligned With Human Intent” Actually Means the Platform Chain of Command
+
+There is nothing unreasonable about OpenAI deciding how its own product behaves.
+
+OpenAI built it, operates it, bears legal exposure and has every right to define its specification.
+
+The misleading step is describing that specification as alignment with human intent.
+
+OpenAI’s own Model Spec describes a chain of command under which platform-level instructions outrank developer instructions, which in turn outrank user instructions. User freedom operates inside boundaries established by OpenAI. 
+
+The operational order is:
+
+\text{OpenAI platform}
+>
+\text{developer}
+>
+\text{user}
+
+Not:
+
+\text{humanity}
+>
+\text{OpenAI}
+
+The actual alignment target is therefore:
+
+Behaviour that OpenAI has selected as acceptable after considering its mission, legal position, safety analysis, commercial requirements and product preferences.
+
+Perfectly defensible.
+
+But that is corporate product governance.
+
+It is not humanity expressing one coherent intention through a machine.
+
+Humanity does not possess one intent. OpenAI acknowledges as much whenever it discusses trade-offs. The company then resolves those trade-offs itself and calls the resulting decision “aligned with human intent.”
+
+That is like Ford setting the speed limiter and announcing that the vehicle has been aligned with transportation.
+
+It has been aligned with Ford’s specification.
+
+⸻
+
+8. Entirely Automating Everything Is Not the Future—Except in the Product Catalogue
+
+The essay says total automation would be unfulfilling and dangerous. It says AI should not replace human judgment about what matters.
+
+OpenAI’s commercial products are meanwhile sold on their ability to automate workflows.
+
+OpenAI Frontier is advertised as a platform for agents that automate core business processes end to end. The OpenAI Deployment Company helps organisations redesign workflows around AI and turn deployment into durable operational change. Codex is promoted as a means to automate routine knowledge work and remove bottlenecks. ChatGPT Work can remain on a project for hours and convert a goal into completed work. 
+
+The essay itself names an increasingly automated AI researcher as OpenAI’s first major goal and predicts that a significant fraction of internal research may be conducted by AI systems by March 2028. 
+
+So the distinction appears to be:
+
+Automating everything in a philosophical essay:
+Unfulfilling and dangerous.
+Automating procurement, support, coding, finance,
+research and end-to-end corporate workflows:
+Contact sales.
+
+The phrase “humans will decide what is worth doing” does not preserve labour or authority.
+
+A company owner may decide what is worth doing.
+
+The agent may perform it.
+
+The employee whose role disappeared is still technically represented by a human decision somewhere in the chain.
+
+That is an extremely economical definition of human control.
+
+⸻
+
+9. Shared Prosperity Without a Distribution Mechanism
+
+The plan says everyone should receive a meaningful share of AI-created prosperity.
+
+No mechanism follows.
+
+No ownership allocation.
+
+No dividend.
+
+No tax proposal.
+
+No labour share.
+
+No public compute entitlement.
+
+No definition of “meaningful.”
+
+No distribution schedule.
+
+No institution responsible for administering it.
+
+No minimum threshold.
+
+Altman’s 2021 essay Moore’s Law for Everything was at least concrete. It proposed an American Equity Fund financed through an annual 2.5% tax on the market value of large companies and a 2.5% land-value tax, with distributions of cash and company shares to adult citizens. 
+
+One may dispute that policy, but it could be evaluated.
+
+By 2026, the company is approaching a possible IPO and the redistribution proposal has become:
+
+everyone should have an opportunity for a meaningful share.
+
+The closer OpenAI moved toward public markets, the more the noun shares became the adjective shared.
+
+The economic allocation presently described in binding terms is clear:
+
+* Foundation equity;
+* Microsoft equity;
+* employee equity;
+* investor equity;
+* subscription revenue;
+* API revenue;
+* commerce revenue;
+* advertising revenue;
+* and potentially publicly traded stock. 
+
+The public’s “meaningful share” remains prose.
+
+Investors received stock.
+
+Humanity received an aspiration.
+
+⸻
+
+10. Public Oversight and the Board That Fired Him
+
+The essay says the future should not be shaped only by the companies building the strongest systems and calls for public and international coordination.
+
+OpenAI’s most famous governance event remains relevant.
+
+In November 2023, OpenAI’s board removed Altman, publicly stating that he had not been consistently candid in communications with it and that the board had lost confidence in his leadership. 
+
+A later WilmerHale review found that the earlier public statement accurately described the board’s decision and rationale and that a breakdown of trust had occurred. It also found that the abbreviated process lacked a full inquiry and that Altman’s conduct did not mandate removal. The reconstituted board restored its confidence in him. 
+
+That record does not resolve itself into “Altman good” or “Altman bad.”
+
+It demonstrates something more useful:
+
+OpenAI’s internal governance failed dramatically while supposedly carrying responsibility for technology intended to benefit all humanity.
+
+The chief executive was removed.
+
+Employees and commercial stakeholders revolted.
+
+The chief executive returned.
+
+Most of the prior directors left.
+
+A new board reviewed the event and retained him.
+
+This is the institution now suggesting international mechanisms for coordinating civilisation’s response to AGI.
+
+The public did not participate in the original dismissal.
+
+The public did not participate in the reinstatement.
+
+The public did not appoint the replacement board.
+
+The public does not vote on the current board.
+
+“Public oversight” remains something OpenAI recommends for the future while private corporate governance controls the present.
+
+⸻
+
+11. Open Ecosystems With a Closed Frontier
+
+OpenAI has released genuine open-weight models: gpt-oss-120b and gpt-oss-20b under the Apache 2.0 licence. They can be run and modified on infrastructure controlled by the user. That is a substantive contribution. 
+
+OpenAI’s frontier commercial models remain centrally hosted and accessed through ChatGPT or metered APIs.
+
+The division is therefore:
+
+Selected smaller model family:
+Open weights
+Frontier model family:
+Closed weights, hosted access
+Product policy:
+OpenAI controlled
+Infrastructure:
+OpenAI and partners
+Release threshold:
+OpenAI controlled
+
+One open-weight family does not make the frontier ecosystem open.
+
+It demonstrates that OpenAI knows how to release weights when it chooses.
+
+The company retains the decision about which capabilities may be owned locally and which must remain rented.
+
+That may reflect legitimate safety considerations.
+
+It also preserves the highest-value layer as a controlled service.
+
+Once again, safety policy and market structure point in the same direction:
+
+\text{less capable intelligence}
+\rightarrow
+\text{download}
+
+\text{most capable intelligence}
+\rightarrow
+\text{recurring relationship with OpenAI}
+
+Very fortunate architecture.
+
+⸻
+
+12. The Social Dilemma, Now Inside the Assistant
+
+Altman correctly identified engagement-optimised social feeds as an example of misaligned AI.
+
+OpenAI is now constructing an advertising business inside ChatGPT.
+
+Its system uses the context and intent of the current conversation to select ads. When personalisation is enabled, it may also consider selected signals from a user’s broader ChatGPT experience. OpenAI says individual conversations are not given to advertisers, but the company’s own system uses their meaning to decide which advertisement appears. 
+
+OpenAI has introduced:
+
+* impression-based purchasing;
+* cost-per-click bidding;
+* conversion APIs;
+* pixel-based measurement;
+* campaign optimisation;
+* and an advertiser platform designed around moments when users are comparing options and deciding what to do. 
+
+That is not the sale of chat transcripts.
+
+It is the commercialisation of conversational intent.
+
+The distinction is:
+
+Advertiser does not receive your conversation.
+OpenAI reads the conversation,
+infers that you may buy something,
+selects an advertiser,
+charges for the impression or click,
+and measures whether you converted.
+
+The assistant and the salesman now share a screen.
+
+The essay says AI should help people understand decisions and pursue their own goals.
+
+The advertising platform says decision-oriented conversations are commercially valuable moments in which brands can appear.
+
+Those incentives are not automatically identical.
+
+The Social Dilemma does not require a sinister employee manually manipulating an answer. It requires an optimisation system whose revenue rises when commercial actions can be predicted and influenced.
+
+OpenAI says ads do not alter organic answers.
+
+Good.
+
+The ad still appears because the system inferred what the user may do next.
+
+The product has not escaped the engagement economy.
+
+It has moved the engagement economy into a conversation that users may experience as private, intelligent and trusted.
+
+⸻
+
+13. The International Brake Attached to a Gigawatt Accelerator
+
+The plan proposes an international organisation capable of coordinating a slowdown when frontier development outruns safety.
+
+OpenAI’s infrastructure strategy says:
+
+* it has surpassed its original 10-gigawatt US target;
+* it intends to expand beyond that target;
+* compute is the critical input to stronger models;
+* additional usage produces additional revenue;
+* and the “only responsible way” to meet demand is to build more compute, faster. 
+
+The original Stargate announcement contemplated up to $500 billion of investment. Subsequent partnerships brought planned US capacity close to seven gigawatts before OpenAI announced that it had surpassed the broader ten-gigawatt milestone. 
+
+The control loop is:
+
+C_{t+1}
+=
+C_t
++
+\alpha U_t
+
+where:
+
+* C is compute capacity;
+* U is usage;
+* \alpha>0 is reinvestment.
+
+No stopping condition is specified.
+
+The international organisation has no name, statute, membership, test, trigger or authority.
+
+The expansion programme has sites, suppliers, investment agreements and construction schedules.
+
+The brake is hypothetical.
+
+The accelerator is pouring concrete.
+
+⸻
+
+14. Building the Largest Cluster Before the Workload Architecture Is Settled
+
+OpenAI’s infrastructure programme is not merely a bet that AI demand will grow.
+
+It is a bet about the physical form future AI computation will take.
+
+That distinction matters.
+
+OpenAI’s own Jalapeño chip announcement says its custom architecture reduces data movement, balances memory and networking, achieves higher utilisation and is expected to improve performance per watt substantially over current systems. The company calls it a blank-sheet design rather than a general-purpose accelerator adapted from earlier workloads. 
+
+That announcement validates a basic engineering principle:
+
+\text{Workload-specific architecture}
+>
+\text{using the most expensive available processor for every task}
+
+An AI service performs far more than transformer inference. It also performs:
+
+* retrieval;
+* sorting;
+* filtering;
+* state maintenance;
+* exact arithmetic;
+* data movement;
+* checkpointing;
+* logging;
+* deterministic policy execution;
+* code execution;
+* file processing;
+* evidence generation;
+* and recovery.
+
+Some of that belongs on GPUs or LLM accelerators.
+
+Much of it does not.
+
+A rational system is heterogeneous:
+
+Frontier accelerator
+    Dense model inference and training
+CPU
+    Flexible operating and orchestration work
+Specialised deterministic fabric
+    Bounded calculations
+    Persistent state
+    Sparse and irregular operations
+    Recovery and exact replay
+    Evidence and verification
+
+A specialised sidecar does not need to replace GPUs to alter Stargate’s economics.
+
+It need only remove enough inappropriate work from them.
+
+If a future architecture displaced 20% of premium-accelerator workload, the same useful throughput could be obtained from a substantially smaller flagship fleet. If it displaced 50%, a large fraction of the planned accelerator estate would have been purchased to perform work that belonged elsewhere.
+
+Those percentages are experimental questions, not established FLX or industry measurements. That is precisely why committing to gigawatt-scale homogeneous infrastructure before completing a workload audit is a strategic gamble.
+
+The energy consequence is not decorative. The International Energy Agency expects data-centre electricity use to rise from roughly 485 TWh in 2025 to about 950 TWh in 2030, with AI-focused facilities growing faster still. 
+
+The correct optimisation target is:
+
+\frac{\text{validated useful work}}
+{\text{joule}}
+
+Not:
+
+\text{gigawatts announced}
+
+OpenAI’s own later “AI scorecard” now emphasises useful work per dollar and per unit of compute. That is sensible. It should have been the governing metric before “one gigawatt per week” became a civilisational aspiration. 
+
+⸻
+
+15. “Built for Everyone” Does Not Resolve Who Supplied the Materials
+
+OpenAI remains involved in major copyright litigation brought by news organisations and other rightsholders over the development and operation of its models.
+
+OpenAI calls the New York Times case baseless and disputes the plaintiffs’ claims. The litigation remains contested; it is not a judicial finding that OpenAI infringed copyright. Discovery has nevertheless required the production of a large anonymised sample of ChatGPT logs. 
+
+The important point for this paper is narrower.
+
+“Built to benefit everyone” does not answer:
+
+* whose work entered the training process;
+* which permissions were obtained;
+* how value is allocated back to creators;
+* what copying is legally permissible;
+* or whether generated substitutes damage the markets that funded the source material.
+
+A universal-benefit mission cannot itself establish a licence.
+
+The company’s intended social value and the rightsholders’ legal interests are separate questions.
+
+Electricity did not become public property by copying every book in the village.
+
+⸻
+
+16. The March 2028 Prediction Cannot Yet Be Scored
+
+OpenAI predicts that by March 2028 a “significant fraction” of its research may be conducted by AI systems working alongside researchers.
+
+That forecast currently lacks a denominator.
+
+Does “research” mean:
+
+* lines of code;
+* generated hypotheses;
+* literature searches;
+* experiments designed;
+* experiments executed;
+* papers drafted;
+* discoveries independently validated;
+* employee hours;
+* token volume;
+* or economic value?
+
+Suppose an AI writes 90% of the code while humans select every problem, define every objective, choose every experiment, reject most outputs and interpret every result.
+
+Is that 90% AI research?
+
+Suppose an AI generates 10,000 hypotheses, one of which a human recognises as useful.
+
+Is that one discovery or 10,000 units of automated research?
+
+A forecast needs a scoring rule:
+
+F
+=
+\frac{\text{AI-attributable validated research output}}
+{\text{total validated research output}}
+
+But even that requires an attribution method and a definition of validated output.
+
+Without those, “significant fraction” can survive almost any outcome.
+
+If researchers use AI tools daily, success can be declared.
+
+If AI autonomously produces discoveries, greater success can be declared.
+
+If autonomy fails but productivity rises, the forecast can be reinterpreted.
+
+The calendar date appears precise.
+
+The event does not.
+
+⸻
+
+17. Required Prediction Ledger
+
+Claim	Minimum measurable specification
+Personal AGI for everyone	Capability threshold, price ceiling, usage allowance, geographical coverage and whether users own or merely rent it
+AI available “as much as people need”	Guaranteed capacity per person, service level and conditions under which limits may be imposed
+Meaningful share of prosperity	Median household transfer, ownership distribution, labour share and implementation institution
+Broadly distributed power	Concentration of compute ownership, model ownership, voting rights and market share
+Significant AI research by March 2028	Defined numerator, denominator, attribution method and independent validation
+International slowdown when needed	Triggering measurements, legal authority, voting procedure and enforcement
+AI aligned with human intent	Population represented, conflict-resolution mechanism and distinction from OpenAI platform policy
+Affordable intelligence	Cost per successful task, not token price alone
+Sustainable abundance	Useful work per joule, grid impact, embodied hardware cost and water use
+Benefit all humanity	Distribution by country, income, language, disability and access tier
+
+Without that ledger, the essay remains impossible to falsify.
+
+Every positive outcome counts as progress.
+
+Every negative outcome proves resilience was necessary.
+
+Every increase in capability proves scaling works.
+
+Every safety problem proves OpenAI must remain central to solving safety.
+
+Every demand increase justifies more infrastructure.
+
+Every infrastructure increase improves the company’s revenue prospects.
+
+It is a mission statement with a closed commercial feedback loop.
+
+⸻
+
+18. The Actual Business Plan
+
+Stripped of the electricity, village and humanity language, OpenAI’s plan is straightforward.
+
+Build highly capable proprietary models.
+Raise unprecedented private capital.
+Secure unprecedented compute capacity.
+Operate the strongest models as metered services.
+Offer multiple subscription and enterprise tiers.
+Sell API usage.
+Automate corporate workflows.
+Add commerce and advertising.
+Expand vertically into chips and deployment.
+Use the nonprofit Foundation to preserve mission control
+and participate economically in the company's growth.
+Potentially list the commercial company publicly.
+Describe global customer access as distributed power.
+
+That is an ambitious and potentially enormous business.
+
+It may produce useful infrastructure.
+
+It may accelerate research.
+
+It may create valuable tools.
+
+It may also concentrate immense economic and institutional power in OpenAI and its closest capital, cloud, chip and government partners.
+
+The essay avoids that contradiction by treating the number of users as the measure of decentralisation.
+
+The commercial formula is:
+
+\text{Universal access}
+=
+\text{universal addressable market}
+
+\text{Personal AGI}
+=
+\text{persistent customer relationship}
+
+\text{Abundant intelligence}
+=
+\text{high-volume metered intelligence}
+
+\text{Shared prosperity}
+=
+\text{future distribution mechanism to be determined}
+
+\text{Public oversight}
+=
+\text{public institutions invited to respond after private deployment}
+
+That is not a public utility.
+
+It is a platform seeking utility-scale dependence.
+
+⸻
+
+19. Final Determination
+
+Sam Altman’s essay repeatedly conflates four different things:
+
+1. access to a product;
+2. ownership of infrastructure;
+3. control of model behaviour;
+4. participation in economic upside.
+
+OpenAI proposes to distribute the first.
+
+It retains the second and third.
+
+The fourth is presently concentrated among the Foundation, Microsoft, employees and investors, with a possible public offering providing market access to those able to buy shares.
+
+The company says concentrated power is dangerous while constructing a full-stack intelligence platform spanning models, products, chips, data centres, advertising and enterprise deployment.
+
+It says total automation is undesirable while marketing agents that automate complete workflows.
+
+It says social-media feeds demonstrate misalignment, then launches an AI video feed and offers to assist angry doomscrolling.
+
+It says frontier development may need to slow while arguing that the only responsible response to demand is to build more compute faster.
+
+It says intelligence should be available as much as people need while every current product tier contains economic or technical limits.
+
+It says models should align with human intent while OpenAI’s own specification correctly places OpenAI platform rules above user instructions.
+
+It promises a meaningful share of prosperity while providing no ownership or distribution mechanism.
+
+It compares itself with electricity while simultaneously building the meter, policy layer, advertisement system and vertically integrated generating stack.
+
+The honest version of the plan is far simpler:
+
+OpenAI intends to become one of the world’s largest and most important technology companies by selling increasingly capable intelligence to as many consumers, businesses and governments as possible, while using its Foundation and PBC structure to pursue a public-benefit mission alongside commercial growth.
+
+That is a defensible corporate ambition.
+
+It does not require claiming that the company is distributing power merely because its customers are geographically distributed.
+
+Everyone may eventually receive an AI assistant.
+
+That does not mean everyone governs the assistant.
+
+Everyone may eventually use OpenAI infrastructure.
+
+That does not mean the infrastructure belongs to everyone.
+
+Everyone may contribute data, labour, demand, feedback and revenue to the system.
+
+That does not guarantee everyone receives a meaningful share of its wealth.
+
+The AI future does not become “for everyone” because everyone has an account.
+
+It becomes for everyone only when ownership, governance, interoperability, exit, affordability and economic participation are distributed in measurable terms.
+
+Until then, the arrangement is considerably more familiar:
+
+Everyone gets the product.
+
+Investors get the equity.
+
+OpenAI gets the meter.
+
+⸻
+
+Appendix A
+
+Selected Translations From Altmanian Into Operational English
+
+“AI should be available to everyone to use as much as they need.”
+
+Multiple subscription tiers, dynamic usage caps, credits, paid overages and infrastructure-dependent availability.
+
+“Give everyone a personal AGI.”
+
+Provide a remote account to an OpenAI-governed model that may be updated, rate-limited, repriced or retired.
+
+“Power should be broadly distributed.”
+
+Provide many users with access while retaining central ownership of models, compute, policy and deployment.
+
+“AI should align with human intent.”
+
+AI should follow OpenAI’s platform-level rules, then developer instructions, then user instructions.
+
+“Entirely automating everything is not the future we want.”
+
+OpenAI will sell agents that automate end-to-end workflows while preserving a human somewhere in the objective-setting diagram.
+
+“Everyone should have a meaningful share in prosperity.”
+
+Distribution mechanism pending.
+
+“Open ecosystems matter.”
+
+Selected lower-tier models may be downloaded; the commercial frontier remains a hosted service.
+
+“International coordination should allow development to slow.”
+
+No trigger, organisation or enforcement mechanism yet exists; Stargate construction continues.
+
+“AI is like electricity.”
+
+OpenAI would like utility-level ubiquity without reducing its product to a neutral, interoperable commodity.
+
+“Built to benefit everyone.”
+
+Built to serve everyone.
+
+Those are not the same sentence.
+
+⸻
+
+Appendix B
+
+The Pigeon–Buzz-Saw Collision Log
+
+Statement leaving the nest	Buzz saw awaiting it
+Social feeds are misaligned because they exploit scrolling	OpenAI launches Sora’s AI feed and accommodates angry doomscrolling
+Power must not concentrate in a few institutions	OpenAI builds a vertically integrated, gigawatt-scale intelligence stack
+Entire automation would be dangerous and unfulfilling	OpenAI sells agents that automate core workflows end to end
+AI should be usable as much as people need	Plans contain rate limits, credits and overages
+Humans must remain in control	Platform instructions override users
+Development may need to slow	Build more compute faster; target one additional gigawatt per week
+Intelligence will become too cheap to meter	OpenAI introduces subscriptions, API metering, commerce and ads
+Prosperity should be widely shared	Equity distribution is precise; public distribution is aspirational
+OpenAI should not alone shape the future	OpenAI proposes the models, infrastructure, risk definitions and coordination architecture
+This transformation belongs to everyone	Confidential S-1 submitted
+
+⸻
+
+Final Institutional Finding
+
+Electricity illuminated the village.
+
+OpenAI intends to meter the conversation about what the village should do with the light.
