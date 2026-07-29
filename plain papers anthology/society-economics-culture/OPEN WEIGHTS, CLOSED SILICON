@@ -1,0 +1,709 @@
+OPEN WEIGHTS, CLOSED SILICON
+
+NVIDIA’s Public-Interest Sermon From the Most Profitable Tollbooth in Computing
+
+White Paper No. 63–CUDA
+Classification: Open for Everyone, Provided It Runs on NVIDIA
+Prepared by: Office of Accelerated Self-Interest, Institute for Vendor-Neutral Invoicing
+Date: 29 July 2026
+
+⸻
+
+Executive Summary
+
+NVIDIA and a collection of chip vendors, server manufacturers, cloud providers, model companies, venture capitalists and enterprise-software firms have published a letter explaining that open-weight artificial intelligence is essential for competition, safety, sovereignty, innovation and American prosperity.
+
+This is an extraordinarily fortunate conclusion for companies that earn money whenever another model is downloaded, adapted, trained, fine-tuned, hosted, benchmarked, served or placed inside an enterprise rack.
+
+The letter’s underlying economic formula is not difficult:
+
+\text{More models}
+\rightarrow
+\text{more training and inference}
+\rightarrow
+\text{more compute demand}
+\rightarrow
+\text{more NVIDIA systems}
+
+The public is invited to admire the openness of the first term while politely ignoring who invoices the final term.
+
+NVIDIA generated $215.9 billion in revenue during fiscal 2026, of which approximately $193.7 billion—nearly 90%—came from its data-centre business. Its gross margin was 71.1%. In the first quarter of fiscal 2027, data-centre revenue reached $75.2 billion out of $81.6 billion total revenue, or just over 92%, while gross margin reached 74.9%. 
+
+Jensen Huang has therefore discovered that open weights are an urgent matter of democratic principle at almost exactly the moment they generate industrial-scale demand for the thing his company sells.
+
+How spiritually convenient.
+
+The letter says organisations should not become locked into a single provider. NVIDIA’s own platform is built around CUDA, NVIDIA drivers, NVIDIA GPUs, NVIDIA libraries, NVIDIA networking, NVIDIA software and paid enterprise licences. NVIDIA describes itself not merely as a chip company but as a full-stack, data-centre-scale AI infrastructure company whose chips, systems, interconnects, software and algorithms are jointly designed. 
+
+So the proposed liberation looks like this:
+
+Model weights: open
+Training data: often closed
+Training process: often closed
+Hardware: proprietary
+Driver stack: proprietary
+Execution ecosystem: vendor-controlled
+Electricity bill: yours
+Gross margin: NVIDIA’s
+
+The open-weight case contains legitimate technical arguments. This paper addresses the industrial pantomime in which a dominant infrastructure supplier presents its preferred demand conditions as though they descended from the heavens on a stone tablet marked Competition.
+
+NVIDIA is not the neutral philosopher of this market.
+
+NVIDIA is the till.
+
+⸻
+
+1. Jensen’s First Post, Sponsored by the Entire Supply Chain
+
+Huang used his first post on X to promote a letter declaring that open models strengthen safety, accelerate innovation and enable sovereignty.
+
+What a debut.
+
+Most people’s first post is “Hello, testing this out.”
+
+Jensen’s was effectively:
+
+Hello, policymakers. Please ensure that every country, company, university, hospital, factory and teenager with a startup continues generating demand for accelerated computing.
+
+The letter was signed by organisations including Microsoft, Meta, Dell, IBM, Palantir, Mistral, Hugging Face, Andreessen Horowitz, Y Combinator, ServiceNow and NVIDIA itself. 
+
+This is not a citizens’ assembly.
+
+It is a group of companies that variously sell chips, servers, cloud capacity, models, software, investment capital, deployment services and enterprise integration agreeing that the world should purchase substantially more chips, servers, cloud capacity, models, software, investment capital, deployment services and enterprise integration.
+
+The supermarket has issued a joint letter with the farms, haulage companies, packaging manufacturers and payment processor explaining that eating is vital to national sovereignty.
+
+Technically correct.
+
+Commercially fascinating.
+
+⸻
+
+2. Open Weights, Closed Everything That Actually Costs Money
+
+The letter borrows the moral prestige of open-source software and applies it to open model weights.
+
+That analogy is doing unpaid overtime.
+
+Open-source software allowed people to inspect source code, modify it, build it on ordinary machines, distribute changes and reproduce the software’s operation without obtaining permission from a central vendor.
+
+Open weights provide one important artefact: trained model parameters. They do not automatically provide the original training data, complete training code, filtering process, human-feedback pipeline, evaluation history, compute, networking, energy or capital needed to recreate the model.
+
+The user may possess the weights while remaining completely unable to reproduce how they were produced.
+
+That is not meaningless openness. It is simply much narrower than the historical analogy is designed to make it sound.
+
+More importantly, the weights do not run through spiritual intention. They need physical infrastructure.
+
+NVIDIA’s documentation says CUDA applications require a CUDA-capable GPU and a compatible NVIDIA driver. NVIDIA’s annual report describes CUDA as the foundation of a much larger stack incorporating acceleration libraries, APIs, SDKs, models, datasets, networking and paid enterprise software. 
+
+So the glorious open ecosystem works rather like this:
+
+You may inspect the recipe.
+The kitchen, ovens, gas supply, utensils,
+staffing system and building lease remain proprietary.
+
+NVIDIA’s vision is not open computing.
+
+It is open model proliferation on a closed commercial substrate.
+
+The model may be free.
+
+Running it is the product.
+
+⸻
+
+3. The Anti-Lock-In Sermon From the Architect of CUDA Lock-In
+
+The letter says organisations want confidence that they will not become “locked into a single provider.”
+
+Someone in the drafting meeting apparently survived saying this without laughing.
+
+CUDA is one of the strongest software moats in modern computing. Developers do not merely purchase a GPU. They write against NVIDIA’s programming model, libraries, tooling, compiler behaviour, profiling environment and deployment stack. Over time, applications accumulate dependencies that make changing hardware vendors expensive even when competing silicon exists.
+
+NVIDIA calls CUDA its foundational development platform and says its full-stack model combines GPUs, CPUs, DPUs, switches, networking, libraries, frameworks, APIs and enterprise software. 
+
+That is excellent engineering.
+
+It is also the literal construction of dependency.
+
+The company is now warning that model providers might create the sort of customer lock-in NVIDIA spent years perfecting one layer below them.
+
+Apparently lock-in becomes an ethical emergency when somebody else owns the lock.
+
+The French Competition Authority has explicitly identified risks around technical and financial lock-in in generative AI and has kept NVIDIA’s graphics-card practices under scrutiny. Its investigation into alleged anticompetitive conduct was reported as nearing completion in July 2026; that procedural stage is not a finding that NVIDIA broke the law. 
+
+The irony survives regardless of the investigation’s outcome.
+
+NVIDIA is asking policymakers to protect model-layer competition while its own infrastructure layer has become so strategically central that competition authorities are examining whether its position restricts the same competition it is currently praising.
+
+The translation is simple:
+
+Please prevent anyone above us from becoming as difficult to route around as we are.
+
+⸻
+
+4. The Champion of Competition Who Tried to Buy Arm
+
+NVIDIA’s letter treats competition as the natural guardian of innovation.
+
+NVIDIA previously attempted to acquire Arm for approximately $40 billion.
+
+Arm’s architecture and licensing business are foundational inputs used by numerous chipmakers, including companies competing with NVIDIA. The US Federal Trade Commission sued to block the transaction, alleging that ownership would give NVIDIA both the ability and incentive to disadvantage rivals, reduce innovation, increase prices and reduce choice. NVIDIA and SoftBank abandoned the acquisition amid regulatory opposition. 
+
+This is a remarkable corporate journey:
+
+2020:
+Let us buy a foundational architecture used by our competitors.
+2021:
+Regulators say that could allow us to stifle competition.
+2022:
+Deal abandoned.
+2026:
+Competition is sacred and concentrated technological control is dangerous.
+
+NVIDIA did not merely attempt to purchase another graphics-card company.
+
+It attempted to acquire a neutral architectural supplier upon which rival chip designers depended.
+
+Then, four years later, it signed a letter explaining that foundational technology must remain widely accessible so no small group can concentrate power.
+
+The FTC had already explained that to NVIDIA.
+
+The company apparently needed time to convert the complaint into thought leadership.
+
+⸻
+
+5. Open Models Do Not Decentralise the Expensive Part
+
+The letter repeatedly treats wider availability of model weights as though it naturally produces a more distributed AI economy.
+
+That conclusion skips the part containing the buildings.
+
+The US National Telecommunications and Information Administration found that access to weights may broaden research and downstream use, but also concluded that compute and other resource constraints make open weights unlikely, by themselves, to transform competition at the advanced foundation-model layer. 
+
+In plain English:
+
+Possessing the file does not mean possessing the factory.
+
+The frontier remains concentrated because the scarce inputs are not just model parameters. They include accelerator supply, memory, interconnects, energy, data centres, engineering teams and capital.
+
+NVIDIA’s own accounts illustrate that concentration. In fiscal 2026, one direct customer represented 22% of total revenue and another represented 14%. The company also says a limited number of indirect customers each accounted for substantial shares of revenue. 
+
+The supposed decentralised ecosystem is therefore being physically assembled through a small number of enormous purchasers buying from a dominant supplier.
+
+That is not a village workshop.
+
+That is several hyperscalers purchasing industrial quantities of machinery from the same warehouse.
+
+Open weights may expand the number of people allowed to build applications.
+
+They do not automatically distribute ownership of:
+
+* fabrication capacity;
+* advanced packaging;
+* high-bandwidth memory;
+* interconnect technology;
+* data-centre power;
+* accelerator clusters;
+* or the software stack that makes those clusters commercially usable.
+
+The public receives downloadable intelligence.
+
+The physical means of operating it remain concentrated among companies whose quarterly capital expenditure resembles the budget of a country.
+
+Calling that “sovereignty” because the .safetensors file arrived successfully is doing constitutional theory by download bar.
+
+⸻
+
+6. Safety by Adjective
+
+The letter says open weights strengthen safety and cybersecurity.
+
+It then acknowledges that released weights cannot be recalled, modified versions may be difficult to trace, and capable systems can be misused.
+
+The authors nevertheless move directly from “there are competing effects” to “openness may be one of the most important paths to safety.”
+
+No measurement is supplied.
+
+No threshold is supplied.
+
+No comparison is supplied.
+
+No quantified threat model is supplied.
+
+The relevant security expression is closer to:
+
+S_{\text{net}}
+=
+G_{\text{defence}}
+-
+G_{\text{offence}}
+-
+C_{\text{irreversibility}}
+-
+C_{\text{proliferation}}
+
+where:
+
+* G_{\text{defence}} is the benefit from auditing, red-teaming and distributed repair;
+* G_{\text{offence}} is the benefit supplied to attackers;
+* C_{\text{irreversibility}} is the cost of being unable to recall released weights;
+* C_{\text{proliferation}} is the cost of unrestricted copying and modification.
+
+The letter assumes:
+
+S_{\text{net}} > 0
+
+without estimating any term.
+
+That is not a safety result.
+
+It is a preference wearing a lab coat.
+
+The NTIA’s official review treated open-weight models as a source of both public benefits and public-safety risks. It recommended ongoing monitoring rather than declaring openness inherently safe. 
+
+Open access can help researchers find vulnerabilities.
+
+It can also let attackers remove safeguards without requesting an API key.
+
+Whether defenders or attackers gain more depends on the capability, threat, deployment context, available expertise and time horizon. There is no general theorem saying the benevolent side always receives the larger multiplier.
+
+NVIDIA’s letter converts an unresolved empirical balance into a slogan because slogans fit comfortably beneath company logos.
+
+⸻
+
+7. Distillation Is Learning; Reverse Engineering NVIDIA Is a Licence Violation
+
+The letter tells policymakers not to confuse legitimate distillation with misappropriation.
+
+The distinction is real. Training one model using the outputs of another is not automatically theft.
+
+But NVIDIA’s philosophical generosity becomes rather more selective when the technology being examined belongs to NVIDIA.
+
+Its software licences restrict reverse engineering, decompilation, disassembly and the creation or distribution of unauthorised derivative works. Some NVIDIA terms specifically prohibit translating generated artefacts for use on non-NVIDIA hardware. 
+
+Again, model distillation and software reverse engineering are not legally identical. The revealing feature is the direction of the moral instinct.
+
+When extracting capability from a model expands the AI ecosystem:
+
+Humanity has a long tradition of learning, building upon and improving technology.
+
+When extracting or translating NVIDIA’s proprietary software threatens its platform position:
+
+Please consult Section 2.15 of the licence agreement.
+
+The operational philosophy is:
+
+Your behaviour:
+A valuable source of training signal.
+Our implementation:
+Protected intellectual property.
+
+Or more concisely:
+
+Open weights for your model. EULA for my moat.
+
+NVIDIA’s preferred line is not “information should be free.”
+
+It is:
+
+Information should flow freely whenever that flow produces more accelerator demand and stop immediately whenever it allows the accelerator to be replaced.
+
+⸻
+
+8. Sovereignty, Delivered in a Box You Cannot Manufacture
+
+The letter repeatedly uses the word sovereignty.
+
+Organisations supposedly become sovereign because they can download a model, adapt it and deploy it on their own infrastructure.
+
+But a country dependent on imported accelerators, foreign fabrication, foreign high-bandwidth memory, foreign networking and a proprietary software platform does not possess full technological sovereignty.
+
+It possesses local custody of a dependency.
+
+NVIDIA itself says its supply chain is concentrated in Asia and identifies export controls, power availability, water availability, capital and data-centre construction as material constraints on its business. 
+
+Downloaded weights do not fabricate silicon.
+
+They do not produce advanced packaging.
+
+They do not create memory supply.
+
+They do not build substations.
+
+They do not remove export controls.
+
+They do not replace CUDA.
+
+So the proposed national sovereignty looks like this:
+
+Nation:
+We possess the model.
+NVIDIA:
+Excellent. Here is the approved hardware stack,
+driver stack, networking stack, software stack,
+support contract and invoice required to operate it.
+
+That is greater autonomy than exclusive dependence on a closed API.
+
+It is not independence.
+
+It is choosing which floor of the dependency tower to rent.
+
+⸻
+
+9. The Letter Accidentally Admits That the GPU-Only Future Is Bad Engineering
+
+Buried beneath the policy language is one genuinely excellent principle:
+
+Use the right model for the right job and reserve frontier-scale capability for genuine frontier problems.
+
+Correct.
+
+Now finish the sentence:
+
+Use the right processor for the right operation and reserve premium accelerators for work that benefits from them.
+
+NVIDIA’s own filings say GPUs excel at massively parallel workloads such as neural-network training and inference, while its broader systems also require CPUs, DPUs, networking and specialised software. 
+
+A deployed AI service does far more than multiply tensors.
+
+It routes jobs, validates inputs, sorts records, maintains state, performs exact arithmetic, manages checkpoints, updates logs, applies policy, filters tables, handles sparse structures, produces evidence, executes deterministic transforms and recovers interrupted work.
+
+Using frontier accelerator capacity for every surrounding task is not sophistication.
+
+It is bad factory layout.
+
+It is using a touring car to tow pallets around the yard because the touring car happens to be expensive and already running.
+
+A competent heterogeneous architecture would look more like:
+
+GPU / model accelerator
+    Dense tensor work
+    Training
+    Attention
+    Probabilistic inference
+CPU
+    General applications
+    Operating system
+    Flexible orchestration
+Purpose-built deterministic fabric / ASIC / FPGA / sidecar
+    State
+    Exact bounded jobs
+    Sparse and irregular operations
+    Checkpointing
+    Recovery
+    Evidence
+    Reproducible execution
+
+The important engineering question is not:
+
+How can every workload be made to consume another GPU?
+
+It is:
+
+How much premium accelerator capacity can be removed by sending each operation to the hardware designed for it?
+
+NVIDIA’s letter embraces the “right model for the right job” because small and specialised models still need to run somewhere.
+
+It becomes strangely silent at “right hardware for the right operation,” because the best answer may sometimes be not an NVIDIA GPU.
+
+That is where the open ecosystem reaches the edge of the map.
+
+Beyond it, the cartographer has written:
+
+Here be alternative architectures.
+
+⸻
+
+10. Economically Sustainable, Provided Energy Has No Opportunity Cost
+
+The letter says billions of everyday AI tasks must become economically sustainable.
+
+It offers open weights as a major part of the solution.
+
+Yet it contains no serious accounting of electricity, grid capacity, cooling, water, embodied manufacturing cost or the opportunity cost of assigning premium hardware to routine work.
+
+The International Energy Agency estimates that data-centre electricity consumption rose to approximately 485 terawatt-hours in 2025 and could reach around 950 terawatt-hours by 2030. It expects electricity use by AI-focused data centres to triple over that period. 
+
+So when NVIDIA proposes diffusing AI into every factory, farm, hospital, classroom and small business, the engineering question is not merely whether the weights can be downloaded.
+
+It is:
+
+\text{Useful output per joule}
+
+Not:
+
+\text{Number of models announced per keynote}
+
+Open weights can enable smaller and more efficient models. They can also multiply deployments, duplicated infrastructure and total inference demand.
+
+Whether the net effect saves energy or consumes more is measurable.
+
+The letter does not measure it.
+
+It simply declares the expansion economically sustainable while the company selling the accelerators warns investors that shortages of power, water, land and data-centre capacity could constrain future revenue. 
+
+The public document says:
+
+Diffuse intelligence everywhere.
+
+The investor document says:
+
+Please build enough power stations for us to continue doing that.
+
+Electricity is treated as a background texture because electricity does not have a logo to place beneath the signature line.
+
+⸻
+
+11. Competition, Now Available at a 75% Gross Margin
+
+NVIDIA says competition drives down cost and distributes the gains of AI broadly.
+
+During its latest reported quarter, NVIDIA’s gross margin was approximately 74.9%. 
+
+High margins do not prove unlawful behaviour.
+
+They do identify who is currently capturing an exceptionally large share of the value.
+
+There is something wonderfully bold about the dominant supplier in the boom explaining that the ecosystem is becoming more competitive while retaining roughly three quarters of each revenue dollar after direct production costs.
+
+The market structure being celebrated is:
+
+Model developers compete.
+Cloud providers compete.
+Startups compete.
+Application vendors compete.
+Researchers compete.
+Countries compete.
+NVIDIA supplies the machinery to all of them.
+
+This is the casino presenting roulette as a vibrant example of player competition.
+
+The players are indeed competing.
+
+The house is selling every spin.
+
+⸻
+
+12. A Brief History of NVIDIA’s Own Corporate Candour
+
+NVIDIA would now like policymakers to trust its assessment of openness, security, market structure and national interest.
+
+In 2022, the US Securities and Exchange Commission found that NVIDIA had failed to disclose adequately that cryptocurrency mining was a significant contributor to growth in its gaming revenue. NVIDIA agreed to a cease-and-desist order and a $5.5 million penalty without admitting or denying the findings. 
+
+That episode does not determine whether open weights are useful.
+
+It establishes that NVIDIA’s public interpretation of markets is not holy scripture.
+
+The company has also faced competition scrutiny in several jurisdictions, including the continuing French investigation into alleged anticompetitive conduct. Again, the current French investigation has not produced a final adverse finding. 
+
+None of this makes NVIDIA uniquely evil.
+
+It makes NVIDIA a large corporation with commercial incentives, legal interests, disclosure failures, contested acquisitions and regulatory exposure.
+
+In other words, exactly the sort of institution whose policy sermons should be read as lobbying documents rather than moral philosophy.
+
+Jensen Huang’s wealth demonstrates that NVIDIA built an extraordinarily effective computing business.
+
+It does not prove:
+
+\text{Net worth} = \text{neutral judgment}
+
+Nor:
+
+\text{Market dominance} = \text{democratic legitimacy}
+
+Nor:
+
+\text{Excellent GPU designer} = \text{final authority on social organisation}
+
+Money is evidence that a commercial mechanism generated money.
+
+It is not peer review.
+
+⸻
+
+13. The Actual Policy Being Requested
+
+Once the ceremonial language is removed, the letter’s position is straightforward:
+
+Do not regulate model distribution in a way that reduces the number of models being built, modified and deployed on commercial computing infrastructure.
+
+That is a defensible lobbying position.
+
+It is also exactly aligned with NVIDIA’s financial interests.
+
+The company benefits when:
+
+* closed frontier labs buy enormous training clusters;
+* open-model developers train competing systems;
+* universities fine-tune downloadable models;
+* governments build sovereign AI infrastructure;
+* companies run private deployments;
+* startups benchmark dozens of alternatives;
+* inference moves onto workstations and edge devices;
+* and every country fears falling behind.
+
+NVIDIA does not need one model to win.
+
+NVIDIA needs everyone to keep racing.
+
+That is why the letter generously concludes that society requires both closed and open frontier models.
+
+Heads, NVIDIA sells GPUs.
+
+Tails, NVIDIA sells GPUs.
+
+The coin itself is available through an authorised systems partner.
+
+⸻
+
+14. The Genuine Architecture of “Open AI”
+
+The coalition’s preferred hierarchy is not difficult to see:
+
+Application layer:
+Competitive
+Model layer:
+Partly open
+Cloud layer:
+Concentrated
+Accelerator layer:
+Highly concentrated
+Software ecosystem:
+CUDA-centred
+Fabrication:
+Concentrated
+Energy and infrastructure:
+Socialised through grids, permits and public planning
+Revenue:
+Private
+
+This is not decentralisation.
+
+It is competitive activity above a concentrated substrate.
+
+NVIDIA is encouraging openness at precisely the layer that creates more demand for the layers NVIDIA controls.
+
+The company is not opening the road.
+
+It is encouraging everyone to build more destinations accessible only by road.
+
+⸻
+
+15. Final Determination
+
+NVIDIA’s open-weights letter is presented as a principled defence of innovation, safety, competition and sovereignty.
+
+Its practical programme is:
+
+1. Release more models.
+2. Encourage more organisations to adapt them.
+3. Encourage every country to build AI infrastructure.
+4. Prevent regulations that might reduce deployment.
+5. Call the resulting increase in compute demand “American leadership.”
+6. Sell the hardware, networking and software needed to operate it.
+
+The letter condemns provider lock-in while NVIDIA operates the industry’s most formidable proprietary software moat.
+
+It praises competition after regulators blocked its attempt to acquire a foundational architecture used by competing chipmakers.
+
+It invokes sovereignty while the proposed ecosystem remains dependent on highly concentrated hardware, fabrication, networking and software supply.
+
+It declares open weights beneficial for security without calculating whether defenders gain more than attackers.
+
+It advocates legitimate extraction and learning from model behaviour while tightly protecting NVIDIA’s own implementations against reverse engineering and translation.
+
+It calls for efficient specialised systems but carefully avoids asking whether many routine AI workloads should be removed from GPUs altogether.
+
+And it promotes universal diffusion without accounting for the physical energy system required to support universal deployment.
+
+The central contradiction can therefore be stated cleanly:
+
+NVIDIA wants AI models open enough to proliferate, but the computing substrate closed enough to monetise every proliferation.
+
+That is not a civilisational philosophy.
+
+It is vertical market expansion with a bald eagle pasted onto the cover.
+
+The future may indeed need open models.
+
+It may need closed models.
+
+It will certainly need competition, heterogeneous hardware, genuine portability and a serious accounting of energy and infrastructure.
+
+What it does not need is to confuse the commercial interests of the world’s dominant accelerator supplier with the revealed moral structure of technological freedom.
+
+NVIDIA is not handing intelligence to humanity.
+
+It is ensuring that however humanity obtains intelligence, NVIDIA remains somewhere inside the invoice.
+
+⸻
+
+Appendix A
+
+Selected Translations From NVIDIA Into Ordinary English
+
+“Open weights expand access to the AI economy.”
+
+More organisations can deploy models, increasing the addressable market for accelerators, servers, networking and enterprise software.
+
+“Organisations should not become locked into one provider.”
+
+They should remain free to choose among models before running them through CUDA.
+
+“Competition distributes the gains broadly.”
+
+Model developers compete aggressively while the common infrastructure supplier reports gross margins near 75%.
+
+“Open models enable sovereignty.”
+
+Countries may locally possess the model while depending on imported chips, foreign fabrication and a proprietary execution stack.
+
+“The right model should be matched to the right job.”
+
+Correct. Please stop immediately before asking whether the right hardware might be a CPU, ASIC, FPGA or deterministic sidecar rather than another GPU.
+
+“Open weights strengthen safety.”
+
+They strengthen both inspection and unrestricted modification. The net effect depends on numbers the letter does not provide.
+
+“Distillation is a legitimate model-development technique.”
+
+Learning from somebody else’s system is part of innovation. Reverse-engineering NVIDIA’s system remains prohibited by the licence.
+
+“America wins by diffusing AI into every industry.”
+
+NVIDIA wins when every industry buys accelerated computing.
+
+⸻
+
+Appendix B
+
+Condensed Economic Formula
+
+\begin{aligned}
+\text{Open weights}
+&\rightarrow \text{more available models} \\
+&\rightarrow \text{more adaptation and deployment} \\
+&\rightarrow \text{more compute consumption} \\
+&\rightarrow \text{greater infrastructure demand} \\
+&\rightarrow \text{NVIDIA revenue}
+\end{aligned}
+
+Or, translated into executive English:
+
+Let a thousand models bloom, provided every flower needs a GPU.
+
+⸻
+
+Final Institutional Finding
+
+Open weights. Closed silicon. Proprietary drivers. Concentrated infrastructure. Public electricity. Private margin.
+
+Everyone gets a model.
+
+NVIDIA gets the invoice.
