@@ -1,0 +1,457 @@
+Marginal Gains for All Humanity
+
+An Empirical Investigation into the Universal Benefit of Things Nobody Asked For
+
+Abstract
+
+A growing number of corporations, laboratories, founders, investors and assorted individuals with access to conference stages have announced that their activities are being undertaken “for humanity.”
+
+This paper investigates humanity’s involvement in this arrangement.
+
+Initial results are concerning.
+
+Despite humanity comprising approximately the entire population of humanity, we find remarkably little evidence that humanity has been consulted regarding what it wants, where it would like to go, what risks it considers acceptable, or whether it wishes to participate in the proposed future at all.
+
+Instead, the dominant methodology appears to consist of a comparatively small number of people deciding what would be good for everyone else, announcing that decision publicly, raising substantial amounts of capital around it, and subsequently interpreting disagreement as either ignorance, fear of progress, insufficient understanding of the technology, or a temporary communications problem.
+
+We call this phenomenon Universal Beneficence by Assertion (UBA).
+
+Under UBA, the statement
+
+“This will benefit humanity.”
+
+is treated not as a hypothesis requiring validation, but as an administrative permission slip issued by the person making the statement.
+
+This paper proposes several new quantitative measures for assessing such claims, including the Humanity Consultation Ratio, the Beneficence-to-Consent Coefficient, and the Marginal Humanity Gain, defined as the additional quantity of humanity allegedly saved per unit reduction in humanity’s ability to object.
+
+Our findings suggest that humanity may indeed possess a future.
+
+Whether it is the future currently being constructed on its behalf remains an open question.
+
+⸻
+
+1. Introduction
+
+Humanity is extremely popular.
+
+It is difficult to attend a technology conference, investment presentation, artificial-intelligence announcement, biotechnology summit or discussion of the distant future without discovering that somebody is working extremely hard on humanity’s behalf.
+
+Humanity will flourish.
+
+Humanity will prosper.
+
+Humanity will become more productive.
+
+Humanity will be transformed.
+
+Humanity will achieve abundance.
+
+Humanity, reassuringly, appears to have an enormous number of unpaid strategic consultants.
+
+What remains less clear is when humanity appointed them.
+
+The problem is not necessarily dishonesty.
+
+Indeed, the more interesting possibility is that many of the people making these claims sincerely believe them.
+
+A person can genuinely believe that the thing they are building will improve the world.
+
+They can work eighteen hours a day on it.
+
+They can sacrifice relationships, money and sleep for it.
+
+They can produce lengthy philosophical arguments explaining why it is necessary.
+
+They can surround themselves with other intelligent people who agree.
+
+They can establish institutes devoted to ensuring that it happens responsibly.
+
+And they can still be wrong.
+
+This presents an awkward problem for the increasingly popular phrase “for humanity.”
+
+The phrase quietly converts an individual preference into a species-level mandate.
+
+“I want to build this” becomes:
+
+“We need this.”
+
+“We need this” becomes:
+
+“Humanity needs this.”
+
+And once humanity itself has apparently entered the meeting and voted in favour, opposition acquires a strange character.
+
+The critic is no longer merely disagreeing with a commercial strategy or technological programme.
+
+The critic is standing in the way of humanity.
+
+This is an extraordinarily useful rhetorical technology.
+
+It may even be more powerful than the technology being advertised.
+
+⸻
+
+2. The Humanity Consultation Problem
+
+Consider a hypothetical organisation developing Technology X.
+
+Its leadership believes Technology X will profoundly improve civilisation.
+
+Let:
+
+[
+H = \text{number of humans affected}
+]
+
+[
+C = \text{number of humans meaningfully consulted}
+]
+
+We define the Humanity Consultation Ratio:
+
+[
+HCR = \frac{C}{H}
+]
+
+For genuinely species-wide claims, we would ideally expect (HCR) to be non-negligible.
+
+In practice, an approximate decision-making structure may instead consist of:
+
+* several founders;
+* several investors;
+* several researchers;
+* a policy team;
+* three philosophers;
+* an economist;
+* somebody who once worked in government;
+* and a public-relations department responsible for explaining the resulting decision to the remaining eight billion people.
+
+This produces an (HCR) extremely close to zero.
+
+Remarkably, however, confidence in the statement “this is good for humanity” frequently approaches one.
+
+We therefore observe an apparent inverse relationship:
+
+[
+\text{Confidence in knowing humanity’s interests}
+\propto
+\frac{1}{\text{amount of humanity consulted}}
+]
+
+This phenomenon deserves further study.
+
+⸻
+
+3. The Beneficence-to-Consent Coefficient
+
+We next introduce the Beneficence-to-Consent Coefficient (BCC).
+
+Let:
+
+[
+B = \text{magnitude of claimed benefit}
+]
+
+and
+
+[
+K = \text{degree of meaningful public consent}
+]
+
+Then:
+
+[
+BCC = \frac{B}{K}
+]
+
+A curious feature of modern technological rhetoric is that (B) can become arbitrarily large.
+
+A product may initially save time.
+
+Its successor may transform work.
+
+The next iteration may transform society.
+
+Shortly afterwards, the programme may unlock human potential, eliminate scarcity, solve education and usher civilisation into an age of abundance.
+
+Meanwhile (K) can remain essentially unchanged.
+
+Thus the strongest claims about humanity can coexist with almost no involvement from humanity itself.
+
+In ordinary engineering this would be considered a stakeholder-management failure.
+
+At sufficient scale, however, it apparently becomes visionary leadership.
+
+⸻
+
+4. The Marginal Gain for Humanity
+
+The concept of marginal gains proposes that many small improvements can combine into a substantial overall advantage.
+
+We propose a related concept: Marginal Gains for All Humanity.
+
+The procedure is straightforward.
+
+First, identify something you personally consider beneficial.
+
+Next, increase it slightly.
+
+Then increase it again.
+
+Continue until the benefit becomes sufficiently large that consulting other people appears unnecessary.
+
+For example:
+
+This software helps people write emails.
+
+becomes
+
+This software improves productivity.
+
+which becomes
+
+This software increases economic output.
+
+which becomes
+
+This software raises global living standards.
+
+which becomes
+
+This software benefits humanity.
+
+At no point is humanity required to interrupt the derivation.
+
+This is mathematically convenient.
+
+⸻
+
+5. Humanity May Possess Preferences
+
+A major limitation of the existing literature is the assumption that humanity shares a single objective function.
+
+This is unlikely.
+
+Human beings disagree about almost everything.
+
+They disagree about politics, economics, religion, education, privacy, work, technology, risk, leisure, family, property, equality, freedom and whether pineapple belongs on pizza.
+
+It would therefore be surprising if, upon reaching sufficiently advanced technology, eight billion people suddenly converged upon one Silicon Valley product roadmap.
+
+Some people want radical technological acceleration.
+
+Some want strict regulation.
+
+Some want stronger communities.
+
+Some want fewer computers.
+
+Some want more computers.
+
+Some want a four-day week.
+
+Some want to colonise Mars.
+
+Some want to grow tomatoes.
+
+There may even exist a statistically non-zero population who would prefer that civilisation abandon the entire experiment and return to hitting one another with axes and jousting.
+
+Whether this policy would outperform current arrangements is outside the scope of this paper.
+
+The important point is that nobody checked.
+
+⸻
+
+6. The Benevolent Dictator Error
+
+The central philosophical error behind Universal Beneficence by Assertion is remarkably old.
+
+It can be expressed as:
+
+I know what is good for you; therefore I am justified in doing it to you.
+
+The modern version substitutes sufficiently impressive vocabulary:
+
+Our models indicate that this trajectory maximises humanity’s long-term flourishing.
+
+The logical structure remains largely unchanged.
+
+Expertise can tell us what consequences a decision may produce.
+
+It cannot independently determine which consequences everybody ought to prefer.
+
+Engineering can optimise a system after somebody specifies the objective.
+
+Engineering cannot prove that the objective was democratically authorised merely because the optimisation was technically impressive.
+
+This distinction becomes increasingly important as technological systems acquire greater economic and social influence.
+
+The ability to construct a future is not equivalent to acquiring ownership of the future.
+
+⸻
+
+7. The Humanity Spokesperson Paradox
+
+We define the Humanity Spokesperson Paradox:
+
+The probability that somebody publicly claims to speak for humanity increases approximately in proportion to the probability that humanity has never heard of them.
+
+This creates unusual situations.
+
+A founder may announce:
+
+“Humanity must prepare for the transition.”
+
+Several billion members of humanity may respond:
+
+“The transition to what?”
+
+The resulting disagreement is frequently classified as a communications challenge.
+
+The possibility that humanity understood the proposal perfectly well and simply possesses different priorities receives comparatively little attention.
+
+⸻
+
+8. Externalities, Lawsuits and the Universal Mission
+
+Claims of universal benefit become particularly interesting when the institutions making them simultaneously generate substantial negative externalities.
+
+An organisation can declare a mission benefiting humanity while:
+
+* fighting workers;
+* upsetting customers;
+* generating environmental costs;
+* being sued;
+* lobbying governments;
+* resisting regulation;
+* collecting enormous quantities of data;
+* concentrating economic power;
+* ignoring public criticism;
+* and continuing to explain that all of this is necessary because the long-term benefits will be extraordinary.
+
+This does not logically prove that the organisation’s technology is harmful.
+
+It does, however, create a fascinating philosophical arrangement in which the people currently experiencing the supposed benefits are sometimes required to wait for a later version of humanity to appreciate them properly.
+
+We call this Deferred Universal Gratitude.
+
+⸻
+
+9. The Radicalisation of Certainty
+
+The most dangerous element may not be greed.
+
+Greed is comparatively easy to understand.
+
+The more peculiar risk is certainty.
+
+A person who knows they are pursuing personal profit can at least recognise competing interests.
+
+A person convinced they are acting on behalf of humanity can rationalise almost anything.
+
+Criticism becomes obstruction.
+
+Regulation becomes backwardness.
+
+Delay becomes dangerous.
+
+Competitors become irresponsible.
+
+Public hesitation becomes ignorance.
+
+The mission grows morally larger precisely as its decision-making constituency grows smaller.
+
+At the extreme, a tiny group of people may become completely convinced that humanity’s future depends upon humanity not interfering with them.
+
+Historically, this has not always been an encouraging sentence structure.
+
+⸻
+
+10. Proposed Governance Improvement: Ask Humanity Occasionally
+
+We propose a radical governance mechanism.
+
+Ask people.
+
+Not merely investors.
+
+Not merely experts.
+
+Not merely employees.
+
+Not merely people already convinced by the premise.
+
+People.
+
+This will undoubtedly introduce inefficiency.
+
+People will disagree.
+
+Some will misunderstand things.
+
+Some will demand impossible compromises.
+
+Some will have terrible ideas.
+
+Some may even vote for things experts consider objectively stupid.
+
+Unfortunately, this is one of the irritating properties of sharing civilisation with other humans.
+
+They possess agency.
+
+A future genuinely belonging to humanity must therefore contain at least some humanity in the decision-making process.
+
+⸻
+
+11. Conclusion
+
+This paper does not establish that technological progress is undesirable.
+
+It establishes something considerably more troublesome:
+
+Nobody knows what “humanity wants,” because humanity is not a person.
+
+Humanity has no CEO.
+
+It has no mission statement.
+
+It has no unified utility function.
+
+It has issued no strategic roadmap.
+
+It has not appointed a representative to the board.
+
+Consequently, the statement:
+
+“I am building this because I believe it will benefit humanity.”
+
+is perfectly coherent.
+
+The statement:
+
+“I am building this for humanity.”
+
+contains a political claim hiding inside a technological one.
+
+The distinction matters.
+
+You are free to build your machine.
+
+You are free to believe in it.
+
+You are free to argue that it will improve the world.
+
+You may even be right.
+
+But if you intend to claim eight billion beneficiaries as co-signatories to your mission, there remains one inconvenient administrative detail:
+
+Humanity was not consulted.
+
+Until it is, “for all humanity” should perhaps be replaced with the scientifically more defensible:
+
+“For what a relatively small number of us currently believe would probably be good for everybody else.”
+
+It lacks grandeur.
+
+It does, however, have substantially better methodology.
