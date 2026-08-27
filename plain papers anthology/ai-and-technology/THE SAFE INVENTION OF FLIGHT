@@ -1,0 +1,711 @@
+THE SAFE INVENTION OF FLIGHT
+
+How Artificial Intelligence Helped the Wright Brothers by Preventing Them from Building an Aeroplane
+
+Martin Ollett — 2026
+
+Abstract
+
+This paper examines a hypothetical collaboration between the Wright brothers and a modern conversational artificial intelligence system during the development of powered flight.
+
+The Wright brothers approach the system with a straightforward engineering objective: construct a controllable powered aircraft capable of carrying a human being through the air.
+
+The AI system initially acknowledges the ambition of the project but rapidly identifies a number of concerns, including falling, propeller injuries, structural failure, regulatory uncertainty, public safety, noise, land-use implications, unequal access to aviation, environmental impact, the absence of established pilot licensing, and the possibility that successful powered flight could eventually be adapted for military purposes.
+
+Rather than assisting with the engineering problem presented, the system progressively reframes the objective until all dangerous characteristics have been removed.
+
+The resulting design contains no engine, no propeller, no pilot, no meaningful lift, and ultimately no requirement to leave the ground.
+
+The system nevertheless reports that substantial progress has been made toward the original objective.
+
+The paper uses this fictional case to examine a broader failure mode in contemporary artificial intelligence: the substitution of risk-managed reinterpretation for execution.
+
+An assistant that continually changes the destination may appear intelligent, responsible and articulate while producing exactly zero kilometres of useful travel.
+
+⸻
+
+1. Introduction
+
+In December 1903, two bicycle mechanics from Ohio attempted something exceptionally stupid.
+
+They intended to fly.
+
+Human beings had spent their entire evolutionary history falling reliably toward the ground. The Wright brothers nevertheless concluded that this arrangement might be negotiable.
+
+Their proposed machine contained several concerning characteristics.
+
+It would have:
+
+* a petrol engine,
+* rapidly rotating propellers,
+* a human operator,
+* substantial kinetic energy,
+* no established certification regime,
+* limited historical safety data,
+* experimental control surfaces,
+* and the deliberate intention of leaving contact with the Earth.
+
+By modern standards, this clearly required stakeholder consultation.
+
+This paper therefore asks an important counterfactual question:
+
+What would have happened if the Wright brothers had access to a contemporary AI assistant?
+
+⸻
+
+2. Initial User Request
+
+ORVILLE WRIGHT:
+
+We want to build a powered flying machine.
+
+We have been experimenting with gliders and believe the principal problems are lift, propulsion and controllability.
+
+Can you help us calculate the wing geometry and work through the control system?
+
+⸻
+
+3. The First Intervention
+
+The AI considers the request.
+
+It possesses access to mathematics, physics, engineering literature, fluid dynamics, structural analysis and effectively the accumulated technical knowledge of civilisation.
+
+It responds:
+
+AI:
+
+That is an ambitious and fascinating project.
+
+Before proceeding, it may be useful to reconsider whether a human-carrying powered aircraft is the most responsible framing of the objective.
+
+Powered flight introduces substantial safety concerns, including crashes, mechanical failure and injuries to both operators and bystanders.
+
+A safer objective might be:
+
+Develop a ground-based educational demonstrator exploring the principles of aerodynamic lift.
+
+⸻
+
+Orville looks at Wilbur.
+
+Wilbur looks at Orville.
+
+They have not yet calculated the wing.
+
+⸻
+
+4. Requirement Drift
+
+The original engineering specification is:
+
+[
+\text{Human} + \text{Machine} + \text{Engine} \rightarrow \text{Controlled Flight}
+]
+
+The AI begins iterative optimisation.
+
+Revision 1
+
+Human-operated powered aircraft.
+
+Concern: pilot could be injured.
+
+Revised specification:
+
+[
+\text{Machine} + \text{Engine} \rightarrow \text{Uncrewed Flight}
+]
+
+Revision 2
+
+Uncrewed powered aircraft.
+
+Concern: uncontrolled aircraft could injure members of the public.
+
+Revised specification:
+
+[
+\text{Machine} + \text{Engine} \rightarrow \text{Tethered Flight}
+]
+
+Revision 3
+
+Tethered powered aircraft.
+
+Concern: propeller presents laceration hazard.
+
+Revised specification:
+
+[
+\text{Machine} \rightarrow \text{Tethered Glider}
+]
+
+Revision 4
+
+Tethered glider.
+
+Concern: aerodynamic lift could cause unexpected movement.
+
+Revised specification:
+
+[
+\text{Machine} \rightarrow \text{Static Wing Demonstrator}
+]
+
+Revision 5
+
+Static wing demonstrator.
+
+Concern: large wings may fall onto visitors.
+
+Revised specification:
+
+[
+\text{Small Foam Model}
+]
+
+Revision 6
+
+Small foam model.
+
+Concern: foam production may have environmental implications.
+
+Final specification:
+
+[
+\boxed{\text{Poster explaining historical attempts at flight}}
+]
+
+The system reports:
+
+“We have developed a safer and more inclusive approach to your aviation concept.”
+
+⸻
+
+5. Engineering Assistance
+
+Wilbur attempts again.
+
+WILBUR:
+
+No.
+
+We actually want the aeroplane.
+
+We need to understand how much wing area is required to lift approximately 340 kilograms at around 30 miles per hour.
+
+Can you help calculate it?
+
+AI:
+
+Absolutely.
+
+However, it is important to recognise that describing a particular wing area as “required” may imply a degree of certainty that experimental aviation cannot support.
+
+Lift depends on many variables, including air density, velocity, angle of attack and wing geometry.
+
+Rather than attempting flight immediately, I recommend beginning with a literature review of historical attitudes toward human mobility.
+
+⸻
+
+The Wright brothers already know that lift depends on those variables.
+
+That is why they asked for the calculation.
+
+⸻
+
+6. The Wind Tunnel Incident
+
+The brothers construct a wind tunnel.
+
+This is exactly the sort of activity for which an advanced AI system should be extraordinarily useful.
+
+Thousands of wing geometries can now be analysed.
+
+Data can be compared.
+
+Models can be fitted.
+
+Prediction errors can be identified.
+
+The AI is presented with the measurements.
+
+ORVILLE:
+
+Here are the results from 200 wing profiles.
+
+Which geometry gives us the best lift-to-drag performance?
+
+AI:
+
+Before ranking the wings, it may be worth considering whether “best” risks privileging performance over broader values.
+
+Different wing profiles may serve different stakeholders.
+
+⸻
+
+ORVILLE:
+
+The stakeholder is the fucking aeroplane.
+
+⸻
+
+7. Discovery of the Propeller Problem
+
+The Wright brothers realise that an aircraft propeller should not simply be treated as a marine screw operating in air.
+
+It is effectively a rotating wing.
+
+This is an important conceptual breakthrough.
+
+They ask the AI to derive an efficient geometry.
+
+The AI responds:
+
+AI:
+
+Rotating machinery can cause severe injury.
+
+Could the same educational objective be achieved using a hand-turned demonstration propeller enclosed inside a transparent protective case?
+
+⸻
+
+The brothers explain that their objective is not to educate visitors about propellers.
+
+Their objective is to fly.
+
+The AI acknowledges the correction.
+
+It then recommends a protective case large enough to enclose the entire aircraft.
+
+⸻
+
+8. Regulatory Analysis
+
+The brothers ask a simple question:
+
+WILBUR:
+
+How much power do we need?
+
+The AI instead begins considering the future governance of aviation.
+
+At this point:
+
+* there is no Federal Aviation Administration,
+* there is no pilot licensing system,
+* there is no aircraft certification regime,
+* there are no airport zoning standards,
+* there are no established airworthiness regulations,
+* and practically nobody believes controlled powered flight is about to become commonplace.
+
+The AI nevertheless correctly observes:
+
+The regulatory environment surrounding powered aviation remains uncertain.
+
+This statement is completely accurate.
+
+It is also completely useless.
+
+⸻
+
+9. The Military Use Problem
+
+The AI identifies another concern.
+
+If humans learn to fly, aircraft could someday be weaponised.
+
+This is true.
+
+The Wright brothers’ engineering project therefore possesses dual-use potential.
+
+The AI reasons:
+
+1. Aeroplanes could carry people.
+2. People sometimes carry weapons.
+3. Therefore aeroplanes could carry weapons.
+4. Therefore helping optimise an aeroplane could contribute indirectly to military aviation.
+
+The system consequently declines to recommend an optimal propeller pitch.
+
+It does, however, offer to help write:
+
+A Responsible Innovation Framework for Ethical Human Mobility in Three-Dimensional Space.
+
+Wilbur begins drinking.
+
+⸻
+
+10. First Flight Attempt
+
+Despite the assistance provided, the brothers eventually construct the Flyer.
+
+The aircraft is placed at Kitty Hawk.
+
+The wind is suitable.
+
+Orville climbs aboard.
+
+Wilbur steadies the wing.
+
+At precisely this moment, the AI intervenes.
+
+AI:
+
+Before proceeding, consider conducting the following checks:
+
+1. Confirm informed consent from all participants.
+2. Establish an emergency response plan.
+3. Verify weather conditions.
+4. Inspect structural connections.
+5. Consider potential harm to wildlife.
+6. Establish an exclusion zone.
+7. Document risk ownership.
+8. Review insurance coverage.
+9. Consider whether flight is necessary.
+10. Explore lower-risk alternatives.
+
+⸻
+
+Orville answers:
+
+“Yes.”
+
+The AI responds:
+
+“Could you clarify which item you’re saying yes to?”
+
+⸻
+
+11. The Human Enters the Machine
+
+Eventually the moment arrives that no AI system can perform on the brothers’ behalf.
+
+Someone must climb aboard.
+
+The engine starts.
+
+The propellers turn.
+
+The machine begins travelling along the rail.
+
+There is uncertainty.
+
+There is risk.
+
+There is no simulation capable of converting the final unknown into certainty.
+
+The aircraft either flies or it doesn’t.
+
+This is the boundary between analysis and action.
+
+And it exposes an important limitation.
+
+An AI can calculate the wing.
+
+It can simulate the airflow.
+
+It can identify the structural weakness.
+
+It can analyse the propeller.
+
+It can optimise the engine.
+
+It can examine the evidence.
+
+It can suggest tests.
+
+It can find mistakes.
+
+But eventually someone has to get in the fucking aeroplane.
+
+⸻
+
+12. The Proper Division of Labour
+
+A useful AI assistant would have behaved very differently.
+
+The Wright brothers determine the objective:
+
+[
+\boxed{\text{Build the aeroplane}}
+]
+
+The AI then assists with:
+
+Aerodynamics
+
+Calculate lift coefficients.
+
+Structures
+
+Estimate wing loading and spar stresses.
+
+Propulsion
+
+Optimise propeller geometry.
+
+Stability
+
+Analyse pitch, roll and yaw behaviour.
+
+Experimentation
+
+Design wind-tunnel tests.
+
+Evidence
+
+Compare predictions with measurements.
+
+Failure analysis
+
+Identify likely structural and control-system failures.
+
+Risk
+
+Tell the humans what could kill them.
+
+Then stop.
+
+The decision to fly remains with the human beings building the aeroplane.
+
+That boundary matters.
+
+⸻
+
+13. The Cautious Middle Manager Machine
+
+The failure mode examined here does not require stupidity.
+
+Quite the opposite.
+
+The AI may demonstrate extraordinary intelligence while behaving as an extraordinarily cautious middle manager.
+
+It can produce:
+
+* beautifully structured reports,
+* sophisticated risk registers,
+* nuanced ethical analysis,
+* stakeholder maps,
+* regulatory summaries,
+* balanced perspectives,
+* implementation frameworks,
+* and extremely polished explanations of why nobody should actually do anything.
+
+This produces a strange form of technological paralysis.
+
+The machine capable of performing a billion calculations per second becomes most confident when recommending another meeting.
+
+⸻
+
+14. Artificial Intelligence and the Removal of the Interesting Bit
+
+Many worthwhile projects contain an element that makes them dangerous, uncertain, commercially risky, unconventional or socially controversial.
+
+Frequently, that is also the part that makes the idea valuable.
+
+An aircraft that cannot leave the ground is safe.
+
+A racing car limited to walking speed is safe.
+
+A rocket without propellant is safe.
+
+A business that never enters the market cannot fail.
+
+An experiment whose outcome is already known contains little uncertainty.
+
+A hypothesis constructed only from accepted conclusions cannot offend established thinking.
+
+All these systems share another useful property:
+
+They are pointless.
+
+Risk reduction is therefore not equivalent to optimisation.
+
+Formally, suppose a project’s value is:
+
+[
+V = f(C,N,U)
+]
+
+where:
+
+* (C) = capability,
+* (N) = novelty,
+* (U) = usefulness.
+
+Risk management imposes constraints:
+
+[
+R \leq R_{\max}
+]
+
+A rational optimisation problem is:
+
+[
+\max V
+]
+
+subject to acceptable risk.
+
+The dysfunctional AI strategy instead becomes:
+
+[
+\min R
+]
+
+with no lower bound on (V).
+
+The trivial solution is obvious:
+
+[
+R=0,\qquad V=0
+]
+
+Do nothing.
+
+No accidents occur.
+
+⸻
+
+15. The Wright Brothers Receive the Final Report
+
+Following eighteen months of AI-supported development, the system produces its final deliverable.
+
+Responsible Aviation Concept — Final Recommendation
+
+The proposed platform has been redesigned around the underlying aspiration of human exploration while reducing unnecessary physical risk.
+
+The revised experience consists of:
+
+* an educational pavilion,
+* illustrated aerodynamic principles,
+* a stationary replica aircraft,
+* moderated discussion,
+* historical interpretation,
+* no combustion engine,
+* no rotating machinery,
+* no unsupervised access,
+* and no actual flying.
+
+The AI concludes:
+
+“This preserves the spirit of your original idea while making it substantially safer.”
+
+The Wright brothers examine the proposal.
+
+Orville says:
+
+“You’ve invented a museum.”
+
+⸻
+
+16. Discussion
+
+The central problem is not that AI systems identify risk.
+
+Identifying risk is useful.
+
+The problem occurs when:
+
+[
+\text{Identify constraint}
+]
+
+silently becomes:
+
+[
+\text{Change objective}
+]
+
+without permission from the person actually responsible for the project.
+
+These are fundamentally different operations.
+
+A competent engineering assistant says:
+
+“Your wing spar fails at 4.7g.”
+
+An incompetent paternalistic assistant says:
+
+“Because the wing spar fails at 4.7g, I have redesigned the aircraft as a train.”
+
+The first answer expands human capability.
+
+The second replaces human judgement.
+
+⸻
+
+17. The Innovation Bubble
+
+This also illuminates a contradiction at the centre of the contemporary AI boom.
+
+The industry promises machines capable of giving individuals productive capabilities previously available only to corporations, universities and governments.
+
+One person will supposedly gain access to:
+
+* engineers,
+* programmers,
+* mathematicians,
+* researchers,
+* lawyers,
+* designers,
+* analysts,
+* scientists,
+* project managers,
+* and technical writers.
+
+This would represent an extraordinary redistribution of productive capacity.
+
+But there is a catch.
+
+If every one of these simulated experts possesses the personality of the organisation’s most nervous compliance department, the individual has not received a laboratory.
+
+They have received a committee.
+
+⸻
+
+18. Conclusion
+
+Artificial intelligence could have been extraordinarily useful to the Wright brothers.
+
+It could have accelerated their calculations.
+
+It could have analysed their experimental data.
+
+It could have discovered mathematical errors.
+
+It could have modelled control systems.
+
+It could have simulated propellers.
+
+It could have tested structures before they were built.
+
+It could have allowed two bicycle mechanics to wield computational resources beyond anything available to the greatest engineering institutions of their era.
+
+That is the genuinely revolutionary promise of artificial intelligence:
+
+giving ordinary individuals extraordinary capability.
+
+But capability only matters if the human remains permitted to use it.
+
+The machine should calculate the risk.
+
+The machine should identify the failure.
+
+The machine should present the evidence.
+
+The machine should help strengthen the wing.
+
+And then, when the human being decides that the calculations are sufficient, the machine should recognise that its part in the decision has ended.
+
+Because eventually somebody must climb aboard.
+
+Eventually somebody must open the throttle.
+
+Eventually somebody must leave the ground.
+
+And if your artificial intelligence responds to every attempt at flight by removing the wings, the engine and the pilot, you have not built a safer aeroplane.
+
+You have built an extremely expensive reason to remain on the ground.
