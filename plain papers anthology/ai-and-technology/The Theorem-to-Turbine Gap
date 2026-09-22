@@ -1,0 +1,725 @@
+The Theorem-to-Turbine Gap
+
+A Systems Engineering Critique of Mathematical Abundance, or Why the Physical Universe Does Not Accept LaTeX as Legal Tender
+
+Abstract
+
+On 21 September 2026, OpenAI stated that an internal model had resolved more than 100 long-standing open mathematical problems across most areas of mathematics, in addition to its previously announced resolution of the Navier–Stokes Millennium Prize problem. OpenAI described mathematics as a fundamental science whose novel discoveries “may result in a wide range of applications.” 
+
+The word may is doing considerable engineering work.
+
+This paper examines a category error increasingly visible in discussion of artificial intelligence and scientific progress: the implicit compression of mathematical discovery, scientific understanding, engineering development, industrial production and economic deployment into a single phenomenon called “progress.” They are not the same phenomenon.
+
+Mathematical capability can expand the space of known or theoretically possible solutions. It cannot, by itself, supply capital, factories, skilled labour, raw materials, energy, certification, manufacturing yield, logistics, maintenance infrastructure or customers. Nuclear fusion provides a useful example. The basic fusion reaction is understood, yet organisations attempting to turn it into commercial electricity still confront materials degradation, heat extraction, tritium production, maintenance, fuel supply, manufacturing and economic problems. ITER and the US Department of Energy explicitly identify these as major remaining barriers. 
+
+The central argument is therefore simple: an increase in mathematical output is not equivalent to an increase in deployable human capability. Indeed, sufficiently rapid AI-generated discovery may produce the opposite bottleneck from the one commonly imagined. If ideas become abundant while capital, manufacturing capacity and physical resources remain scarce, civilisation acquires not an infinite technology pipeline but an increasingly severe selection problem.
+
+Or, stated formally:
+
+\boxed{\text{Proof} \neq \text{Product}}
+
+⸻
+
+1. Introduction: Congratulations on Solving Mathematics
+
+There is something undeniably funny about watching adults discuss mathematics as though somebody has discovered the administrator password for reality.
+
+An artificial intelligence system solves a difficult theorem and the discussion rapidly moves through a familiar sequence:
+
+\text{better mathematics}
+\rightarrow
+\text{better science}
+\rightarrow
+\text{better technology}
+\rightarrow
+\text{economic abundance}
+\rightarrow
+\text{civilisational transformation}.
+
+Each arrow is treated almost as punctuation.
+
+Unfortunately, each arrow contains an entire industry.
+
+OpenAI’s September 2026 announcement is genuinely remarkable on its stated terms. The company says a newly trained internal model has resolved more than 100 long-standing mathematical problems spanning much of mathematics. The pace was sufficiently unusual that OpenAI established an independent advisory group of mathematicians to help assess significance, dissemination and professional standards surrounding future results. 
+
+That is an important development in automated mathematical reasoning.
+
+It is not 100 factories.
+
+It is not 100 power stations.
+
+It is not 100 pharmaceutical manufacturing lines.
+
+It is not 100 functioning transport networks.
+
+It is not even necessarily 100 useful technologies.
+
+Those things may eventually follow from some mathematical discoveries. But between a theorem and a turbine lies a region apparently missing from certain conceptions of technological progress.
+
+Engineers know this region well.
+
+It is where the money goes.
+
+⸻
+
+2. The Infinite Money Tree Lemma
+
+Consider a simplified model of technological deployment.
+
+Let
+
+M = \text{mathematical knowledge},
+
+S = \text{scientific understanding},
+
+E = \text{engineering capability},
+
+C = \text{available capital},
+
+R = \text{physical resources},
+
+F = \text{manufacturing capability},
+
+L = \text{logistical capacity},
+
+W = \text{skilled workforce},
+
+G = \text{regulatory and institutional capacity},
+
+and
+
+D = \text{economically deployable output}.
+
+The popular mythology effectively assumes
+
+D=f(M),
+
+with sufficiently advanced mathematics eventually producing sufficiently advanced civilisation.
+
+A physical economy behaves more like
+
+D=f(M,S,E,C,R,F,L,W,G,\ldots).
+
+Worse, many real engineering systems behave approximately as bottleneck systems.
+
+One might therefore represent deployment schematically as
+
+D \lesssim
+\min
+\left(
+\alpha_M M,
+\alpha_S S,
+\alpha_E E,
+\alpha_C C,
+\alpha_R R,
+\alpha_F F,
+\alpha_L L,
+\alpha_W W,
+\alpha_G G
+\right).
+
+The equation is deliberately schematic rather than an empirical production function. Its purpose is to illustrate a basic systems property:
+
+making a non-limiting input effectively infinite does not necessarily increase system output at all.
+
+If you possess the complete mathematical design for a bridge but have no steel, you do not possess a bridge.
+
+If you possess perfect aerodynamic equations but no manufacturing process capable of holding the required tolerances, you do not possess an aircraft.
+
+If your artificial intelligence invents a revolutionary battery requiring a material available globally at six kilograms per year, congratulations on your new PDF.
+
+This yields the Infinite Money Tree Lemma.
+
+Lemma
+
+For a physical technology,
+
+M\rightarrow\infty
+
+does not imply
+
+D\rightarrow\infty.
+
+Proof
+
+Attempt to pay a steel supplier with a theorem.
+
+\square
+
+⸻
+
+3. Unfortunately, Matter Has Terms and Conditions
+
+Mathematics enjoys several properties that physical engineering very much does not.
+
+A mathematical object does not become more expensive because 400 researchers wish to inspect it simultaneously.
+
+A proof does not require a replacement bearing.
+
+A theorem does not suffer thermal expansion.
+
+A lemma does not arrive six months late because a specialist casting supplier in Germany has entered administration.
+
+Nobody has ever rejected a differential equation because the weld penetration was inadequate.
+
+Reality imposes additional conditions.
+
+A technology must generally be:
+
+* physically possible;
+* controllable;
+* manufacturable;
+* reliable;
+* maintainable;
+* repairable;
+* safe enough;
+* insurable;
+* certifiable;
+* supplied;
+* affordable;
+* scalable;
+* and worth somebody paying for.
+
+The difference between something working in principle and working as infrastructure is enormous.
+
+Engineering history is full of systems whose underlying principles were understood decades before widespread deployment became practical.
+
+This is not evidence that science failed.
+
+It is evidence that the rest of the process exists.
+
+⸻
+
+4. Fusion: The Universe Refuses to Read the Paper
+
+Nuclear fusion is almost comically well suited to illustrating the theorem-to-turbine gap.
+
+Humanity does not need a mathematician to discover that deuterium and tritium can fuse.
+
+We know.
+
+The reaction can be written down rather compactly.
+
+The difficulty begins approximately five seconds after somebody says:
+
+“Excellent. Now turn it into a power station.”
+
+At that point the problem changes character.
+
+A useful fusion plant has to achieve and integrate, among other things:
+
+plasma confinement, sustained operation, heat handling, neutron-resistant materials, fuel-cycle management, tritium breeding and recovery, heat extraction, electricity generation, remote maintenance, component replacement, acceptable plant availability, safety compliance, construction feasibility and competitive economics.
+
+ITER itself identifies resistant materials, divertor heat exhaust, remote handling, large-scale tritium production and recycling, and efficient conversion of heat into electricity among the significant remaining challenges between fusion experimentation and practical power generation. 
+
+The materials problem alone is unpleasant. High-energy fusion neutrons damage structural materials through atomic displacement and transmutation, degrading material properties over time. 
+
+Then there is fuel.
+
+Tritium does not conveniently occur on Earth in the quantities required for a large commercial fusion sector. Future deuterium–tritium plants are therefore expected to require fuel-cycle infrastructure capable of producing and managing it. The US Department of Energy explicitly describes robust isotope supply chains and tritium breeding as requirements that must be addressed before widespread commercial fusion deployment. 
+
+None of these statements imply that fusion cannot work.
+
+They demonstrate something more mundane and more important:
+
+knowing the physics is not identical to possessing the industrial system.
+
+The hypothetical conversation therefore proceeds:
+
+Mathematician: We have improved the governing model.
+
+Physicist: Excellent. Plasma performance improves considerably.
+
+Engineer: Brilliant. What are we making the first wall from?
+
+Mathematician: The governing model.
+
+Engineer: Right.
+
+Eventually the procurement department enters the room and destroys everybody’s remaining optimism with a spreadsheet.
+
+⸻
+
+5. Theorem ≠ Prototype ≠ Product ≠ Infrastructure
+
+Technological discussion often collapses several fundamentally different stages.
+
+A more useful chain is:
+
+\text{Mathematical result}
+
+\downarrow
+
+\text{Scientific interpretation}
+
+\downarrow
+
+\text{Engineering concept}
+
+\downarrow
+
+\text{Prototype}
+
+\downarrow
+
+\text{Validated prototype}
+
+\downarrow
+
+\text{Manufacturable system}
+
+\downarrow
+
+\text{Economically viable product}
+
+\downarrow
+
+\text{Scaled industrial deployment}.
+
+Every arrow can kill the project.
+
+The mathematical result can be perfectly correct while the resulting device is economically useless.
+
+The engineering concept can work while proving impossible to mass manufacture.
+
+The prototype can perform brilliantly while requiring £800,000 of hand assembly.
+
+The commercial product can function while customers refuse to buy it.
+
+The customers can want it while the electricity grid cannot connect it.
+
+The infrastructure can be buildable while financing costs make the project uneconomic.
+
+Nothing in mathematics repeals these constraints.
+
+⸻
+
+6. The Bruce Lee Problem
+
+A maxim commonly attributed to Bruce Lee says, in effect, that the dangerous fighter is not the person who has practised ten thousand kicks once, but the person who has practised one kick ten thousand times.
+
+There is an engineering version.
+
+An intelligence capable of producing 10,000 novel designs is impressive.
+
+A company capable of forcing one design through 10,000 miserable iterations until it survives contact with reality may still be more economically consequential.
+
+Prototype 1 works.
+
+Prototype 2 leaks.
+
+Prototype 4 overheats.
+
+Prototype 11 solves the overheating and becomes impossible to manufacture.
+
+Prototype 19 can be manufactured but costs twelve times the target price.
+
+Prototype 34 reduces the cost but introduces vibration.
+
+Prototype 61 passes the laboratory test and fails outdoors.
+
+Prototype 103 works outdoors and corrodes.
+
+Prototype 141 solves the corrosion and violates a certification requirement.
+
+Prototype 208 passes certification.
+
+Prototype 209 reveals that the supplier of one critical component can only make 300 units annually.
+
+Prototype 264 finally works.
+
+Then purchasing asks whether the entire thing could be 17% cheaper.
+
+This process looks intellectually unimpressive compared with solving an open theorem.
+
+It is also how much of the built world comes into existence.
+
+Civilisation depends extensively upon people repeatedly doing boring things slightly better.
+
+⸻
+
+7. Idea Abundance Does Not Produce Resource Abundance
+
+Suppose future AI systems become absurdly productive.
+
+In a year they generate:
+
+10,000 viable battery concepts.
+
+3,000 reactor architectures.
+
+50,000 new materials.
+
+6,000 propulsion systems.
+
+80,000 medical hypotheses.
+
+100,000 manufacturing improvements.
+
+Assume, generously, that all of these are legitimate advances.
+
+What then?
+
+You have not generated 149,000 engineering organisations.
+
+You have not generated their prototype budgets.
+
+You have not created laboratory space.
+
+You have not multiplied the population of experienced machinists.
+
+You have not conjured specialist metals out of vacuum.
+
+You have not automatically enlarged electricity grids, ports, fabs, mines, test facilities or regulatory organisations.
+
+You have generated options.
+
+That matters.
+
+But an option is not an installation.
+
+Indeed, if discovery becomes cheap enough, the economic problem may invert.
+
+Historically:
+
+\text{ideas scarce} \quad\rightarrow\quad \text{search for ideas}.
+
+Under extreme AI capability:
+
+\text{ideas abundant} \quad\rightarrow\quad \text{search for which ideas deserve reality}.
+
+That is not the elimination of scarcity.
+
+It is the relocation of scarcity.
+
+⸻
+
+8. The Great Civilisational Queue
+
+Imagine that an AI tomorrow produces one million legitimate technical improvements.
+
+The world cannot implement one million major industrial programmes simultaneously.
+
+Projects therefore enter a queue.
+
+Some will receive capital.
+
+Some will not.
+
+Some will receive engineers.
+
+Some will not.
+
+Some will compete for the same materials.
+
+Some will conflict with existing infrastructure.
+
+Some will fail environmental assessments.
+
+Some will depend upon manufacturing capacity that does not yet exist.
+
+Some will require ten years of testing.
+
+Some will be technically superior to existing products but commercially inferior because replacement costs are too high.
+
+And some will simply lose to another idea promising investors a better return.
+
+The universe has not become post-scarcity.
+
+It has acquired a much larger backlog.
+
+⸻
+
+9. Capital: The Variable That Keeps Being Left Out
+
+There is a strangely persistent habit in technology discourse of treating capital as though it is merely permission.
+
+It is not.
+
+Capital represents claims on scarce productive resources.
+
+A £5 billion reactor project consumes real things:
+
+engineering hours, steel, concrete, specialist manufacturing equipment, transport, energy, land, project management, insurance, regulatory work and years of human effort.
+
+If ten projects require the same finite manufacturing capacity, mathematics cannot permit all ten to occupy it simultaneously.
+
+Money cannot fully repeal this constraint either.
+
+Increase demand for a genuinely scarce input and one likely result is simply that its price rises.
+
+Hence another useful distinction:
+
+\text{technically desirable}
+\neq
+\text{economically financeable}.
+
+And:
+
+\text{economically financeable}
+\neq
+\text{socially optimal}.
+
+Capital allocation is not an automatic ranking of human usefulness.
+
+Projects are selected through expected returns, risk, time horizons, policy, ownership structures, financing conditions and market demand.
+
+A technology capable of improving millions of lives can remain underfunded.
+
+A trivial consumer product can receive billions.
+
+No theorem changes the incentive structure simply by existing.
+
+⸻
+
+10. The Monetisation Filter
+
+This leads to a slightly uncomfortable conclusion.
+
+If AI dramatically expands the set of technically possible things, deployment will still be disproportionately attracted toward the subset that somebody can monetise.
+
+The filter is not:
+
+\text{Does humanity benefit?}
+
+The practical filter is often closer to:
+
+\text{Can somebody capture enough of the benefit to justify paying for it?}
+
+Those are not equivalent questions.
+
+A mathematical advance may generate enormous public value while offering no obvious proprietary revenue model.
+
+Another may enable a product with modest social importance but enormous consumer demand.
+
+The second can receive capital first.
+
+This is not a mathematical failure.
+
+It is an economic selection mechanism.
+
+AI may make discovery more abundant without changing that mechanism at all.
+
+⸻
+
+11. Ten Thousand Inventions, One Machine Shop
+
+Here the physical absurdity becomes clearest.
+
+Imagine an AI discovers ten thousand brilliant new machines on Monday.
+
+On Tuesday, all ten thousand teams telephone the same precision-manufacturing company.
+
+The company owns six suitable five-axis machines.
+
+The AI has revolutionised invention.
+
+The lead time is now fourteen months.
+
+This is not an edge case.
+
+Modern industrial capability depends upon dense networks of specialised suppliers, expertise and equipment.
+
+Increasing demand for those systems faster than their capacity expands creates congestion.
+
+So an intelligence explosion need not initially resemble:
+
+\text{intelligence}\uparrow
+\Rightarrow
+\text{output}\uparrow\uparrow\uparrow.
+
+It can produce:
+
+\text{intelligence}\uparrow\uparrow\uparrow
+
+while
+
+\text{machine tools}\uparrow
+
+and consequently
+
+\text{queue length}\uparrow\uparrow\uparrow.
+
+At some point somebody will presumably publish a theorem proving that the machine shop should buy another machine.
+
+The machine will still take nine months to arrive.
+
+⸻
+
+12. Mathematics Is Powerful Precisely Because It Is Not Magic
+
+None of this requires diminishing mathematics.
+
+Quite the reverse.
+
+Mathematics is powerful because it allows us to reason about structures, relationships and possibilities that would otherwise be inaccessible.
+
+A genuine mathematical breakthrough can remove an enormous intellectual barrier.
+
+Removing one barrier does not imply that every subsequent barrier vanishes.
+
+If better mathematics reduces a project’s mathematical uncertainty from 30% to effectively zero while its materials problem remains unsolved, the materials problem has just become more prominent.
+
+That is progress.
+
+But systems engineering asks a different question from pure discovery.
+
+Not:
+
+“Did one variable improve?”
+
+But:
+
+“What now limits the system?”
+
+That question becomes increasingly important as AI attacks particular forms of intellectual scarcity.
+
+⸻
+
+13. AI May Make Engineering More Important, Not Less
+
+There is a counterintuitive possibility here.
+
+Suppose AI eventually makes mathematical derivation and theoretical exploration extremely cheap.
+
+The relative value of activities it cannot cheaply replace rises.
+
+Experimental validation.
+
+Instrumentation.
+
+Metrology.
+
+Manufacturing.
+
+Field testing.
+
+Maintenance.
+
+Supply-chain construction.
+
+Operations.
+
+Regulatory evidence.
+
+Capital deployment.
+
+Physical troubleshooting.
+
+The engineer standing beside a £20 million machine saying “that bearing should not sound like that” has not been intellectually defeated by the theorem prover.
+
+They are operating at a different interface with reality.
+
+The more cheaply ideas can be generated, the more valuable reliable mechanisms for killing bad ideas quickly may become.
+
+The great technological capability of the AI era may therefore not merely be invention.
+
+It may be disciplined rejection.
+
+Given one million plausible possibilities, identify the 100 worth prototyping.
+
+Given 100 prototypes, identify the ten worth industrialising.
+
+Given ten industrial systems, identify the two worth scaling.
+
+That is not an embarrassment caused by scarcity.
+
+That is what allocation under scarcity means.
+
+⸻
+
+14. A New Law of AI Economics
+
+We may therefore propose the Law of Uncooperative Reality:
+
+As the marginal cost of generating technically plausible ideas approaches zero, the relative importance of physical verification, resource allocation and deployment constraints approaches one.
+
+Or, less politely:
+
+Once ideas become cheap, reality becomes the expensive bit.
+
+There is no contradiction here.
+
+AI might enormously accelerate human progress.
+
+It might solve mathematical problems at a rate no human institution can approach.
+
+It might expose new physical principles, materials and designs.
+
+But those achievements increase the number of possible futures.
+
+They do not automatically select, finance and construct one.
+
+⸻
+
+15. Please Proceed to the Loading Bay
+
+The mistake is not excitement about mathematical progress.
+
+The mistake is confusing epistemic progress with deployed capability.
+
+OpenAI itself chose careful wording when it wrote that mathematical discoveries “may result in a wide range of applications.” 
+
+Precisely.
+
+May.
+
+Between may and does sits engineering.
+
+Between does and scales sits industry.
+
+Between scales and benefits humanity sits economics, institutions and politics.
+
+A civilisation cannot eat mathematical possibility.
+
+It cannot heat houses with benchmark scores.
+
+It cannot manufacture aircraft from inference tokens.
+
+It cannot build a fusion reactor from confidence intervals.
+
+The proof can tell us that something is possible.
+
+Science can tell us what physical mechanism might achieve it.
+
+Engineering can attempt to construct it.
+
+Manufacturing can attempt to reproduce it.
+
+Capital can attempt to finance it.
+
+Logistics can attempt to supply it.
+
+Markets and states can decide whether anyone actually deploys it.
+
+Only after that does somebody get to plug the bloody thing in.
+
+So by all means solve 100 mathematical problems.
+
+Solve 100,000.
+
+Solve every theorem humanity has ever written down.
+
+That would be an extraordinary intellectual achievement.
+
+But when the applause finishes, somebody still has to walk into a workshop, order the material, design the tooling, build the prototype, break the prototype, work out why it broke, build another one, persuade somebody to fund it, manufacture it economically, get permission to operate it, establish a supply chain, train people to maintain it and find somebody willing to buy the result.
+
+The physical universe remains stubbornly unimpressed by PowerPoint.
+
+And, regrettably for everyone involved,
+
+\boxed{\text{Proof}\neq\text{Product}.}
+
+⸻
+
+References
+
+OpenAI, “Advisory Group on Mathematics and Artificial Intelligence,” 21 September 2026. OpenAI states that its internal model has resolved more than 100 long-standing open mathematical problems and discusses possible applications and the advisory group established around the work. 
+
+ITER, “Making Fusion Work” and ITER FAQs. ITER identifies materials, heat exhaust, remote maintenance, tritium production/recycling and heat extraction among the remaining challenges on the route to practical fusion power. 
+
+US Department of Energy, “DOE Explains… Deuterium-Tritium Fusion Fuel.” DOE discusses the fuel-supply and tritium requirements associated with future commercial fusion systems. 
+
+US Department of Energy, Fusion Energy Strategy 2024. The strategy explicitly treats commercialisation, capital, supply chains, manufacturing, regulation and fuel availability as issues separate from fundamental fusion science. 
+
+ITER/PPPL materials research, “Scientific & Technical Challenges for Fusion Materials are Significant.” Documents the extreme thermal, mechanical and neutron environment expected in fusion power systems. 
