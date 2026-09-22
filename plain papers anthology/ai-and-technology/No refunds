@@ -1,0 +1,240 @@
+
+OpenAI Sold Me a Shovel, Then Mined the Land Before Customers Were Allowed On It
+
+Why I am asking OpenAI to refund my ChatGPT Pro subscription — and why its customer service has somehow made Sony PlayStation support look magnificent
+
+I paid for ChatGPT Pro for a very specific reason.
+
+I wasn’t paying hundreds of pounds for a better chatbot to write shopping lists.
+
+I was paying for research capability.
+
+That is, after all, how OpenAI sold Pro.
+
+When ChatGPT Pro launched, OpenAI called the announcement “Broadening usage of frontier AI.” It said the plan provided scaled access to the “best of OpenAI’s models and tools”, specifically identifying researchers and engineers using research-grade intelligence who wanted to remain at the cutting edge of AI. 
+
+That proposition made sense to me.
+
+Give ambitious researchers and engineers access to frontier AI and let them see what they can discover, invent and build.
+
+I bought the shovel.
+
+Then I discovered the company selling me the shovel had brought an excavator onto the land before I was allowed through the gate.
+
+More than 100 open problems
+
+On 21 September 2026, OpenAI announced something extraordinary.
+
+It said an internal model that began training on 28 August had already resolved more than 100 long-standing open problems across most areas of mathematics.
+
+Not benchmark questions with answers hidden in an envelope.
+
+Open problems.
+
+Problems for which finding the answer is itself the research opportunity.
+
+OpenAI also acknowledged that mathematical discoveries can have wide-ranging applications and said it was still considering how these capabilities should be deployed more broadly. 
+
+That distinction matters enormously.
+
+Once somebody solves an open mathematical problem, everyone else can still study the solution, improve it, generalise it and apply it.
+
+But nobody else gets to be first to solve that problem.
+
+That opportunity has been consumed.
+
+And OpenAI didn’t merely have a better model sitting quietly in a laboratory undergoing development.
+
+It was actively using unreleased capability to pursue unresolved mathematics.
+
+Earlier in August, OpenAI had already published ten results produced by an internal version of Astra, covering areas including geometry, cryptography, complexity theory and combinatorics. OpenAI openly states that it continues to evaluate models on open research problems during development. 
+
+Then came Navier–Stokes.
+
+OpenAI says the system it used was “significantly more capable than GPT-6 Astra.”
+
+It also says the successful effort involved roughly 10,000 concurrent agents. OpenAI began testing the model against the remaining Millennium Prize problems and other high-impact questions after hearing rumours that other researchers had made progress. 
+
+That is where my objection begins.
+
+My complaint isn’t that OpenAI develops better models internally
+
+Of course an AI company has unreleased models.
+
+That isn’t remotely controversial.
+
+Nor am I alleging that OpenAI stole anybody’s work, read my private research or copied another mathematician’s manuscript.
+
+The problem is considerably simpler.
+
+OpenAI marketed expensive frontier research capability to researchers and engineers.
+
+It simultaneously retained substantially stronger research capability that those customers couldn’t access.
+
+And rather than merely testing and preparing that capability for release, OpenAI used its exclusive access to pursue a large number of the very research opportunities its customers might reasonably have hoped to pursue using the tools they were paying for.
+
+The analogy is almost painfully simple.
+
+Imagine somebody sells prospectors expensive equipment with the pitch:
+
+Here are cutting-edge tools. Go discover what nobody has discovered before.
+
+The supplier then keeps a vastly superior machine for itself, enters the same unexplored territory before its customers and extracts more than 100 valuable finds.
+
+Eventually customers may receive something comparable.
+
+But the holes are already in the ground.
+
+You haven’t empowered your customers to prospect.
+
+You’ve sold them the shovel while mining the field yourself.
+
+“Safety” doesn’t answer that question
+
+There is also an important distinction that keeps getting blurred.
+
+I have no objection whatsoever to OpenAI withholding a model that genuinely requires further safety work before public deployment.
+
+A sufficiently capable AI system obviously should not simply be thrown onto the internet because somebody has paid a subscription.
+
+But why a model isn’t released and what its owner does with it while it remains exclusive are two separate questions.
+
+Testing an unreleased model against one or two genuinely difficult problems to establish whether it possesses a new research capability is understandable.
+
+Systematically resolving more than 100 long-standing open mathematical problems across most areas of mathematics is something else.
+
+Indeed, OpenAI itself now acknowledges concerns from mathematicians about the negative externalities of using open problems as AI benchmarks. 
+
+If resolving all those problems was genuinely necessary for safety evaluation, I would like OpenAI to explain what safety criterion required it.
+
+Why couldn’t already-solved but extremely difficult mathematics be used?
+
+Why couldn’t private or synthetic evaluation sets be created?
+
+Once the capability had unquestionably been demonstrated, what additional safety information required dozens more previously unsolved results?
+
+And if discovering new mathematics itself presents some new danger requiring restricted access, generating a hundred additional unknown results does not obviously reduce that problem.
+
+Safety may explain why customers couldn’t have the model yet.
+
+It doesn’t automatically explain why OpenAI needed to use that period to empty parts of the research landscape before those customers arrived.
+
+OpenAI’s own words make the contrast uncomfortable
+
+In July, OpenAI wrote:
+
+“We believe the benefits of frontier AI should not be concentrated in a few companies and well-resourced labs.”
+
+It announced plans to put frontier models and tools into the hands of scientists, mathematicians and engineers. 
+
+That is almost exactly the proposition I thought I was buying into.
+
+Yet weeks later, OpenAI describes an extraordinarily capable internal mathematical system, unavailable to those customers, resolving more than 100 open problems before broader deployment has even been settled. 
+
+I’m not asking OpenAI never to conduct research.
+
+I’m asking a much narrower commercial question:
+
+If you sell people premium frontier research access so they can make discoveries, how far can you go in using superior withheld capability to make those discoveries yourself before the customers receive it?
+
+At what point does the platform stop empowering its customers and start competing with them?
+
+That boundary matters.
+
+So I asked for my money back
+
+My position is straightforward.
+
+Had the proposition been presented to me as:
+
+“You can pay for our premium public research capability, while we reserve much stronger systems for ourselves and may use them to resolve large numbers of academically or commercially valuable open problems before equivalent capability becomes available to you,”
+
+I would not have valued the subscription in the same way.
+
+So I submitted a formal request for a refund of the Pro subscription fees OpenAI has retained.
+
+I’m in the United Kingdom.
+
+OpenAI’s current European terms expressly cover UK residents, state that paid-subscription benefits are to be made clear before purchase, preserve statutory rights, and say UK customers remain protected by applicable law. 
+
+OpenAI’s own refund guidance similarly says that although payments are generally non-refundable, applicable legal and contractual rights still apply. 
+
+I therefore wasn’t asking:
+
+“I’m bored of ChatGPT. Can I have my money back?”
+
+I submitted a detailed complaint about what I believe was a material difference between the research proposition I bought and the commercial reality OpenAI has now disclosed.
+
+And then I met OpenAI customer service
+
+This deserves its own section.
+
+I opened a support case.
+
+I was told it had been escalated to a specialist team.
+
+I was told the team might take “a couple of days” and that my issue would be reviewed and responded to.
+
+I followed up.
+
+And followed up.
+
+When I separately submitted my formal refund complaint through the Help Centre, explaining the issue in detail and expressly asking for human review, I received:
+
+“Unfortunately, we’re unable to issue a refund for this subscription. Our refund policies are subject to compliance with our Terms of Use.”
+
+So I explained that I was a UK customer, that this was not an ordinary discretionary refund request, and specifically asked them to address the actual contractual and statutory grounds.
+
+The answer?
+
+The same generic refusal again.
+
+Word for word.
+
+At this point I am comfortable saying that in my personal experience, OpenAI has provided the worst customer service I have encountered from a major technology company.
+
+And I cannot believe I’m writing this sentence:
+
+Sony PlayStation Support, I owe you an apology. I didn’t know how good I had it.
+
+OpenAI can apparently coordinate thousands of AI agents to attack a Millennium Prize problem, but getting a detailed customer complaint in front of somebody authorised to actually read it appears to remain an unsolved problem.
+
+Maybe put that one on the benchmark.
+
+What I actually want
+
+I am not asking for hypothetical millions in lost research value.
+
+I am not claiming ownership of public mathematical problems.
+
+I am not alleging research theft.
+
+I’m asking for the money I paid for Pro back.
+
+And if OpenAI thinks my interpretation of what it sold me is wrong, fine.
+
+Explain why.
+
+Tell me what “frontier”, “best”, “research-grade intelligence” and “cutting edge” meant in the commercial proposition.
+
+Explain what customers should reasonably have understood about the gap between the research capability they were buying and the capability OpenAI reserved for itself.
+
+Explain why that withheld capability was used to resolve more than 100 open research problems before comparable capability reached customers.
+
+Then address the refund request on its merits.
+
+What I don’t accept is reducing a substantive complaint to:
+
+computer says no.
+
+Because this is ultimately bigger than one subscription.
+
+OpenAI wants researchers, engineers and entrepreneurs to build serious work around its technology.
+
+That relationship requires trust.
+
+And trust becomes difficult when the company selling you the shovel is also operating the excavator on the same piece of land before you’re allowed through the gate.
+
+The technology may be extraordinary.
+
+The customer relationship needs considerably more work.
