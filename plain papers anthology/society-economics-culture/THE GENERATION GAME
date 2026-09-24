@@ -1,0 +1,969 @@
+
+THE GENERATION GAME
+
+How Britain Learned to Skim, Fiddle, Claim and Call It Normal
+
+A Systems Engineering Study of Informal Extraction, Selective Outrage and the Death of Plausible Deniability
+
+Author: Martin Ollett
+Classification: Everybody Knows a Bloke
+Prepared by: Office of Missing Aluminium, Mysterious Overtime and Other Entirely Unrelated Coincidences
+Date: September 2026
+
+⸻
+
+Abstract
+
+Britain has developed a peculiar relationship with waste.
+
+Waste is always appalling when somebody else is responsible for it.
+
+The benefit claimant has received £20 they should not have received. Outrage.
+
+The customer has stolen something from a supermarket. Outrage.
+
+The employee has wasted company time. Outrage.
+
+Somewhere else, however, perfectly serviceable material is being converted into scrap, Saturday overtime has mysteriously become unavoidable, company machinery is completing private work, stock is walking through the back gate, expenses are being claimed because apparently earning a substantial salary does not include the cost of getting oneself to work, and somebody who has spent thirty years taking whatever the system allowed is explaining that Britain must finally learn to live within its means.
+
+Welcome to The Generation Game.
+
+This paper examines what may be called the skim economy: the routine extraction of relatively concentrated private benefit from a cost dispersed across an employer, taxpayer, customer, colleague or institution.
+
+The central mechanism is simple:
+
+\text{Private Gain} + \text{Distributed Cost} + \text{Low Accountability}
+\rightarrow
+\text{Normalised Extraction}
+
+The behaviour can be criminal, dishonest, technically permissible, institutionally sanctioned or simply culturally accepted. Those categories matter legally, but they need not produce different incentive structures.
+
+The individual receives the benefit.
+
+Everybody else receives a tiny fraction of the bill.
+
+For decades, low observability allowed such practices to persist. Cash left little evidence. Stock systems were crude. Scrap disappeared. Overtime could be authorised by people receiving it. Expenses lived inside filing cabinets. Private work could pass through company machinery without automatically generating an audit trail.
+
+Then came CCTV, electronic access systems, digital payments, smartphones, GPS, ERP software, public databases, searchable company records and transaction histories.
+
+Suddenly everybody became terribly concerned about surveillance.
+
+This paper argues that Britain is experiencing a collision between two environments: a low-observability economy in which informal extraction could become culturally normal, and a high-observability economy in which nearly everything eventually leaves evidence.
+
+The Generation Game is therefore not simply about who took what.
+
+It is about who taught whom that taking it was normal — and why everyone remains furious about the other bloke doing it.
+
+⸻
+
+0. Welcome to the Generation Game
+
+Every workplace has stories.
+
+The bloke who knows exactly which skip contains the expensive metal.
+
+The supervisor who discovers, late on Thursday afternoon, that an entirely unforeseeable production crisis means everyone will unfortunately have to come in Saturday at time-and-a-half.
+
+The employee whose garage contains sixteen wheels, several tyres, three radiators, assorted power tools and approximately half a workshop despite him apparently never having purchased a car part in his life.
+
+The manager whose mate turns up on Saturday carrying a private job which, by sheer cosmic coincidence, fits perfectly into the company’s machinery.
+
+The shopper who scans one bag of compost and loads three into the car because the garden centre “charges enough anyway.”
+
+And above the entire structure sits someone explaining that waste elsewhere in society has simply gone too far.
+
+The Generation Game has remarkably simple rules.
+
+Take something.
+
+Make the individual benefit obvious but distribute the cost widely enough that nobody feels sufficiently harmed to intervene.
+
+Give the behaviour a morally convenient name.
+
+Then become incandescent with rage when somebody else extracts value through a mechanism you personally dislike.
+
+This final rule is crucial.
+
+The bloke carrying £200 of material through the back gate must remain furious about £20 of benefit fraud.
+
+The employee deliberately stretching five days of work into six must complain about taxation.
+
+The shopper stealing two bags of compost must have extremely strong opinions about shoplifting.
+
+The organisation approving generous reimbursements must describe payments elsewhere as unaffordable.
+
+Without selective moral accounting, the game becomes extremely difficult to play.
+
+⸻
+
+1. The Fundamental Mathematics of Taking the Piss
+
+The skim economy can be described as an incentive problem.
+
+Suppose an individual can extract £100 while the cost is distributed across 10,000 other people.
+
+The extractor experiences the whole £100.
+
+Everyone else experiences one penny.
+
+The incentive is concentrated.
+
+The resistance is dispersed.
+
+That asymmetry matters.
+
+A more complete approximation might be written:
+
+S \propto
+\frac{B_p}
+{C_p \times P_d \times P_c}
+
+where B_p is private benefit, C_p is personally experienced cost, P_d is probability of detection and P_c is probability of meaningful consequence.
+
+This is not intended as serious econometrics.
+
+It is intended to formalise something virtually every person who has worked in a sufficiently chaotic organisation already understands.
+
+If taking something is profitable, nobody personally appears to suffer very much, detection is unlikely and nothing meaningful happens when somebody gets caught, the behaviour becomes increasingly attractive.
+
+Now introduce management participation.
+
+The probability of consequence falls further.
+
+This generates the first law of the Generation Game:
+
+The most useful person to have participating in an informal extraction system is the person whose job is supposed to prevent it.
+
+One worker taking material is misconduct.
+
+A supervisor allowing it is a control failure.
+
+Several employees and multiple managers participating is something else.
+
+It is a local culture.
+
+⸻
+
+2. Saturday: Where Aluminium Goes to Die
+
+One of the author’s firsthand workplace accounts provides an unusually efficient demonstration.
+
+Approximately seven people were involved.
+
+Among them were the production manager and the manager responsible for fitting crews.
+
+The material involved included perfectly serviceable sheets of aluminium approximately 10 mm thick.
+
+On Saturdays, usable aluminium could find its way onto a wall saw and undergo an extraordinary industrial transformation.
+
+It entered the process as valuable manufacturing stock.
+
+It emerged as scrap.
+
+This might seem economically disappointing until one remembers that scrap metal has another useful property:
+
+it can be weighed in for cash.
+
+The situation becomes more interesting when Saturday itself has economic value.
+
+If production during the normal working week is sufficiently relaxed, delayed or badly managed, additional hours can become necessary.
+
+Employees are then paid overtime.
+
+The same period can subsequently be used to convert company material into privately valuable scrap.
+
+One system has now produced two extraction channels.
+
+The company buys additional labour.
+
+The company loses usable material.
+
+The participants potentially receive overtime income and scrap value.
+
+This is not efficiency.
+
+It is vertical integration.
+
+The especially important feature of the example is management participation.
+
+Production management should ordinarily form part of the control structure protecting labour efficiency, inventory and output.
+
+Installation management provides another operational control point.
+
+When people occupying both functions participate in the behaviour being controlled, the organisation chart becomes decorative.
+
+On paper:
+
+Management → supervises → workforce
+
+In practice:
+
+Everyone → supervises nobody → Saturday
+
+A system cannot reliably police itself when the policeman is helping load the van.
+
+⸻
+
+3. The £57-a-Week Bank of England
+
+Corporate extraction is not the only version.
+
+Sometimes the cost is transferred downwards instead of upwards.
+
+At approximately fifteen or sixteen years old, the author was earning around £57 per week and was given one of Britain’s traditional introductory management positions:
+
+sandwich lad.
+
+The process was straightforward.
+
+Collect the orders.
+
+Telephone the sandwich shop.
+
+Pay for everything.
+
+Bring everything back.
+
+Collect everybody’s money.
+
+The flaw in this sophisticated financial architecture was that some adult workers simply did not pay.
+
+Others took sandwiches belonging to somebody else.
+
+The unpaid balance ultimately landed on the teenager.
+
+This creates an almost perfect miniature of the skim economy.
+
+The people most capable of absorbing the loss transferred it to the person least capable of absorbing it.
+
+No offshore account was required.
+
+No shell company.
+
+No derivatives.
+
+No elaborate fraud.
+
+Just social hierarchy and the confidence that the lowest-paid person present would be easier to pressure than everybody else would be to challenge.
+
+The underlying rule is:
+
+Where possible, transfer dispersed organisational inconvenience onto somebody with less power than you.
+
+At £57 per week, even a few missing lunches represented a material proportion of income.
+
+To the adults taking them, each individual act was trivial.
+
+The loss was small to the person creating it.
+
+It was not small to the person receiving it.
+
+⸻
+
+4. The Back Gate Economic Zone
+
+Another workplace produced a different informal economy.
+
+Stock could leave through a rear gate.
+
+Components developed domestic applications never anticipated by their manufacturer.
+
+Wheels, tyres, vehicle parts and other useful items somehow acquired new homes.
+
+Private jobs could arrive during Saturday working.
+
+A friend or acquaintance of an employee could bring in work.
+
+Company equipment would perform the processing.
+
+Payment could occur privately.
+
+From a systems perspective, this is fascinating because the legitimate firm begins hosting a shadow enterprise inside itself.
+
+The formal business supplies:
+
+the building,
+
+the machinery,
+
+the electricity,
+
+the maintenance,
+
+the depreciation,
+
+sometimes the labour,
+
+and most importantly the risk.
+
+The informal business retains the revenue.
+
+One organisation therefore pays the capital costs while another, unofficial economic layer captures the margin.
+
+Management accounting generally calls this undesirable.
+
+British workplace culture has historically employed a broader vocabulary including:
+
+“perks”,
+
+“bits and pieces”,
+
+“everyone does it”,
+
+“they’ll never miss it”,
+
+and the timeless:
+
+“don’t worry about it.”
+
+⸻
+
+5. The Company History That Refuses to Stay Simple
+
+The author’s early sign-industry employment also provides a useful example of why organisational history can become considerably stranger than the legal name printed above the door.
+
+Public Companies House records independently establish a continuing network of signage and engineering companies around Hull and Hessle, while the author’s firsthand account describes transfers of equipment, stock, personnel and operating activity through various stages of ownership and financial distress.
+
+Gallagher Engineering (Hull) Limited, for example, has existed since 1997 and operates in the manufacture of metal structures. 
+
+The significance for this paper is not to infer wrongdoing from corporate succession. Corporate restructurings, asset transfers and insolvencies can all occur legitimately.
+
+The interesting systems observation is different.
+
+To an employee standing beside a van, the boundary represented by a company name can be far less clear than it later appears in a filing cabinet.
+
+A worker may be instructed:
+
+load this,
+
+move that,
+
+take it there,
+
+bring this back.
+
+The worker sees management authority.
+
+The accountant sees assets.
+
+The insolvency practitioner sees legal ownership.
+
+The employee with his hands around one end of a sheet of aluminium often sees:
+
+“Steve said put it in the van.”
+
+That difference between operational authority and legal ownership deserves considerably more attention in discussions of corporate accountability.
+
+People at the bottom of organisations routinely execute decisions whose legal and financial significance they are in no position to assess.
+
+Years later everybody asks why nobody challenged it.
+
+Because at the time they were seventeen and holding the other end of the fucking sheet.
+
+⸻
+
+6. The Great British Overtime Machine
+
+Overtime is an excellent invention.
+
+When demand exceeds normal capacity, employees can work additional hours and receive additional compensation.
+
+Everybody wins.
+
+There is, however, an alternative engineering implementation.
+
+Step one: possess enough influence over normal productivity that unfinished work can accumulate.
+
+Step two: announce that Saturday has sadly become unavoidable.
+
+Step three: receive enhanced pay for solving the problem partially produced during Monday to Friday.
+
+This converts inefficiency into personal income.
+
+The mechanism matters because it reverses the normal incentive structure.
+
+Ordinarily:
+
+\text{Higher productivity} \rightarrow \text{Higher organisational value}
+
+Under badly designed overtime incentives:
+
+\text{Lower weekday productivity}
+\rightarrow
+\text{More additional hours}
+\rightarrow
+\text{Higher individual income}
+
+Congratulations.
+
+The organisation has constructed a system in which improving performance can reduce the employee’s earnings.
+
+Nobody should then be surprised when miraculous productivity improvements appear immediately after overtime begins.
+
+The Generation Game is full of arrangements like this.
+
+They survive because organisations repeatedly insist on treating human behaviour as though incentives do not exist.
+
+⸻
+
+7. One Bag of Compost, Three Bags Loaded
+
+Not every example requires an employer.
+
+Consider retail.
+
+A person pays for one bag of compost and takes three.
+
+The saving is immediate.
+
+The cost disappears into the retailer’s inventory loss.
+
+The justification arrives almost automatically.
+
+“They make enough.”
+
+This sentence deserves to be engraved above the entrance to the Museum of Petty Theft.
+
+The same individual may never describe themselves as dishonest because the behaviour has undergone an important linguistic conversion.
+
+Taking £12 directly from another person’s wallet is theft.
+
+Taking £12 of goods from a large retailer becomes:
+
+“beating the system.”
+
+This distinction is psychologically convenient and economically meaningless to the balance sheet.
+
+The critical variable is perceived victim distance.
+
+The less visible the victim, the easier the extraction becomes to rationalise.
+
+A multinational corporation has no face.
+
+A government budget has no face.
+
+A warehouse has no face.
+
+A company’s pile of aluminium has no face.
+
+A junior employee unfortunately does have a face, but apparently even that occasionally fails to help if he is carrying the sandwiches.
+
+⸻
+
+8. Expenses: The Professionally Laminated Version
+
+Then we reach institutions.
+
+This is where the language becomes magnificently sophisticated.
+
+At the bottom of society, receiving money from a collective pot may be dependency.
+
+Higher up the organisational ladder it becomes an allowance.
+
+Higher again it becomes a business cost.
+
+Further up still it becomes reimbursement.
+
+The underlying transaction can be structurally similar:
+
+an individual cost is transferred to a collective fund.
+
+The legality may be entirely different.
+
+The moral rhetoric often is too.
+
+Members of Parliament operate under an IPSA system in which public funding covers categories including staffing, offices, accommodation and travel. IPSA describes its published “total spend” as spending against those business-cost budgets. 
+
+There are reasons for this structure. MPs employ constituency and parliamentary staff, maintain offices and often work between Westminster and constituencies hundreds of miles away.
+
+But those reasons do not settle the policy question.
+
+Most ordinary employees are expected to absorb ordinary commuting from salary. HMRC explicitly states that travel between home and a permanent workplace is ordinarily not eligible for tax relief. Its own guidance even gives an example involving weekend attendance and occasional overnight accommodation near the workplace and still treats those costs as ordinary commuting. 
+
+That creates an obvious public-policy question:
+
+Why should some occupations incorporate ordinary access to work into salary while others externalise substantial associated costs?
+
+One possible system would be radically simpler.
+
+Pay elected representatives a salary considered sufficient for the job.
+
+Employ parliamentary and constituency staff centrally as parliamentary employees rather than conceptually treating their salaries as an individual MP’s “expense.”
+
+Provide essential institutional infrastructure directly.
+
+Then sharply narrow personal reimbursement.
+
+The argument is not that parliamentary work costs nothing.
+
+The argument is that the architecture used to fund it affects behaviour and public legitimacy.
+
+If somebody earning a substantial salary can legitimately have certain living or travel costs separately funded because those costs are necessary to perform their job, it becomes rhetorically awkward to present another citizen’s basic subsistence costs as evidence that they personally are imposing on “the taxpayer.”
+
+The legal categories remain different.
+
+The electricity bill remains stubbornly made of electricity.
+
+⸻
+
+9. “Taxpayer” Is Not Another Word for “Worker”
+
+This brings us to one of Britain’s favourite rhetorical inventions.
+
+The taxpayer.
+
+The taxpayer is normally imagined wearing steel-toe boots, leaving the house at 6:30 a.m., paying PAYE and wondering why everyone else is spending his money.
+
+There is a slight problem.
+
+Taxation is considerably broader than employment income.
+
+A person can receive substantial inherited wealth, never hold conventional employment and still pay large amounts through VAT, duties, investment taxation, property transactions and consumption.
+
+Somebody purchasing extremely expensive cars, luxury goods and services can generate considerable tax receipts while having no conventional salary at all.
+
+Conversely, somebody working full-time on low earnings may contribute relatively modest direct income tax.
+
+Therefore:
+
+\text{Worker} \neq \text{Taxpayer}
+
+and
+
+\text{Not Working} \neq \text{Not Paying Tax}
+
+This sounds embarrassingly obvious because it is.
+
+Nevertheless, political language repeatedly treats the categories as interchangeable.
+
+Once that rhetorical substitution is made, social spending becomes:
+
+money taken from workers and given to non-workers.
+
+Actual public finance is considerably messier.
+
+The Generation Game thrives on simplified moral categories.
+
+Complex systems do not.
+
+⸻
+
+10. Everyone Hates Fraud Except Their Fraud
+
+Government itself provides a useful scale for the broader issue.
+
+The Public Sector Fraud Authority cites a National Audit Office estimate that £55 billion to £81 billion was lost to fraud and error across the public sector in 2023–24. Importantly, this is not £55–81 billion of proven theft: the estimate explicitly combines fraud and error. 
+
+That distinction is essential because Britain often talks about leakage as though money only travels incorrectly in one direction.
+
+It doesn’t.
+
+DWP’s official statistics for the financial year ending 2026 estimate £9.9 billion of benefit expenditure was overpaid through fraud and error.
+
+The same statistics estimate £1.2 billion was underpaid because of official error. 
+
+The system can therefore overpay people who should receive less and underpay people legally entitled to more.
+
+Both are failures.
+
+Only one generally produces a television programme with ominous music.
+
+This asymmetric attention is itself part of the Generation Game.
+
+When an individual receives too much:
+
+Look at this outrage.
+
+When an institution pays somebody too little:
+
+Administrative issue.
+
+When a claimant owes government money:
+
+Debt recovery.
+
+When government owes a claimant money:
+
+Please allow twenty-eight working days.
+
+The numbers differ.
+
+The moral vocabulary differs even more.
+
+⸻
+
+11. The Human Consequence of “Administrative Error”
+
+This distinction is not academic to the author.
+
+Following redundancy in 2008, after working continuously from school age, the author describes being sanctioned and surviving for months largely on a small hardship payment.
+
+According to his account, he was subsequently informed that his contribution history meant he had been placed in the wrong category.
+
+By then the consequences were not spreadsheet entries.
+
+Housing was lost.
+
+A relationship collapsed.
+
+The money did not arrive when it was required.
+
+Employment was subsequently found.
+
+The retrospective problem did not reconstruct the months already lived.
+
+This is why measuring public systems only through aggregate leakage is inadequate.
+
+A £1,000 error does not have one fixed social cost.
+
+For somebody with substantial savings, it may be irritating.
+
+For somebody with £4.17 left, it can alter the trajectory of their life.
+
+The state therefore faces the same systems-engineering problem as every employer discussed earlier:
+
+Who receives the benefit of an error, and who carries the consequence?
+
+⸻
+
+12. Then They Installed Cameras
+
+And now we reach the great historical disruption.
+
+For decades, informal extraction benefited from poor observability.
+
+A loading bay was a loading bay.
+
+A stock room was a room full of things somebody vaguely remembered purchasing.
+
+Cash existed without a database.
+
+A company vehicle went somewhere because Dave said it needed to.
+
+A pallet contained approximately enough.
+
+A timesheet had whatever somebody wrote on it.
+
+Then technology committed the ultimate workplace betrayal.
+
+It remembered things.
+
+CCTV.
+
+Access logs.
+
+Digital inventory.
+
+Automatic number-plate recognition.
+
+Card payments.
+
+Electronic payroll.
+
+Vehicle telematics.
+
+Mobile phones.
+
+Photographs with timestamps.
+
+ERP systems.
+
+Searchable public expenditure.
+
+Companies House available from the sofa.
+
+Suddenly behaviour that previously required an auditor, several filing cabinets and the patience of a saint could be reconstructed by somebody sitting on the toilet.
+
+This produced a fascinating cultural reaction.
+
+People who had spent decades explaining that anyone behaving properly had nothing to worry about suddenly developed extremely sophisticated views about surveillance.
+
+Cameras appeared above loading bays.
+
+And apparently civilisation itself was under attack.
+
+Of course, privacy concerns can be entirely legitimate.
+
+But in some workplaces the speed with which philosophical objections appeared was remarkably correlated with the disappearance of things through particular doors.
+
+⸻
+
+13. The Death of Plausible Deniability
+
+The smartphone did something politically and organisationally important.
+
+It reduced the cost of evidence.
+
+Previously:
+
+“You’ll never prove that.”
+
+Now:
+
+“There’s a video.”
+
+Previously:
+
+“Nobody knows what they claimed.”
+
+Now:
+
+“Here’s the downloadable spreadsheet.”
+
+Previously:
+
+“That company has nothing to do with that one.”
+
+Now:
+
+“Give me thirty seconds on Companies House.”
+
+Previously:
+
+“That’s just how it happened.”
+
+Now:
+
+“Here’s the timestamp.”
+
+Power has historically benefited from informational asymmetry.
+
+The supervisor knows more than the worker.
+
+The company knows more than the customer.
+
+Government knows more than the citizen.
+
+The institution has the records.
+
+The individual has a memory.
+
+Digitisation does not eliminate that asymmetry, but it has weakened it dramatically.
+
+The same technology that allows organisations to monitor workers increasingly allows workers, customers and citizens to inspect organisations.
+
+Scrutiny can now travel upwards.
+
+That is the bit nobody planned for.
+
+⸻
+
+14. The Actual Generation Game
+
+This paper’s title does not claim that everybody born within a particular twenty-year period is dishonest.
+
+That would be statistically absurd and intellectually boring.
+
+The generational question is about cultural transmission.
+
+A sixteen-year-old entering a workplace does not arrive knowing its unofficial rules.
+
+They learn them.
+
+They learn which breaks are actually twenty minutes longer than stated.
+
+They learn which material is apparently free.
+
+They learn whether overtime is genuine.
+
+They learn whether taking damaged stock home is permitted.
+
+Then they learn that “damaged” is a surprisingly flexible engineering classification.
+
+They learn who can use the machine for private work.
+
+They learn whether managers care.
+
+Most importantly, they learn what everybody else regards as normal.
+
+If the senior workforce says:
+
+“Everyone does it,”
+
+the new employee has been taught something considerably more powerful than a written procedure.
+
+They have been taught the real operating system.
+
+Some copy it.
+
+Some refuse.
+
+Some eventually become supervisors and reproduce it.
+
+That is the Generation Game.
+
+Not genetics.
+
+Transmission.
+
+⸻
+
+15. Why the Game Eventually Stops Working
+
+Informal extraction is easiest when four conditions exist:
+
+low observability,
+
+dispersed victims,
+
+weak accountability,
+
+and cultural permission.
+
+Modern systems attack the first condition aggressively.
+
+Digital systems also make the second weaker because dispersed losses can increasingly be aggregated and attributed.
+
+What once looked like:
+
+“only a bit”
+
+can become:
+
+£600 this month,
+
+£7,200 this year,
+
+£72,000 across ten sites.
+
+Data turns anecdotes into distributions.
+
+That changes organisational behaviour.
+
+It also changes politics.
+
+The public no longer has to accept “that’s just what it costs” quite as readily when databases reveal what things actually cost.
+
+The same principle should apply everywhere.
+
+Benefits.
+
+Procurement.
+
+Corporate expenses.
+
+Inventory shrinkage.
+
+Overtime.
+
+Tax avoidance and evasion.
+
+Parliamentary expenditure.
+
+Executive perks.
+
+Retail theft.
+
+Administrative underpayment.
+
+Public-sector fraud.
+
+Private-sector fraud.
+
+The sensible systems question is not:
+
+Which social group should we be angry with this week?
+
+It is:
+
+Where does the system permit concentrated private benefit while dispersing the resulting cost so widely that meaningful resistance disappears?
+
+Find those points.
+
+Then redesign them.
+
+⸻
+
+16. Stop Skimming Off the Fucking Top
+
+Britain does not suffer from one single giant man hiding behind the Treasury carrying a sack labelled MONEY.
+
+Leakage is distributed.
+
+Some is enormous.
+
+Some is microscopic.
+
+Some is criminal.
+
+Some is technically lawful.
+
+Some is bureaucratic error.
+
+Some is poor system design.
+
+Some is a bloke taking aluminium.
+
+Some is somebody knowingly claiming money to which they are not entitled.
+
+Some is an organisation failing to pay somebody money to which they are entitled.
+
+Some is unnecessary procurement.
+
+Some is deliberately created overtime.
+
+Some is a sandwich nicked from the kid earning £57 a week.
+
+The amounts and legal categories differ.
+
+The underlying cultural problem often does not:
+
+My little bit doesn’t count.
+
+It does.
+
+Multiply “my little bit” by millions of people, thousands of companies and hundreds of institutions and eventually Britain develops an economy in which everyone is furious about everybody else’s extraction while defending their own as completely reasonable.
+
+That is not fundamentally a left-wing problem.
+
+It is not fundamentally a right-wing problem.
+
+It is not confined to rich people, poor people, employees, businesses, politicians or benefit recipients.
+
+It is an incentive-design problem wrapped inside a cultural one.
+
+The older low-observability economy made it surprisingly easy to sustain.
+
+The modern digital economy increasingly does not.
+
+The cupboard now has an inventory system.
+
+The gate has a camera.
+
+The van has GPS.
+
+The payment has a transaction ID.
+
+The company has a searchable filing history.
+
+The expense has a downloadable spreadsheet.
+
+And practically everyone has a camera in their pocket.
+
+The age of “nobody will ever know” is ending.
+
+Perhaps the appropriate response is not another national campaign identifying whichever group is currently fashionable to blame.
+
+Perhaps it is considerably simpler.
+
+Stop nicking the sandwiches.
+
+Stop manufacturing the overtime.
+
+Stop turning good aluminium into beer money.
+
+Stop helping yourself to stock.
+
+Stop designing systems in which the people authorising expenditure personally benefit from spending more.
+
+Stop treating money owed by institutions as morally different from money owed to them.
+
+Stop calling your extraction an entitlement while describing somebody else’s as theft.
+
+In other words:
+
+Stop skimming off the fucking top.
+
+Because after several generations of playing the game, the most inconvenient development imaginable has finally arrived.
+
+Everyone can see the scoreboard.
