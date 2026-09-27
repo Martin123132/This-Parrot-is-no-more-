@@ -1,0 +1,1128 @@
+The Lion, the Witch and the Net Contributor
+
+A forensic journey through the wardrobe of lifetime fiscal accounting
+
+Martin Ollett — Draft discussion paper, September 2026
+
+Abstract
+
+Somewhere beyond the wardrobe lies a remarkable country.
+
+Its citizens are apparently born at working age, fully educated and in perfect health. They immediately obtain well-paid employment, maintain uninterrupted earnings for several decades, require little from the state, retire for precisely the number of years allowed by the spreadsheet, and then vanish shortly after making their final tax payment.
+
+Their children require no schools. Their illnesses occur only at the statistical average. Their pensions arrive from an unspecified dimension. Their share of infrastructure, defence, justice and public administration is apparently waived.
+
+Most remarkably, their entire lifetime relationship with the public finances can be established by examining one payslip.
+
+This paper investigates that country.
+
+The question examined is deliberately narrower than somebody’s social value, economic usefulness or contribution to national output. It concerns fiscal accounting: whether the public receipts attributable to a person exceed the public expenditure attributed to that person across a defined period.
+
+That quantity cannot be inferred from salary alone. It depends on the accounting boundary, earnings history, taxes actually paid, benefits received, public services consumed or allocated, education, healthcare, retirement, children, migration, shared expenditure, prices, time and—where the person is still alive—assumptions about events that have not happened yet.
+
+Nor can a personal fiscal surplus be enlarged by awarding someone the taxes paid by other people merely because their work contributed to those people being economically productive. Wider economic effects can be studied, but they are not identical to personally paid tax.
+
+The wardrobe is optional.
+
+The ledger is not.
+
+⸻
+
+1. Before entering Narnia, define the accounting problem
+
+“Net contributor” sounds like a description of a person.
+
+It is actually the result of an equation.
+
+For an individual (i), define a lifetime fiscal balance over a specified period as:
+
+[
+\boxed{
+F_i
+
+\sum_t
+\left(
+R_{i,t}
+
+X_{i,t}
+\right)
+}
+]
+
+where:
+
+* (R_{i,t}) represents public receipts attributed to that person in period (t); and
+* (X_{i,t}) represents public expenditure attributed to that person in period (t).
+
+Depending on the model, receipts might include income tax, employee National Insurance, indirect taxes, council tax and explicitly allocated employer taxes.
+
+Expenditure might include cash benefits, State Pension, healthcare, education, social care and some stated allocation of shared public expenditure.
+
+Immediately, a problem appears.
+
+There is no unique individual lifetime fiscal balance until the model specifies what counts, who gets it attributed to, over what period, and in what prices.
+
+A useful accounting system therefore needs several rules:
+
+1. Count every pound once. A tax receipt cannot become the personal contribution of three different people merely because all three helped create the circumstances in which it was paid.
+2. Count every cost once. The same hospital salary cannot simultaneously be charged as payroll expenditure and again as an independent patient cost without reconciliation.
+3. Do not switch units. Individual, household and family accounts answer different questions.
+4. Do not switch periods. One profitable year does not rewrite forty preceding years.
+5. Do not switch tax definitions. Personal tax, employer tax and taxes economically associated with employment are not automatically the same thing.
+6. State the price basis. Nominal historical pounds, constant-price pounds and discounted present values are different calculations.
+7. Separate observation from allocation from projection. A tax payment already made is not epistemically identical to an estimated share of defence spending or a pension expected thirty years from now.
+8. Make the total reconcile. If all national receipts and expenditures are supposedly being allocated, their individual allocations should add back to the chosen national totals, apart from amounts explicitly left unallocated.
+
+That last rule is especially useful.
+
+If a methodology distributes £100 of actual public revenue and somehow manufactures £160 of individual “contributions”, it has not discovered £60.
+
+It has discovered double counting.
+
+Gross salary is therefore not a fiscal contribution.
+
+A £75,000 employee has not paid £75,000 to the Treasury.
+
+Likewise, owning a £400,000 house does not constitute a £400,000 contribution to government revenue merely because the number looks magnificent in conversation.
+
+The ledger records transactions and allocated costs.
+
+It is unimpressed by property valuations, job titles and vibes.
+
+⸻
+
+2. First discover what the statistic you are quoting actually measures
+
+One of the easiest ways to manufacture confusion is to take two legitimate statistics answering different questions and pretend they are competing answers to the same one.
+
+Consider two real UK findings.
+
+The Office for National Statistics estimated that in the financial year ending 2024, 53.3% of people lived in households receiving more in cash benefits and benefits in kind than those households paid in direct and indirect taxes. Benefits in kind include services such as healthcare and education. (Office for National Statistics)
+
+That is a household-based, single-year fiscal-incidence measure.
+
+It is not a completed lifetime account for every individual.
+
+Now consider an apparently very different result.
+
+A 2015 Institute for Fiscal Studies analysis of the generation born between 1945 and 1954 estimated that 93% of individuals paid more in personal taxes than they received in social security over their adult lives. But the IFS explicitly stated that this calculation excluded business taxes and excluded benefits from public-service spending. (Institute for Fiscal Studies)
+
+Both figures can be correct.
+
+They are measuring different things.
+
+[
+\boxed{
+\text{One year} \neq \text{a lifetime}
+}
+]
+
+[
+\boxed{
+\text{Household} \neq \text{individual}
+}
+]
+
+[
+\boxed{
+\text{Social security} \neq \text{all public expenditure}
+}
+]
+
+The ONS itself explains another important boundary. Its Effects of Taxes and Benefits methodology does not attempt to allocate some government expenditure to individual households where there is no satisfactory basis for doing so. Examples include capital expenditure, defence and the maintenance of law and order. It also does not apportion items such as Corporation Tax or government receipts from public corporations to households. (Office for National Statistics)
+
+Healthcare expenditure in this type of distributional work is also allocated statistically using information on costs and estimated patterns of service use. It is not a stack of individually itemised NHS invoices attached to each respondent. (Office for National Statistics)
+
+That distinction matters.
+
+A statistic can be completely correct within its stated perimeter while being completely incapable of answering a broader question.
+
+If somebody wishes to claim that an individual has paid for their lifetime share of the entire public system, then the things omitted from the source do not disappear.
+
+They become things that still require accounting.
+
+Leaving several government departments outside the calculation is not fiscal self-sufficiency.
+
+It is excellent wardrobe management.
+
+⸻
+
+3. Three questions that keep being smuggled into one sentence
+
+Much confusion disappears if three different concepts are kept apart.
+
+Personal fiscal incidence
+
+How much public revenue is attributed to this person, compared with how much public expenditure is attributed to them?
+
+That is the principal subject of this paper.
+
+Government cash flow
+
+What money entered and left the government sector?
+
+This is where public payroll, procurement, taxes and transfers are recorded.
+
+Wider economic contribution
+
+How did somebody’s work affect production, employment, productivity, other people’s earnings or future tax receipts?
+
+That is a legitimate economic question.
+
+It is not the same question.
+
+A doctor may make an enormous economic and social contribution by restoring people to health and allowing them to return to employment.
+
+An engineer may design machinery allowing hundreds of other people to become more productive.
+
+A teacher may increase pupils’ future earnings.
+
+Those effects can be modelled.
+
+But they do not transform everybody else’s taxes into tax personally paid by the doctor, engineer or teacher.
+
+That would require a different ledger.
+
+And preferably a photocopier.
+
+⸻
+
+4. The “my work created other taxpayers” multiplication trick
+
+Suppose Alice pays £10,000 in tax.
+
+A doctor helped Alice recover from an illness and return to work.
+
+In a causal economic analysis, one could ask how much additional employment, income or tax revenue arose because of that treatment. That requires a counterfactual: what would Alice have earned and paid without it?
+
+Perfectly legitimate question.
+
+Now change the question.
+
+Who paid the £10,000 tax receipt?
+
+Alice did.
+
+If Alice receives £10,000 of credit in her personal tax account and the doctor also receives £10,000 because the doctor’s work enabled Alice to earn it, the personal ledgers now claim £20,000 against one £10,000 Treasury receipt.
+
+Add Alice’s teacher.
+
+£30,000.
+
+Add her employer.
+
+£40,000.
+
+Add whoever built the road she drove to work on.
+
+We are now developing an extraordinarily productive tax system.
+
+Unfortunately, HMRC still received ten grand.
+
+The money did not multiply.
+
+The attribution claims did.
+
+The rule required for a reconciled personal ledger is therefore brutally simple:
+
+[
+\boxed{\text{One receipt. One allocation.}}
+]
+
+This does not prohibit analysis of indirect fiscal effects.
+
+It prohibits relabelling indirect effects as multiple instances of the same person personally paying the same tax.
+
+Employer taxes provide another example.
+
+They can be recorded separately. They can be associated with the employment relationship. A model can even adopt a stated economic-incidence assumption about where their burden ultimately falls.
+
+What it cannot do is quietly classify the same amount as employer tax, employee tax and somebody else’s tax depending on which column currently requires assistance.
+
+The same discipline applies to costs.
+
+A child’s £1 of education expenditure cannot be charged in full to the child, in full to Parent A and in full to Parent B and then appear as £3 of public expenditure when the government spent £1.
+
+National accounts become surprisingly easy if pounds are allowed to breed.
+
+Unfortunately, pounds have so far declined.
+
+⸻
+
+5. What £70,000–£80,000 actually pays
+
+Now start with something observable.
+
+For an employee in England in 2026–27, assume:
+
+standard £12,570 Personal Allowance; standard employee Class 1 National Insurance; no salary sacrifice; no pension deduction; no unusual reliefs; and ordinary employment income.
+
+The 2026–27 Income Tax rules retain the £12,570 Personal Allowance, 20% basic rate and 40% higher rate across the relevant bands. Standard employee National Insurance is 8% between the Primary Threshold and Upper Earnings Limit and 2% above it. (GOV.UK)
+
+Gross salary	Income Tax	Employee NI	Combined payroll payments
+£40,000	£5,486.00	£2,194.40	£7,680.40
+£50,000	£7,486.00	£2,994.40	£10,480.40
+£70,000	£15,432.00	£3,410.60	£18,842.60
+£75,000	£17,432.00	£3,510.60	£20,942.60
+£80,000	£19,432.00	£3,610.60	£23,042.60
+
+Author’s calculations from HMRC 2026–27 rates.
+
+These are substantial payments.
+
+They are also one component of one side of a much larger account.
+
+A complete personal fiscal ledger could also contain VAT and other indirect taxes attributable to consumption, council tax, taxes on savings or investments, and other relevant payments.
+
+Reliefs and refunds go the other way.
+
+Household taxes need an allocation rule if the unit is the individual.
+
+At £75,000, the simple payroll starting point is therefore about:
+
+[
+\boxed{£20,942.60\text{ per year}}
+]
+
+in Income Tax and employee National Insurance.
+
+Useful number.
+
+It does not contain a childhood, an earnings history, a medical record or a retirement.
+
+It is one year’s payroll calculation.
+
+Treating it as an entire fiscal biography is not lifetime accounting.
+
+It is a P60 wearing a fucking wizard’s hat.
+
+⸻
+
+The employer contribution is a separate entry
+
+For a standard employee, the main 2026–27 employer National Insurance rate is 15% above the £5,000 Secondary Threshold. (GOV.UK)
+
+On £75,000:
+
+[
+0.15(£75,000-£5,000)
+
+\boxed{£10,500}
+]
+
+per year.
+
+Across forty-five identical years:
+
+[
+45\times£10,500
+
+\boxed{£472,500}.
+]
+
+That is far too large an amount to hide inside a definition.
+
+If a study asks about tax revenue associated with somebody’s employment, employer National Insurance may belong inside its chosen perimeter.
+
+If it asks about tax personally remitted by the employee, the statutory employer payment is a separate category.
+
+And if somebody wants to make an economic-incidence argument that some employer taxation is ultimately reflected in wages, that is yet another analytical step.
+
+All are legitimate subjects.
+
+Quietly switching among them halfway through the calculation is not methodology.
+
+It is result shopping.
+
+⸻
+
+6. Two £75,000 workers walk into a lifetime account
+
+Consider two workers.
+
+Both finish their careers earning £75,000.
+
+Worker A
+
+Earns £75,000 for forty-five years.
+
+Worker B
+
+Earns £40,000 for thirty-five years, then £75,000 for ten years.
+
+To isolate the effect of earnings history, hold today’s tax rules constant throughout. This is a stylised constant-rule illustration, not a reconstruction of historic tax policy and not a prediction that current tax rates will survive unchanged for forty-five years.
+
+Worker A’s payroll payments are:
+
+[
+45\times£20,942.60
+
+\boxed{£942,417}.
+]
+
+Worker B’s are:
+
+[
+(35\times£7,680.40)
++
+(10\times£20,942.60)
+
+\boxed{£478,240}.
+]
+
+Difference:
+
+[
+\boxed{£464,177}.
+]
+
+Same final salary.
+
+Nearly half a million pounds difference in this simplified lifetime payroll calculation.
+
+Apparently the final payslip has misplaced it.
+
+Perhaps check behind the coats.
+
+⸻
+
+Now enter two expenditure items
+
+Department for Education statistics put funding allocated to English schools for pupils aged 5–16 at £8,580 per pupil in cash terms in 2026–27. (Explore Education Statistics)
+
+Use that as a flat illustrative annual unit for twelve years:
+
+[
+12\times£8,580
+
+\boxed{£102,960}.
+]
+
+This is intentionally an illustration.
+
+It is not an estimate of the exact education cost of a particular child. It does not reconstruct historical funding, and it does not include every possible nursery, post-16, university, SEND or childhood healthcare cost.
+
+Next, the full new State Pension is £241.30 per week in 2026–27, although an individual’s entitlement depends on their National Insurance record and circumstances. (GOV.UK)
+
+Twenty years at that rate gives:
+
+[
+20\times52\times£241.30
+
+\boxed{£250,952}.
+]
+
+Apply only those two illustrative expenditures:
+
+Lifetime ledger entry	Worker A	Worker B
+Income Tax + employee NI	£942,417	£478,240
+Illustrative school funding	−£102,960	−£102,960
+20 years full State Pension	−£250,952	−£250,952
+Subtotal	£588,505	£124,328
+
+We have not yet entered lifetime healthcare.
+
+We have not entered social care.
+
+We have not entered remaining benefits.
+
+We have not allocated shared public expenditure.
+
+We have not added the person’s other taxes either.
+
+So far, in this deliberately incomplete example, we have merely taught them to read and allowed them to retire.
+
+Now perform a sensitivity test.
+
+Suppose—not as an official average, but as an explicitly chosen hypothetical—that all remaining lifetime expenditure exceeds all remaining personal taxes by £300,000.
+
+Worker A:
+
+[
+£588,505-£300,000
+
+\boxed{+£288,505}.
+]
+
+Worker B:
+
+[
+£124,328-£300,000
+
+\boxed{-£175,672}.
+]
+
+Change the £300,000 assumption and the final figures change.
+
+Of course they do.
+
+That is precisely the point.
+
+The example does not establish that Worker A is representative, Worker B is representative, or £300,000 is the correct residual cost.
+
+It establishes something much more elementary:
+
+[
+\boxed{
+\text{Same current salary}
+\not\Rightarrow
+\text{same lifetime fiscal balance}
+}
+]
+
+The salary-only method fails before the difficult accounting has even started.
+
+⸻
+
+7. The public-sector payslip: four ledgers enter, one argument leaves
+
+Public-sector employment is where several perfectly legitimate accounting questions are most frequently driven into one another at speed.
+
+The ONS estimated 6.21 million UK public-sector employees in June 2026, representing 18.0% of people in employment. (Office for National Statistics)
+
+So the distinction matters at national scale.
+
+Consider a £75,000 job funded entirely from a public budget.
+
+Using the payroll assumptions above:
+
+[
+\begin{aligned}
+\text{Gross salary paid} &= £75,000,\
+\text{Income Tax + employee NI} &= £20,942.60,\
+\text{Net salary after those deductions} &= \boxed{£54,057.40}.
+\end{aligned}
+]
+
+Every number here is real.
+
+The employee genuinely pays the £20,942.60.
+
+Nothing about working for the public sector deletes their Income Tax payment.
+
+But neither does the tax payment delete the salary expenditure that preceded it.
+
+That is why the question matters.
+
+The personal-tax ledger
+
+The worker receives credit for their own applicable tax payments.
+
+Correct.
+
+The government cash-flow ledger
+
+The government financed the salary and recovered part of the payment through taxation.
+
+Also correct.
+
+The £20,942.60 therefore cannot be described, in a source-of-funds cash-flow analysis, as though it appeared independently of the associated public payroll expenditure.
+
+The Treasury is not a cashback app.
+
+The public-service ledger
+
+The employee was hired to produce something: healthcare, teaching, policing, administration, engineering, defence or another public service.
+
+Their salary is an input into the cost of that service.
+
+If that service cost is then allocated to its users, the original payroll cost must be reconciled with it.
+
+Otherwise, the salary is counted once when government pays the worker and again when the patient’s or pupil’s service cost is entered.
+
+Congratulations.
+
+The same nurse has now cost the Treasury twice without working overtime.
+
+The economic-value ledger
+
+The value created by that employee can exceed, equal or fall below their compensation.
+
+That is an economic question requiring evidence about outputs, alternatives and counterfactuals.
+
+The narrow payroll cash flow cannot answer it.
+
+This distinction matters because saying:
+
+“The government paid £75,000 and recovered £20,942.60 through employee tax”
+
+does not imply:
+
+“The worker provided no service,”
+
+and does not imply:
+
+“The worker’s economic value was only £20,942.60.”
+
+It says exactly what it says.
+
+It describes the cash movements.
+
+That is all.
+
+Employer National Insurance makes the boundary even more important. A public employer may also incur statutory employer NIC, pension costs and other employment costs. Where payments occur between bodies inside a consolidated public-sector boundary, some flows may cancel on consolidation even though they matter in the individual bodies’ accounts.
+
+Again:
+
+state the boundary before announcing the result.
+
+The same reasoning applies to nominally private employment financed by a public contract.
+
+A private company appearing on the payslip does not prove that its revenue came from private consumers.
+
+But public procurement is purchasing goods or services, not simply donating wages to the contractor’s workforce.
+
+So follow the money.
+
+Then follow the service.
+
+Then refrain from adding both twice.
+
+It is less magical, but the accounts survive.
+
+⸻
+
+8. The kidneys have declined to follow the forecast
+
+A lifetime fiscal projection that assumes continued health is conditional on continued health.
+
+This is not a moral statement.
+
+It is arithmetic.
+
+Yet the fictional lifetime taxpayer generally possesses organs manufactured to Treasury specification and guaranteed until shortly after retirement.
+
+Real humans have failed to sign the contract.
+
+A useful scale example comes from NIHR’s evidence review on kidney failure. It reports that in 2023 dialysis cost the NHS about £1.05 billion, with an estimated cost of approximately £34,000 per patient per year. (NIHR Evidence)
+
+Five years at that source-year unit would therefore be:
+
+[
+5\times£34,000
+
+\boxed{£170,000}.
+]
+
+That is a 2023-cost illustration, not a statement that every dialysis patient generates exactly the same expenditure today.
+
+Now consider the other side of the ledger.
+
+If our hypothetical £75,000 worker loses five earning years entirely, under the 2026–27 payroll illustration the lost Income Tax and employee National Insurance is:
+
+[
+5\times£20,942.60
+
+\boxed{£104,713}.
+]
+
+One event can therefore alter both sides of the projection:
+
+[
+\text{higher expenditure}
+\quad+\quad
+\text{lower receipts}.
+]
+
+That is why healthcare cannot simply be represented by a low average allowance and then left frozen irrespective of what actually happens to the person.
+
+For a completed historical account, actual attributable service use should replace assumptions wherever reliable data exist.
+
+For a projection, uncertainty remains uncertainty.
+
+Multiple illnesses also require sane costing.
+
+Separate disease averages cannot simply be added if they contain overlapping hospital stays, consultations, staffing or overhead.
+
+But the opposite manoeuvre is equally invalid: keeping the original healthy-person surplus intact after the person’s health history has changed beyond recognition.
+
+A salary threshold cannot insure its own conclusion against biology.
+
+The kidneys, regrettably, retain editorial independence.
+
+⸻
+
+9. Retirement: the inconvenient habit of continuing to exist
+
+Using the 2026–27 full new State Pension rate of £241.30 a week:
+
+[
+52\times£241.30
+
+\boxed{£12,547.60}
+]
+
+per year. (GOV.UK)
+
+Ten additional years at that constant illustrative rate equal:
+
+[
+10\times£12,547.60
+
+\boxed{£125,476}.
+]
+
+A proper lifetime account must also include whatever tax the person pays during retirement.
+
+It cannot simply switch off the revenue column at age 67 while leaving the expenditure column running.
+
+But the duration of retirement plainly matters.
+
+Two people can have identical careers and different lifetime State Pension receipts because one receives it for substantially longer.
+
+Healthcare and social-care expenditure may differ dramatically as well.
+
+The fictional taxpayer avoids this problem elegantly.
+
+They retire for exactly the number of years contained in the original model.
+
+Real pensioners occasionally exhibit the fiscal indiscipline of living longer.
+
+Some do it for decades.
+
+⸻
+
+10. Congratulations on the baby. Please select an accounting boundary
+
+Children expose one of the most important choices in the entire exercise.
+
+Who owns the child’s fiscal account?
+
+Under an individual model, education and healthcare received by the child belong to the child’s account.
+
+Under a family model, the researcher may combine specified receipts and expenditure across family members.
+
+Both can be constructed.
+
+They answer different questions.
+
+What cannot be done is to charge the child to the parents when expenditure is being counted and then magically turn the child back into a separate individual when future taxes are being credited.
+
+Using the earlier school-funding illustration:
+
+One child:
+
+[
+12\times£8,580
+
+\boxed{£102,960}.
+]
+
+Two children:
+
+[
+2\times£102,960
+
+\boxed{£205,920}.
+]
+
+Again, these are illustrative school-funding multipliers, not complete costs of childhood.
+
+Healthcare, additional educational provision, cash support where applicable and effects on parental working patterns could all alter a family-level fiscal calculation.
+
+The child is therefore not merely a decorative dependent positioned underneath the parent’s £75,000 salary.
+
+They have, rather inconveniently, an existence.
+
+⸻
+
+Then the child moves to America
+
+Suppose the child receives publicly funded education in Britain and leaves the UK at eighteen.
+
+Under the hypothetical, they subsequently pay no UK taxes.
+
+Their earlier UK expenditure does not reverse itself.
+
+But neither is it correct to keep every future UK cost that would have arisen had they remained.
+
+Migration affects both sides.
+
+The correct comparison is:
+
+[
+\boxed{
+\Delta F
+
+\Delta(\text{future UK receipts})
+
+\Delta(\text{future UK expenditure})
+}
+]
+
+If leaving removes future UK tax receipts, record that.
+
+If leaving also removes future UK healthcare, education, benefits or other attributable expenditure, record that too.
+
+If some UK receipts or liabilities continue after emigration, record those.
+
+An American income-tax payment does not become British public revenue merely because the person once attended a comprehensive in Yorkshire.
+
+HM Treasury has many powers.
+
+Long-distance tax teleportation is not currently among them.
+
+⸻
+
+11. About that £70,000–£80,000 threshold
+
+We can now show mathematically how a salary in this region can emerge as a lifetime break-even figure.
+
+More importantly, we can show why the figure cannot be universal.
+
+Under the 2026–27 assumptions already used, for ordinary employment earnings between £50,270 and £100,000:
+
+[
+T(w)
+
+0.42w-£10,557.40
+]
+
+where (T(w)) is annual Income Tax plus employee National Insurance and (w) is gross salary.
+
+Let:
+
+[
+C
+]
+
+be the lifetime expenditure that remains to be covered by these payroll payments after all other attributable personal taxes and receipts have already been netted off.
+
+Assume forty-five earning years at the same real salary.
+
+Break-even requires:
+
+[
+45(0.42w-£10,557.40)=C.
+]
+
+Therefore:
+
+[
+\boxed{
+w
+
+\frac{C/45+£10,557.40}{0.42}
+}
+]
+
+Now vary (C).
+
+Lifetime amount left for payroll taxes to cover	Required constant annual salary
+£900,000	£72,756
+£1,100,000	£83,338
+£1,300,000	£93,920
+
+Author’s calculations using HMRC 2026–27 rates.
+
+And there it is.
+
+A break-even salary somewhere around £70,000–£80,000 can absolutely emerge from a defined lifetime model.
+
+There is nothing inherently absurd about that range.
+
+What would be absurd is pretending the range arrived independently of the assumptions that generated it.
+
+Alter the lifetime expenditure.
+
+The threshold moves.
+
+Alter the number of earning years.
+
+The threshold moves.
+
+Include or exclude employer National Insurance.
+
+The threshold moves.
+
+Change pension duration.
+
+The threshold moves.
+
+Change healthcare utilisation.
+
+The threshold moves.
+
+Change family boundaries.
+
+The threshold moves.
+
+Change indirect taxation.
+
+The threshold moves.
+
+Change migration.
+
+The threshold moves.
+
+The threshold is therefore:
+
+[
+\boxed{\text{an output of the assumptions}}
+]
+
+not:
+
+[
+\boxed{\text{a substitute for the assumptions}}.
+]
+
+A salary-only assertion skips the model and announces its answer anyway.
+
+Financial Narnia has magnificent branding.
+
+Its working papers remain difficult to obtain.
+
+⸻
+
+12. The rest of the government is still waiting outside the wardrobe
+
+Suppose healthcare, education and pensions have now been entered.
+
+Excellent.
+
+The British state has not finished spending.
+
+A September 2026 House of Commons Library briefing puts total UK public-sector spending in 2026–27 at £1.419 trillion. Its functional breakdown shows major expenditure not only on social protection, health and education but on general public services, economic affairs and numerous other functions. Public expenditure also contains both current and capital spending. (House of Commons Library)
+
+The central problem is attribution.
+
+A person’s appendectomy can be linked reasonably directly to that person.
+
+Their exact lifetime consumption of national defence is less cooperative.
+
+What is one citizen’s personal invoice for the submarine fleet?
+
+How much of a court system belongs to somebody who never enters a courtroom but lives in a society whose contracts and property rights depend on courts existing?
+
+What share of a flood barrier belongs to the person whose home never flooded because the barrier worked?
+
+These are not reasons to pretend the expenditure does not exist.
+
+They are reasons to specify an allocation rule.
+
+Equal per-capita allocation is one option.
+
+Usage-based allocation is another for some services.
+
+Income-weighted allocation could be chosen for some analytical purposes.
+
+Some expenditure might remain explicitly unallocated.
+
+Different choices produce different individual balances.
+
+That is unavoidable.
+
+What is avoidable is hiding the choice.
+
+For scale, if a model allocated only £1,000 of shared expenditure to someone for eighty years:
+
+[
+80\times£1,000
+
+£80,000.
+]
+
+That is arithmetic, not an estimate that £1,000 is the correct figure.
+
+The point is that apparently modest annual allocation assumptions become material over a lifetime.
+
+⸻
+
+Capital does not get to be bought twice either
+
+Public investment introduces another accounting choice.
+
+A cash-flow model might recognise capital expenditure when money is spent.
+
+An accrual-style framework might allocate consumption of capital over the useful life of an asset.
+
+Those can both be legitimate approaches.
+
+What is less impressive is charging the full purchase price and then charging the full depreciation schedule as though the asset had been built twice.
+
+The bridge remains stubbornly singular.
+
+⸻
+
+Debt is not a magic tax receipt
+
+Borrowing also requires correct classification.
+
+Government borrowing provides financing.
+
+It does not become tax revenue simply because money arrived in the government’s bank account.
+
+Repayment of principal reduces a liability. It is not automatically another purchase of whatever the original borrowing financed.
+
+Interest is a financing cost and must be treated consistently within the chosen public-finance framework.
+
+Once again, methodology has ruined an otherwise promising magic trick.
+
+⸻
+
+13. The reconciliation test
+
+A serious lifetime fiscal model should be capable of answering one deeply irritating question:
+
+Where did every amount come from, where was it allocated, and has it already appeared somewhere else?
+
+Imagine the model allocates all public receipts and expenditures to individuals.
+
+Then, abstracting from explicitly unallocated amounts:
+
+[
+\sum_i R_i
+]
+
+should reconcile with the chosen total public receipts, and:
+
+[
+\sum_i X_i
+]
+
+should reconcile with the chosen total public expenditure.
+
+If they do not, the difference needs explaining.
+
+Perhaps some items were deliberately excluded.
+
+Fine.
+
+Perhaps a different government boundary was used.
+
+Fine.
+
+Perhaps national-accounting and cash measures differ.
+
+Fine.
+
+Write it down.
+
+The dangerous version is a system in which £1 of tax becomes £1 of personal contribution for the employee, another £1 for their employer, another £1 for the doctor who kept them working and another £1 for the teacher who educated them, while the actual public accounts stubbornly insist that only £1 arrived.
+
+That model does not have four contributors.
+
+It has one tax receipt and a severe attribution problem.
+
+⸻
+
+14. Checking out: please settle the actual account
+
+A defensible lifetime fiscal calculation requires considerably more information than:
+
+“What do you earn?”
+
+At minimum, the calculation needs a defined accounting boundary, earnings and tax history, public payments received, a method for attributing public services, residence history, retirement treatment and a clear rule governing whether the unit is an individual, household or family.
+
+It also needs a price convention.
+
+Adding £1 paid in 1985 directly to £1 paid in 2026 without adjustment produces a nominal historical total.
+
+That may be useful.
+
+It is not the same thing as a constant-price lifetime calculation.
+
+Discounting future amounts to present value creates another measure again and, if used, should be applied consistently to receipts and expenditure.
+
+There is then the small problem of the future.
+
+For somebody who is still alive, future wages are not observations.
+
+Future tax rates are not observations.
+
+Future health is not an observation.
+
+Future retirement length is not an observation.
+
+Future residence is not an observation.
+
+A lifetime balance calculated for a living person is therefore partly a projection.
+
+It should say so.
+
+A useful presentation separates three classes of entries:
+
+Observed amounts — things that have actually happened.
+
+Allocated amounts — expenditure or revenue assigned through a stated methodology.
+
+Projected amounts — future outcomes dependent on assumptions.
+
+Even after somebody dies, some allocations remain model-dependent because there is no individually metered bill for every public good.
+
+The final historical record can, however, replace most of the biographical guesswork.
+
+Actual earnings replace assumed earnings.
+
+Actual retirement duration replaces assumed retirement duration.
+
+Actual medical history replaces an average-health trajectory where attributable cost information is available.
+
+Actual residence replaces migration assumptions.
+
+Relevant final taxes and estate liabilities can be included according to the chosen boundary.
+
+Death, in other words, finally resolves several variables.
+
+A slightly severe audit process, admittedly.
+
+⸻
+
+15. Conclusion: show the ledger
+
+A person can unquestionably pay more into the public finances than the expenditure attributed to them.
+
+Another person can unquestionably receive more attributable expenditure than they pay.
+
+Neither proposition is controversial.
+
+Establishing which description applies to a particular person across an entire life, however, requires an actual lifetime account.
+
+A current salary does not perform that calculation.
+
+A job title does not perform it.
+
+The words “I pay tax” do not perform it.
+
+The market value of somebody’s house does not perform it.
+
+Nor can the missing revenue be obtained by awarding somebody the taxes paid by patients, pupils, customers, employees or children while allowing those same receipts to remain fully credited in the original taxpayers’ accounts.
+
+Economic contribution can be enormous without being the same quantity as personal tax paid.
+
+Public-sector employment can create enormous value without turning payroll taxation into revenue that arose independently of the payroll expenditure.
+
+Children can become future taxpayers without retroactively deleting their childhood expenditure.
+
+A healthy high earner can develop an expensive illness.
+
+A pensioner can have the audacity to continue existing.
+
+A British child can grow up and pay their taxes somewhere else.
+
+And two people currently earning £75,000 can arrive at that salary through careers whose cumulative tax payments differ by hundreds of thousands of pounds.
+
+That is why “net contributor” is not a salary band.
+
+It is the sign on the bottom of a ledger after the accounting boundary, period, allocations and assumptions have been defined.
+
+The lion may talk.
+
+The witch may perform magic.
+
+The wardrobe may contain an entire parallel universe.
+
+The Treasury still requires its columns to reconcile.
+
+Until they do,
+
+“I pay more in than I take out”
+
+is not a completed calculation.
+
+It is a proposition awaiting its accounts.
+
+Show the ledger.
+
+Leave the wardrobe out of it.
