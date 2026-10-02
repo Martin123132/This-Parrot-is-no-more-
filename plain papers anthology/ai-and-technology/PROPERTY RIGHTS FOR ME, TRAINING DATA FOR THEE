@@ -1,0 +1,604 @@
+
+PROPERTY RIGHTS FOR ME, TRAINING DATA FOR THEE
+
+Data Appropriation, Regulatory Moats, and the Infrastructure Protection Paradox of Generative AI
+
+Subject: AI Governance / Intellectual Property / Competition Policy / Satirical Political Economy
+Date: October 2026
+
+⸻
+
+Abstract
+
+Generative artificial intelligence has produced an unusual theory of property.
+
+When books, journalism, illustrations, software, photographs, websites, game assets and other human-created works are available on the open internet, AI developers frequently describe large-scale ingestion of those materials using terms such as training, learning, scraping, transformation and fair use. When the resulting AI systems themselves become economically valuable, however, the vocabulary changes abruptly. Copying becomes model extraction. Learning from outputs becomes distillation attack. Automated collection becomes unauthorised extraction. Reverse engineering becomes prohibited. Infrastructure becomes strategically sensitive. Model weights become national-security assets.
+
+This paper calls this asymmetry the Infrastructure Protection Paradox:
+
+The AI industry developed by treating enormous quantities of other people’s informational property as raw material while increasingly demanding strong contractual, technological and governmental protection against other actors treating AI systems in the same way.
+
+The argument is not that AI companies possess no legal rights. Nor does it assume that every instance of AI training constitutes copyright infringement; that question remains contested and jurisdiction-specific. The narrower and stronger claim is one of reciprocity and legitimacy. If large-scale appropriation is justified by innovation, transformation and learning when performed by frontier laboratories, a principled explanation is required for why analogous extraction becomes unacceptable once the laboratory owns the valuable object.
+
+The tension becomes particularly acute as frontier laboratories simultaneously advocate mandatory AI regulation that, whatever its safety rationale, imposes fixed compliance costs that established firms are unusually well positioned to absorb.
+
+The result is a curious property regime:
+
+everything is potentially training data until it becomes ours.
+Once it becomes ours, please call Congress.
+
+⸻
+
+1. Introduction: The One-Way Property Regime
+
+Generative AI did not emerge in an informational vacuum.
+
+Modern foundation models were developed using extraordinary quantities of text, images, code and other digital material. The UK Government’s 2026 copyright report states plainly that AI developers and dataset suppliers have used web crawlers to scrape large volumes of online content and that a significant proportion of scraped material is protected by copyright and related rights. It also notes that developers often provide limited disclosure of the works used, making it difficult for rights holders even to determine whether their material entered a training dataset. 
+
+This is an extraordinary starting position for an industry increasingly concerned about the sanctity of its own intellectual assets.
+
+OpenAI’s current terms prohibit customers from reverse-engineering its systems, programmatically extracting data or outputs, and using outputs to develop competing models. Its business agreement goes further and expressly defines model extraction and “stealing attacks” as prohibited reverse engineering. 
+
+Anthropic likewise publicly describes large-scale competitor distillation as “illicit” when rivals use Claude outputs to improve their models. Anthropic states that DeepSeek, Moonshot and MiniMax generated more than 16 million Claude exchanges through roughly 24,000 accounts in alleged violation of its terms and regional restrictions. Intriguingly, Anthropic also acknowledges that distillation itself is a legitimate and widely used training method when laboratories perform it on their own models. 
+
+The resulting distinction is elegant:
+
+When we learn from your work, it is machine learning.
+When you learn from our machine, it is model theft.
+
+This paper asks whether that distinction can be defended as a coherent principle rather than merely as ownership wearing a lab coat.
+
+⸻
+
+2. Terminology: “Theft” Is Rhetorical; Copying Is Legally Complicated
+
+Before proceeding, one distinction matters.
+
+“Data theft” is used in this paper as a description of the political-economic grievance: valuable works being copied or consumed without the creator’s permission or remuneration.
+
+It is not a claim that every act of web scraping legally constitutes criminal theft.
+
+Copyright law is more complicated. Different jurisdictions have different exceptions; US fair-use doctrine is fact-specific; UK law currently remains contested in relation to AI training; contractual rights, database rights, technological protection measures and lawful access introduce further distinctions.
+
+The UK Government said in March 2026 that the application of existing copyright law to AI training remains disputed and expressly declined to rush reform while evidence was still developing. 
+
+US courts are also drawing lines rather than announcing a universal exemption. In the Anthropic litigation, a court treated training on lawfully obtained books as fair use while distinguishing the company’s acquisition and retention of pirated copies; Anthropic ultimately reached a $1.5 billion settlement with authors concerning pirated books. 
+
+Separately, the Third Circuit has now upheld Thomson Reuters’ copyright victory against Ross Intelligence over copying Westlaw headnotes to develop an AI legal-search product. That case is not directly controlling for generative LLMs, but it demonstrates that adding the words AI training does not automatically transform copying into fair use. 
+
+Meanwhile, the consolidated New York litigation against OpenAI and Microsoft remains a major unresolved test of whether unauthorised use of books and journalism for generative-model training is protected as transformative fair use. 
+
+The defensible statement is therefore not:
+
+“Every AI company has been legally found guilty of stealing everything.”
+
+It is:
+
+“The industry built models using vast quantities of third-party material under legal theories that remain heavily contested, while simultaneously constructing extremely strong legal and contractual barriers around extraction from its own products.”
+
+That asymmetry exists regardless of how the pending copyright cases ultimately resolve.
+
+⸻
+
+3. The Vocabulary Transformation Machine
+
+Consider the linguistic transformation that occurs when ownership changes.
+
+Activity	When performed on creators’ material	When performed on frontier models
+Automated collection	Scraping	Unauthorised extraction
+Learning statistical structure	Training	Capability theft
+Using examples to improve a system	Machine learning	Distillation attack
+Studying functionality	Research	Reverse engineering
+Replicating useful behaviour	Transformation	Competitive model extraction
+Copying at immense scale	Dataset creation	Security incident
+
+This is not merely satire.
+
+OpenAI contracts expressly forbid using outputs to build competing AI models, extracting service data outside permitted methods, and attempting to discover underlying components of its models and systems. 
+
+Anthropic’s February 2026 statement similarly objects that competitors can acquire capabilities far more cheaply than developing them independently by training on Claude outputs. 
+
+That sentence deserves attention.
+
+Because it is exceptionally close to the economic complaint made by writers, artists, programmers and publishers:
+
+Someone can obtain the economically useful product of years of human work far more cheaply than recreating that knowledge independently.
+
+When the affected party is a novelist, this may be described as transformative learning.
+
+When the affected party owns a frontier model, it becomes industrial extraction.
+
+The similarity does not prove legal equivalence. Models involve contractual access, authentication systems, trade secrets and security concerns that an openly accessible webpage may not.
+
+But those differences must be articulated, not assumed.
+
+The burden is therefore straightforward:
+
+Identify the principle that makes one form of uncompensated learning legitimate and the other illegitimate, without defining the principle as “because we own the second thing.”
+
+⸻
+
+4. Exhibits From the Output Layer: Apparently Copyright Is a Vibe
+
+The examples accompanying this paper make the asymmetry more visually obvious.
+
+The supplied material includes claimed AI-generated or AI-assisted outputs involving:
+
+* a Sonic game environment and character;
+* a Pokémon battle application containing recognisable Pokémon characters;
+* an AI-built Superman scene explicitly requested to resemble a Zack Snyder film;
+* a browser-playable recreation of Grand Theft Auto: Vice City;
+* a comic using recognisable Powerpuff Girls characters and visual language;
+* an OpenAI-themed comic using recognisable Beavis and Butt-Head characters;
+* another comic using recognisable Ren & Stimpy characters.
+
+These screenshots do not prove that any particular copyrighted image was contained in a training set. Nor, standing alone, do they establish legal infringement.
+
+They demonstrate something narrower but important:
+
+the product layer is plainly capable of producing highly recognisable expressions based on valuable third-party franchises and characters.
+
+That matters because modern AI companies are not merely passive research laboratories accidentally discovering copyright law.
+
+They operate commercial systems capable of generating material that competes in cultural and creative markets while simultaneously telling users that infringement of third-party rights is prohibited.
+
+OpenAI’s own terms require users not to violate other people’s rights. Its current API terms even include an IP indemnity for some third-party infringement claims arising from model output, subject to important exclusions. 
+
+In other words, the company recognises that output-side IP risk is real enough to:
+
+1. regulate contractually,
+2. allocate liability for it,
+3. build filtering systems around it,
+4. and sell enterprise assurances concerning it.
+
+This is not a mysterious problem nobody has noticed.
+
+It is a commercial risk already priced into the product.
+
+⸻
+
+5. The Pirated Library Problem
+
+The Anthropic litigation provides an unusually clean example of why acquisition method matters.
+
+In 2025, the court distinguished between:
+
+* training a model on lawfully acquired copyrighted books, which it considered capable of constituting fair use;
+* and maintaining a library acquired through piracy.
+
+The latter created separate copyright exposure, culminating in a settlement approved in July 2026 worth approximately $1.5 billion. 
+
+This distinction is devastating to simplistic rhetoric from either side.
+
+It means:
+
+“AI training is always theft”
+
+is too broad.
+
+But so is:
+
+“Training is transformative, therefore provenance doesn’t matter.”
+
+Apparently provenance matters enormously when the source copy itself was unlawfully acquired.
+
+That leads naturally to the principle this paper proposes:
+
+The Lawful Input Principle
+
+If an AI developer wishes to claim legal privileges associated with transformative machine learning, it should first be able to establish that the material entered the pipeline through a legally defensible channel.
+
+Transformation should not operate as a metaphysical washing machine into which unlawfully acquired material enters at one end and emerges as innocent mathematics at the other.
+
+⸻
+
+6. The Transparency Asymmetry
+
+Creators face another problem that frontier laboratories generally do not: they frequently cannot determine whether their work was used at all.
+
+The UK Government’s 2026 report identified this explicitly as an information asymmetry. Developers know what they collected. Rights holders frequently do not know whether their work was included, where it was obtained, or whether they have a viable claim. 
+
+That asymmetry radically alters enforcement.
+
+Suppose an author believes a model may have consumed her novel.
+
+To investigate she may need:
+
+* knowledge of training datasets;
+* crawler logs;
+* acquisition dates;
+* dataset lineage;
+* model-development documentation;
+* potentially expensive litigation merely to obtain discovery.
+
+Now invert the relationship.
+
+Suppose a competitor generates millions of queries against Claude to train another model.
+
+Anthropic can see:
+
+* the accounts;
+* the request volume;
+* the output;
+* the traffic pattern;
+* the geographical origin;
+* the authentication method;
+* the suspected extraction campaign.
+
+It can identify the behaviour, block the accounts and publicly describe the activity as illicit. 
+
+One side possesses telemetry.
+
+The other possesses suspicions.
+
+This makes the argument that creators should simply “enforce their existing rights” rather hollow when the architecture prevents them from determining whether those rights have been implicated in the first place.
+
+⸻
+
+7. The Infrastructure Protection Paradox
+
+We can now formalise the paradox.
+
+Let:
+
+H = \text{human-created informational capital}
+
+and
+
+M = \text{model-created informational capital}.
+
+The permissive AI-training position frequently treats transformation
+
+H \rightarrow M
+
+as socially beneficial because the resulting model does not merely store the original works but learns statistical structure from them.
+
+Now consider a competitor performing:
+
+M \rightarrow M_2
+
+through extensive output distillation.
+
+The competitor can make an almost identical argument:
+
+* it does not merely copy outputs;
+* it extracts statistical behaviour;
+* it learns patterns;
+* the resulting model has different weights;
+* it produces new outputs;
+* its model is therefore transformative.
+
+Yet frontier laboratories generally reject this argument when the input object is their own model.
+
+That does not mean they are legally wrong. Contract violation, circumvention, fraudulent accounts, trade-secret law and cybersecurity can produce materially different legal results.
+
+It means the conceptual justification changes precisely at the boundary of ownership.
+
+Hence the Infrastructure Protection Paradox:
+
+Statistical abstraction is invoked as a defence against property claims downstream from human creators, while statistical abstraction is treated as appropriation when performed downstream from frontier models.
+
+A theory of property that changes depending on whose server rack contains the valuable object is not yet a theory.
+
+It is a business model.
+
+⸻
+
+8. Regulation Enters the Chat
+
+The paradox becomes more interesting when frontier laboratories ask governments to regulate the industry.
+
+OpenAI announced in September 2026 that it was pushing for mandatory national AI safety requirements, including capability-based regulation and support for independent assessment infrastructure. 
+
+There may be perfectly serious safety reasons for such rules.
+
+But regulation also has an unavoidable industrial effect.
+
+Mandatory audits, cybersecurity controls, incident reporting, safety evaluations, lawyers, compliance departments and certification infrastructure create fixed costs.
+
+An incumbent with billions in revenue, existing safety teams and established governmental relationships can spread those fixed costs across a huge customer base.
+
+A new entrant cannot.
+
+The mechanism is elementary:
+
+\text{Mandatory compliance}
+\rightarrow
+\text{fixed cost}
+\rightarrow
+\text{higher entry threshold}
+\rightarrow
+\text{reduced challenger advantage}.
+
+This does not establish improper motive.
+
+It establishes an economic consequence.
+
+And the consequence becomes particularly important when the challenger is a Chinese laboratory attempting to compete through dramatically lower training or inference cost.
+
+If a regulatory system forces the challenger to reproduce the expensive institutional layer already maintained by American incumbents, then regulation functions — intentionally or otherwise — as a competitive moat.
+
+Safety regulation can therefore be both:
+
+* genuinely motivated by risk;
+* and commercially protective of incumbents.
+
+There is no logical contradiction between those propositions.
+
+⸻
+
+9. The Sacred Model Weights
+
+The industry’s rhetoric becomes particularly striking around model weights.
+
+American policymakers increasingly describe frontier model weights as strategically sensitive assets whose loss to foreign competitors could compromise national technological leadership. Reuters reported this week that lawmakers have asked major AI companies for details of attempted Chinese access to their sensitive model code and weights. 
+
+Again, there may be extremely good national-security reasons for that concern.
+
+But consider the cultural symmetry.
+
+Human society produced:
+
+* books,
+* software,
+* journalism,
+* scientific literature,
+* photographs,
+* illustrations,
+* music,
+* websites,
+* games,
+* discussion forums,
+
+over decades and centuries.
+
+Much of this becomes training material.
+
+After enough of it passes through GPUs and becomes model weights, the resulting statistical object becomes:
+
+strategic infrastructure which must be protected from extraction.
+
+Apparently information enjoys a remarkable property transformation during gradient descent.
+
+Before training:
+
+culture.
+
+After training:
+
+critical national infrastructure.
+
+⸻
+
+10. “But It Was Publicly Accessible”
+
+One of the weakest moral arguments in this debate is that publicly accessible information is therefore available for unrestricted computational appropriation.
+
+The UK Government’s analysis directly rejects that simplification: publicly available material online may still be protected by copyright, and weak technical exclusion mechanisms can create a market failure because right holders struggle to prevent copying or obtain remuneration. 
+
+Public accessibility is not equivalent to abandonment of rights.
+
+A painting displayed in a gallery is publicly accessible.
+
+A book placed in a library is publicly accessible.
+
+A website is publicly accessible.
+
+None of those facts independently transfers ownership.
+
+The internet unfortunately created a cultural assumption that machine readability equals ownerlessness.
+
+AI scaled that assumption from search indexing to industrial production.
+
+⸻
+
+11. The Terms-of-Service Comedy
+
+The clearest satire is supplied by the contracts themselves.
+
+OpenAI tells its users:
+
+* do not infringe other people’s rights;
+* do not copy or distribute our service;
+* do not reverse engineer our system;
+* do not automatically extract our output;
+* do not use our output to train a competing model. 
+
+This is a perfectly intelligible commercial position.
+
+It is also astonishingly close to the position creators have spent years asking AI developers to respect:
+
+Do not copy my work without permission.
+Do not use it to build a competing commercial product.
+Do not extract its economic value at industrial scale.
+
+One cannot help admiring the speed with which Silicon Valley rediscovered intellectual-property theory immediately after acquiring intellectual property worth protecting.
+
+⸻
+
+12. Do AI Companies Have a Right to Protection?
+
+Legally: yes.
+
+Even a company found to have violated somebody else’s copyright does not lose all rights to its own property.
+
+There is no coherent legal principle saying:
+
+“You infringed copyright once, therefore everyone may now steal your servers.”
+
+Model weights may constitute trade secrets. Infrastructure can be protected by computer-misuse law, contract, confidentiality, cybersecurity law, copyright in software and other legal doctrines.
+
+The serious challenge is therefore not forfeiture.
+
+It is reciprocity.
+
+AI firms should be entitled to protection.
+
+But they should have to explain why creators deserve materially weaker protection against the same underlying economic phenomenon:
+
+another party using your expensive intellectual work as an input to build something cheaper that competes with you.
+
+If the answer is “because ours is technically different,” specify exactly which difference matters.
+
+If the answer is “because our terms forbid it,” explain why website terms, rights reservations and crawler exclusions should not receive comparable respect.
+
+If the answer is “because model extraction damages our market,” acknowledge that market substitution is precisely one of the harms creators allege from generative AI.
+
+If the answer is “because we invested billions,” remember that human culture did not materialise free of investment either.
+
+⸻
+
+13. A Reciprocity Standard
+
+The solution is not to prohibit machine learning.
+
+It is to stop operating two theories of property simultaneously.
+
+A coherent regime could contain several principles.
+
+13.1 Lawful acquisition
+
+Training safe harbours should depend upon legally defensible acquisition of source material.
+
+No “pirated first, transform later” defence.
+
+13.2 Meaningful provenance transparency
+
+Developers need not publish proprietary recipes, but independent regulators should be capable of auditing major training sources.
+
+A creator cannot exercise rights against a process they are prohibited from seeing.
+
+13.3 Machine-readable rights reservations that actually work
+
+If AI firms expect their API terms, anti-bot measures and regional restrictions to be respected, they should support reliable technical systems through which creators can reserve equivalent rights.
+
+13.4 Symmetrical market-harm analysis
+
+If extracting Claude’s capabilities cheaply harms Anthropic because a rival can avoid the original development cost, then the same economic concept should at least be considered when AI substitutes for books, art, software or journalism used to build it.
+
+13.5 Competition review of AI safety rules
+
+Every major AI regulation should include an assessment of whether its compliance costs disproportionately entrench incumbent laboratories.
+
+Safety regulation should protect society, not quietly become the world’s most expensive bouncer.
+
+13.6 Output-side responsibility
+
+When systems can readily generate recognisable commercial characters, franchises and derivative media, providers cannot plausibly treat all resulting IP risk as an unforeseeable eccentricity of users.
+
+The examples supplied with this paper make that proposition difficult to take seriously.
+
+⸻
+
+14. The Philosophical Problem: Property Apparently Begins at the Data Centre Fence
+
+The deepest contradiction is not legal but philosophical.
+
+The generative-AI economy implicitly asks society to accept three propositions:
+
+1. Human culture is sufficiently collective that vast portions may be computationally learned from.
+2. The statistical product created from that collective culture is sufficiently proprietary that copying it must be prevented.
+3. Government should help enforce proposition two while remaining extremely cautious about enforcing proposition one in the opposite direction.
+
+This is a remarkably convenient metaphysics.
+
+Culture is communal on ingestion.
+
+Capital is private on output.
+
+⸻
+
+15. The “Innovation” Escape Hatch
+
+The predictable response is that restricting training would inhibit innovation.
+
+Certainly it might.
+
+Licensing costs money.
+
+Provenance costs money.
+
+Auditing costs money.
+
+Paying people generally costs more than not paying them.
+
+But “it would make my business more expensive” is not normally a complete response to a property-right claim.
+
+Indeed, when Chinese competitors allegedly distilled Claude at lower cost, Anthropic’s objection was essentially that they could acquire expensive capabilities without bearing the full original development expense. 
+
+The creator’s answer writes itself:
+
+Yes. We know the feeling.
+
+⸻
+
+16. The Strange Case of the Protected Copier
+
+The modern frontier AI company increasingly occupies four positions simultaneously:
+
+As collector:
+Public information should remain available for machine learning.
+
+As defendant:
+Training is transformative and socially beneficial.
+
+As property owner:
+Model extraction, reverse engineering and competitive distillation must be prohibited.
+
+As lobbyist:
+Government should establish mandatory safety and security frameworks around frontier AI.
+
+None of those positions is independently absurd.
+
+Together they require considerably more philosophical work than the industry has so far supplied.
+
+Without that work, the apparent rule becomes:
+
+Copy upward, regulate downward.
+
+⸻
+
+17. Conclusion: Please Respect the Property Sign on the Data Centre
+
+This paper does not argue that model weights should be stolen.
+
+It argues something considerably more inconvenient:
+
+AI companies are right that valuable intellectual infrastructure deserves protection.
+
+They have simply arrived at that insight remarkably late — approximately at the moment the valuable intellectual infrastructure became theirs.
+
+The correct response is therefore not to remove protection from AI laboratories.
+
+It is to apply the principle consistently.
+
+If provenance matters for model extraction, provenance matters for training data.
+
+If unauthorised economic appropriation matters when a competitor distils Claude, it deserves consideration when a model absorbs human-created work.
+
+If terms governing automated extraction deserve respect, machine-readable creator reservations deserve respect.
+
+If investments of billions create legitimate expectations of protection, investments of entire careers do not become worthless because they are distributed across millions of individual creators.
+
+And if AI companies want governments to protect the extraordinary intellectual assets built inside their data centres, they should perhaps avoid constructing a legal philosophy in which property rights mysteriously become sacred only after crossing the data-centre threshold.
+
+The proposition is not anti-AI.
+
+It is simpler:
+
+You may have intellectual property.
+So may everybody else.
+
+Or, translated into the current industrial dialect:
+
+Scraping is learning.
+Distillation is theft.
+Copyright is complicated.
+Model weights are sacred.
+Please enjoy the future responsibly.
+
+⸻
+
+References
+
+The central legal and policy sources supporting the paper include the UK Government’s Report on Copyright and Artificial Intelligence and accompanying Impact Assessment; OpenAI’s current Terms of Use, Services Agreement and September 2026 policy proposals; Anthropic’s February 2026 disclosure on competitor distillation; the US Copyright Office’s continuing AI copyright study; and current federal copyright litigation involving Anthropic, OpenAI, Microsoft, Thomson Reuters and rights holders.
